@@ -32,6 +32,7 @@
   --link-hover: var(--resica-blue);
   --blockquote-text: var(--resica-black);
   --blockquote-background: #EDEDED;
+  --card-background: #EDEDED;
   --alert-primary-text: var(--resica-black);
   --alert-primary-link: var(--resica-black);
   --alert-primary-link-hover: var(--site-grey);
@@ -125,6 +126,9 @@ iframe {
   text-align: center;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+}
+.card{
+  background-color: var(--card-background);
 }
 .text-primary{
   color: var(--page-text) !important;
