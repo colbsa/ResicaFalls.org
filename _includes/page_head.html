@@ -50,7 +50,9 @@
 <body>
 <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light" id="mainNav">
   <div class="container">
-      {% picture logo /img/logo.png --img class="logo" --alt Musser Scout Reservation Logo --link {{ site.url }} --a class="navbar-brand" %}
+      <span class="navbar navbar-brand">
+        {% include logo10.svg %}
+      </span>      
       <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <i class="fa fa-bars"></i>
       </button>
