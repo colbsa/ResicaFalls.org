@@ -1,7 +1,7 @@
 ---
 title: Meet the Team
 layout: page
-permalink: /about/meet-the-team
+permalink: /meet-the-team
 excerpt: It takes a dedicated team to run a summer; meet them here!
 ---
 
