@@ -348,6 +348,9 @@ ul.footer-links li:hover * {
   color: var(--footer-link-hover);
 }
 
+.footer-logo{
+  padding-top: 1rem;
+}
 .list-group > .list-group-item > .fa.fa-chevron-right {
   float: right;
 }
