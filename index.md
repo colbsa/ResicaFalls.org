@@ -15,5 +15,6 @@ button-bar:
 quick-links:
   Register for Summer Camp: /summer/register
   Weekend Rentals: /rentals/facilities
+  Resica Falls Trading Post: /store
   Contact Us: /contact
 ---
