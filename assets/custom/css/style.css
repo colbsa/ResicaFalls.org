@@ -30,7 +30,8 @@
   --nav-links-hover: var(--site-white);
   --link: var(--resica-blue);
   --link-hover: var(--resica-blue);
-  --blockquote: #868e96;
+  --blockquote-text: var(--resica-black);
+  --blockquote-background: #EDEDED;
   --alert-primary-text: var(--resica-black);
   --alert-primary-link: var(--resica-black);
   --alert-primary-link-hover: var(--site-grey);
@@ -70,7 +71,6 @@ p {
   margin: 30px 0;
 }
 h1, h2, h3 {
-  font-weight: 800;
   font-family: 'bebas-neue', serif;
 }
 h4, h5, h6 {
@@ -90,9 +90,17 @@ a:focus, a:hover {
   text-decoration: none;
   color: var(--link-hover)
 }
-blockquote {
+blockquote{
   font-style: italic;
-  color: var(--blockquote);
+  color: var(--blockquote-text);
+  padding:1em;
+  border-left:8px solid var(--resica-yellow) ;
+  background: var(--blockquote-background);
+}
+.hero {
+  font-size: 4rem;
+  font-style: italic;
+  color: var(--resica-black);
 }
 iframe {
   margin-bottom: 0.5rem;
@@ -293,7 +301,6 @@ footer .list-inline {
 }
 
 .footer h4 {
-  font-weight: 600;
   margin-top: 10px;
   font-family: 'bebas-neue', serif;
 }
