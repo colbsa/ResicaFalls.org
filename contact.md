@@ -51,11 +51,10 @@ scripts:
       <a href="resicafalls.org">ResicaFalls.org</a><br>
       <a href="mailto:hello@ResicaFalls.org">hello@ResicaFalls.org</a>
     </address>
-    <h3>Phone Numbers</h3>
+    <h2>Phone Numbers</h2>
     <address>
       Phone: (570) 223-8312<br>
       Fax: (610) 668-2951
     </address>
-    <h3><a href="/meet-the-team">Meet the Team!</a></h3>
   </div>
 </div>
