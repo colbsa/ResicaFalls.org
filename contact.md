@@ -10,7 +10,7 @@ scripts:
 ---
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-12 col-md-8">
     <h2>Send a Message</h2>
     <form id="contactform" onsubmit="event.preventDefault();" novalidate>
       <div class="form-group">
@@ -27,7 +27,7 @@ scripts:
       </div>
       <div class="form-group">
         <label for="message">Message</label>
-        <textarea class="form-control" name="message" id="contactform-message" rows="12" required></textarea>
+        <textarea class="form-control" name="message" id="contactform-message" rows="6" required></textarea>
       </div>
       <div class="g-recaptcha"
         data-sitekey="{{ site.recaptcha }}"
@@ -42,7 +42,7 @@ scripts:
       </div>
     </form>
   </div>
-  <div class="col-md-6">
+  <div class="col-12 col-md-4">
     <h2>Contact Info</h2>
     <address>
       <strong>Resica Falls Scout Reservation</strong><br>
