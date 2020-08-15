@@ -2,8 +2,8 @@ $(function() {
   var recipient = getUrlParams('recipient');
   var message = getUrlParams('message');
   if (recipient.length > 1){
-    $("#contactform-recipient").replaceWith("<input type=\"text\" class=\"form-control\" name=\"recipient\" id=\"requested_email\" placeholder=\"\" value=\"" + recipient + "\" disabled required>")
-    $("#contactform-recipient").parent().removeClass("d-none");
+    $("#contactform-recipient").val(recipient);
+    $("#contactform-recipient").parent("div").removeClass("d-none");
     if (message.length > 1)
       $("#contactform-message").text(message);
   }
