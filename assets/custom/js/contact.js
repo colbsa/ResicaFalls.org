@@ -1,8 +1,9 @@
 $(function() {
-  var subject = getUrlParams('subject');
+  var recipient = getUrlParams('recipient');
   var message = getUrlParams('message');
-  if (subject.length > 1){
-    $("#contactform-subject").replaceWith("<input type=\"text\" class=\"form-control\" name=\"subject\" id=\"requested_subject\" placeholder=\"\" value=\"" + subject + "\" disabled required>")
+  if (recipient.length > 1){
+    $("#contactform-recipient").replaceWith("<input type=\"text\" class=\"form-control\" name=\"recipient\" id=\"requested_email\" placeholder=\"\" value=\"" + recipient + "\" disabled required>")
+    $("#contactform-recipient").removeClass("hidden");
     if (message.length > 1)
       $("#contactform-message").text(message);
   }
@@ -28,9 +29,6 @@ $("#contactform").validate({
       required: true,
       email: true
     },
-    subject: {
-      required: true,
-    },
     message: {
       required: true,
       minlength: 5
@@ -38,7 +36,6 @@ $("#contactform").validate({
   },
   messages: {
     name: "Please tell us your name.",
-    subject: "Please select a subject.",
     email: {
       required: "Please give us your email address.",
       email: "Please put your email address in the format of name@example.com"
@@ -62,7 +59,7 @@ function ContactUs() {
   ContactUsAlert(alert_class, alert_headline, alert_text)
   $("#contactform-name").prop('disabled', true);
   $("#contactform-email").prop('disabled', true);
-  $("#contactform-subject").prop('disabled', true);
+  $("#contactform-recipient").prop('disabled', true);
   $("#contactform-message").prop('disabled', true);
   $("#contactform-send").prop('disabled', true);
   $.ajax({
