@@ -3,7 +3,7 @@ $(function() {
   var message = getUrlParams('message');
   if (recipient.length > 1){
     $("#contactform-recipient").val(recipient);
-    $("#contactform-recipient").parent("div").removeClass("d-none");
+    $("#contactform-recipient").closest("div").removeClass("d-none");
     if (message.length > 1)
       $("#contactform-message").text(message);
   }
