@@ -21,7 +21,7 @@ scripts:
         <label for="email">Email</label>
         <input type="email" class="form-control" name="email" id="contactform-email" placeholder="" value="" required>
       </div>
-      <div class="form-group hidden">
+      <div class="form-group d-none">
         <label for="recipient">Recipient</label>
         <input type="recipient" class="form-control" name="recipient" id="contactform-recipient" placeholder="" value="webmaster@resicafalls.org" disabled>
       </div>

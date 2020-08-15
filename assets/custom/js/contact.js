@@ -3,7 +3,7 @@ $(function() {
   var message = getUrlParams('message');
   if (recipient.length > 1){
     $("#contactform-recipient").replaceWith("<input type=\"text\" class=\"form-control\" name=\"recipient\" id=\"requested_email\" placeholder=\"\" value=\"" + recipient + "\" disabled required>")
-    $("#contactform-recipient").removeClass("hidden");
+    $("#contactform-recipient").parent().removeClass("d-none");
     if (message.length > 1)
       $("#contactform-message").text(message);
   }
