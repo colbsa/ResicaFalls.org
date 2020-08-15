@@ -24,7 +24,7 @@ $emailnames['chris.brenner@resicafalls.org'] = "Chris Brenner";
 $emailnames['john.bickel@scouting.org'] = "John Bickel";
 $emailnames['ted.mcdonald@resicafalls.org'] = "Ted McDonald";
 $emailnames['camping@scouting.org'] = "Camping Office";
-$emailnames['webmaster@resicafalls.org'] = "ResicaFalls.org Webmaster";
+$emailnames['hello@resicafalls.org'] = "ResicaFalls.org Customer Support";
 
 /* * * * * * * * * * * * * * * * * * *
  *    COLLECT HTML FORM POST DATA    *
@@ -87,7 +87,7 @@ if(!isset($error_text))
   }
   $mailgun['to_field'] .= "<" . $user_data['recipient'] . ">, ResicaFalls.org Contact Form<contact_form@resicafalls.org>";
 
-  $mailgun['subject'] .= $user_data['recipient'] . " From: " . $user_data['name'];
+  $mailgun['subject'] .= $user_data['name'];
 
   $send_text = "The following was submitted to ResicaFalls.org/contact." .
     PHP_EOL . PHP_EOL . $user_data['message'] . PHP_EOL . PHP_EOL . $user_data['name'] . PHP_EOL . $user_data['email'];
@@ -97,7 +97,7 @@ if(!isset($error_text))
   $mg->messages()->send($mailgun['domain'], [
     'from'        => $mailgun['from'],
     'to'          => $mailgun['to_field'],
-    'h:Reply-To'  => $user_data['name'] . " <" . $user_data['email'] . ">, Communications Committee <communications@" . $mailgun['domain'] . ">",
+    'h:Reply-To'  => $user_data['name'] . " <" . $user_data['email'] . ">, ResicaFalls.org Contact Form<contact_form@resicafalls.org>",
     'subject'     => $mailgun['subject'],
     'text'        => $send_text
   ]);

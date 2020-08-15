@@ -23,7 +23,7 @@ scripts:
       </div>
       <div class="form-group d-none">
         <label for="recipient">Recipient</label>
-        <input type="recipient" class="form-control" name="recipient" id="contactform-recipient" placeholder="" value="webmaster@resicafalls.org" disabled>
+        <input type="recipient" class="form-control" name="recipient" id="contactform-recipient" placeholder="" value="hello@resicafalls.org" disabled>
       </div>
       <div class="form-group">
         <label for="message">Message</label>
