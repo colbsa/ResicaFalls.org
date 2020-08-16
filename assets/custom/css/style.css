@@ -147,7 +147,7 @@ iframe {
   font-weight: bold;
   font-style: italic;
 }
-.alert-primary a:hover, .alert-primary a:focus, {
+.alert-primary a:hover, .alert-primary a:focus {
   color: var(--alert-primary-link-hover);
   font-weight: bold;
   font-style: italic;
