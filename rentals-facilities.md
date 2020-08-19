@@ -42,7 +42,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
 {% assign resica_cap = firestone_cap | plus: springs_cap %}
 
 <div class="row">
-  <div class="col-md-4">
+  <div class="col-lg-6">
     <h2>Campsites</h2>
     <table class="table table-striped table-responsive" id="campsitesTable">
       <thead>
@@ -76,7 +76,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
       </tfoot>
     </table>
   </div>
-  <div class="col-md-8">
+  <div class="col-lg-6">
     <h2>Lodges</h2>
     <table class="table table-striped table-responsive" id="lodgesTable">
       <thead>
