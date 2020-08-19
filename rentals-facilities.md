@@ -3,11 +3,6 @@ title: Reserve a Facility
 layout: page
 permalink: /rentals/facilities
 excerpt: Resica Falls Scout Reservation is home to many cabins and campsites available for rental throughout the year.
-dependencies:
-- src: //cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js
-- src: //cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js
-scripts: 
-- src: assets/custom/js/rentals-facilities.js
 
 ---
 
@@ -44,41 +39,44 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
 <div class="row">
   <div class="col-lg-6">
     <h2>Campsites</h2>
-    <table class="table table-striped table-responsive" id="campsitesTable">
+    <table class="table table-responsive table-sm">
       <thead>
         <tr class="text-nowrap">
           <th scope="col">Name</th>
-          <th scope="col">Camp</th>
           <th scope="col">Tent Platforms</th>
           <th scope="col">Adirondacks</th>
           <th scope="col">Pavilions</th>
         </tr>
       </thead>
       <tbody>
-      {% for facility in site.data.campsites %}
+        <tr>
+          <th scope="row" colspan="4" class="table-active text-center">Big Springs</th>
+        </tr>
+      {% for facility in springs_sites %}
         <tr>
           <td class="text-nowrap" scope="row">{{facility.name}}</td>
-          <td>{{facility.camp}}</td>
+          <td>{% if facility.platforms %}&check;{% endif %}</td>
+          <td>{% if facility.adirondacks %}&check;{% endif %}</td>
+          <td>{% if facility.pavilion %}&check;{% endif %}</td>
+        </tr>
+      {%- endfor -%}
+        <tr>
+          <th scope="row" colspan="4" class="table-active text-center">Firestone</th>
+        </tr>
+      {% for facility in firestone_sites %}
+        <tr>
+          <td class="text-nowrap" scope="row">{{facility.name}}</td>
           <td>{% if facility.platforms %}&check;{% endif %}</td>
           <td>{% if facility.adirondacks %}&check;{% endif %}</td>
           <td>{% if facility.pavilion %}&check;{% endif %}</td>
         </tr>
       {%- endfor -%}
       </tbody>
-      <tfoot>
-        <tr class="text-nowrap">
-          <th></th>
-          <th></th>
-          <th></th>
-          <th></th>
-          <th></th>
-        </tr>
-      </tfoot>
     </table>
   </div>
   <div class="col-lg-6">
     <h2>Lodges</h2>
-    <table class="table table-striped table-responsive" id="lodgesTable">
+    <table class="table table-responsive table-sm">
       <thead>
         <tr class="text-nowrap">
           <th scope="col">Name</th>
@@ -103,20 +101,9 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
         </tr>
       {%- endfor -%}
       </tbody>
-      <tfoot>
-        <tr class="text-nowrap">
-          <th></th>
-          <th></th>
-          <th></th>
-          <th></th>
-          <th></th>
-          <th></th>
-          <th></th>
-        </tr>
-      </tfoot>
     </table>
     <h2>Venues</h2>
-    <table class="table table-striped table-responsive">
+    <table class="table table-responsive table-sm">
       <thead>
         <tr class="text-nowrap">
           <th scope="col">Name</th>
