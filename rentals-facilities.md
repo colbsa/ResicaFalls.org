@@ -42,7 +42,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
     <table class="table table-responsive table-sm text-center">
       <thead>
         <tr class="text-nowrap">
-          <th scope="col">Name</th>
+          <th class="text-left" scope="col">Name</th>
           <th scope="col">Tent Platforms</th>
           <th scope="col">Adirondacks</th>
           <th scope="col">Pavilions</th>
@@ -50,22 +50,22 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
       </thead>
       <tbody>
         <tr>
-          <th scope="row" colspan="4" class="table-active text-center">Big Springs</th>
+          <th scope="row" colspan="4" class="table-active">Big Springs</th>
         </tr>
       {% for facility in springs_sites %}
         <tr>
-          <th class="text-nowrap" scope="row">{{facility.name}}</th>
+          <th class="text-nowrap text-left" scope="row">{{facility.name}}</th>
           <td>{% if facility.platforms %}<i class="fa fa-check"></i>{% endif %}</td>
           <td>{% if facility.adirondacks %}<i class="fa fa-check"></i>{% endif %}</td>
           <td>{% if facility.pavilion %}<i class="fa fa-check"></i>{% endif %}</td>
         </tr>
       {%- endfor -%}
         <tr>
-          <th scope="row" colspan="4" class="table-active text-center">Firestone</th>
+          <th scope="row" colspan="4" class="table-active">Firestone</th>
         </tr>
       {% for facility in firestone_sites %}
         <tr>
-          <th class="text-nowrap" scope="row">{{facility.name}}</th>
+          <th class="text-nowrap text-left" scope="row">{{facility.name}}</th>
           <td>{% if facility.platforms %}<i class="fa fa-check"></i>{% endif %}</td>
           <td>{% if facility.adirondacks %}<i class="fa fa-check"></i>{% endif %}</td>
           <td>{% if facility.pavilion %}<i class="fa fa-check"></i>{% endif %}</td>
@@ -79,7 +79,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
     <table class="table table-responsive table-sm text-center">
       <thead>
         <tr class="text-nowrap">
-          <th scope="col">Name</th>
+          <th class="text-left" scope="col">Name</th>
           <th scope="col"><abbr title="Capacity">Cap</abbr></th>
           <th scope="col">Cost</th>
           <th scope="col">Heat</th>
@@ -91,7 +91,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
       <tbody>
       {% for facility in site.data.lodges %}
         <tr>
-          <th class="text-nowrap" scope="row">{{facility.name}}</th>
+          <th class="text-nowrap text-left" scope="row">{{facility.name}}</th>
           <td>{{facility.capacity}}</td>
           <td>&dollar;{{facility.cost}}</td>
           <td>{% if facility.heat %}<i class="fa fa-check"></i>{% endif %}</td>
@@ -106,7 +106,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
     <table class="table table-responsive table-sm text-center">
       <thead>
         <tr class="text-nowrap">
-          <th scope="col">Name</th>
+          <th class="text-left" scope="col">Name</th>
           <th scope="col">Cost</th>
           <th scope="col"><abbr title="Cabins"><i class="fas fa-home"></i></abbr></th>
           <th scope="col"><abbr title="Campsites"><i class="fas fa-campground"></i></abbr></th>
@@ -115,28 +115,28 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
       </thead>
       <tbody>
         <tr>
-          <th scope="row">Resica Falls Scout Reservation</th>
+          <th class="text-left" scope="row">Resica Falls Scout Reservation</th>
           <td>&dollar;3000</td>
           <td>{{site.data.lodges.size}}</td>
           <td>{{site.data.campsites.size}}</td>
           <td>{{resica_cap | divided_by: 10 | round | times: 10}}</td>
         </tr>
         <tr>
-          <th scope="row">Big Springs Camp</th>
+          <th class="text-left" scope="row">Big Springs Camp</th>
           <td>&dollar;1500</td>
           <td>{{springs_lodges.size}}</td>
           <td>{{springs_sites.size}}</td>
           <td>{{springs_cap | divided_by: 10 | round | times: 10}}</td>
         </tr>
         <tr>
-          <th scope="row">Firestone Camp</th>
+          <th class="text-left" scope="row">Firestone Camp</th>
           <td>&dollar;1000</td>
           <td>{{firestone_lodges.size}}</td>
           <td>{{firestone_sites.size}}</td>
           <td>{{firestone_cap | divided_by: 10 | round | times: 10}}</td>
         </tr>
         <tr>
-          <th scope="row">Big Springs Dining Hall</th>
+          <th class="text-left" scope="row">Big Springs Dining Hall</th>
           <td>&dollar;125</td>
           <td></td>
           <td></td>
@@ -144,7 +144,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
           <td></td>
         </tr>
         <tr>
-          <th scope="row">Big Springs Dining Hall &amp; Kitchen</th>
+          <th class="text-left" scope="row">Big Springs Dining Hall &amp; Kitchen</th>
           <td>&dollar;250</td>
           <td></td>
           <td></td>
