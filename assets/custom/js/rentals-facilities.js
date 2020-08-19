@@ -1,22 +1,49 @@
 $(document).ready( function () {
-  var table = $('#facilitiesTable').DataTable();
+  var campsites = $('#campsitesTable').DataTable();
+  var lodges = $('#lodgesTable').DataTable();
 
-  table.columns().flatten().each( function ( colIdx ) {
+  campsites.columns().flatten().each( function ( colIdx ) {
     if (colIdx > 0) {
       // Create the select list and search operation
       var select = $('<select />')
         .appendTo(
-          table.column(colIdx).footer()
+          campsites.column(colIdx).footer()
         )
         .on( 'change', function () {
-          table
+          campsites
             .column( colIdx )
             .search( $(this).val() )
             .draw();
         } );
 
       // Get the search data for the first column and add to the select list
-      table
+      campsites
+        .column( colIdx )
+        .cache( 'search' )
+        .sort()
+        .unique()
+        .each( function ( d ) {
+          select.append( $('<option value="'+d+'">'+d+'</option>') );
+        } );
+    }
+  } );
+
+  lodges.columns().flatten().each( function ( colIdx ) {
+    if (colIdx > 0) {
+      // Create the select list and search operation
+      var select = $('<select />')
+        .appendTo(
+          lodges.column(colIdx).footer()
+        )
+        .on( 'change', function () {
+          lodges
+            .column( colIdx )
+            .search( $(this).val() )
+            .draw();
+        } );
+
+      // Get the search data for the first column and add to the select list
+      lodges
         .column( colIdx )
         .cache( 'search' )
         .sort()

@@ -1,0 +1,81 @@
+- name: Bear
+  camp: Big Springs
+  capacity: 24
+  cost: 300
+  heat: true
+  water: true
+  fireplace: true
+  woodstove: false
+  pairs: Pueblo and Unami Lodge
+- name: Brooks
+  camp: Big Springs
+  capacity: 14
+  cost: 100
+  heat: false
+  water: false
+  fireplace: true
+  woodstove: true
+  pairs: Chippewa and Cox Lodge
+- name: Bushkill
+  camp:
+  capacity: 32
+  cost: 325
+  heat: true
+  water: true
+  fireplace: true
+  woodstove: false
+  pairs: Family Cabins
+- name: Cox
+  camp: Big Springs
+  capacity: 14
+  cost: 100
+  heat: false
+  water: false
+  fireplace: true
+  woodstove: true
+  pairs: Chinook and Brooks Lodge
+- name: Family Cabin
+  camp:
+  capacity: 4
+  cost: 100
+  heat: true
+  water: true
+  fireplace: false
+  woodstove: false
+  pairs: Bushkill Lodge
+- name: Firestone
+  camp: Firestone
+  capacity: 40
+  cost: 325
+  heat: true
+  water: true
+  fireplace: true
+  woodstove: false
+  pairs:
+- name: Nunevilles
+  camp: Big Springs
+  capacity: 24
+  cost: 125
+  heat: true
+  water: false
+  fireplace: false
+  woodstove: false
+  pairs: Chinook
+- name: Trooper
+  camp: Big Springs
+  capacity: 20
+  cost: 125
+  heat: false
+  water: false
+  fireplace: false
+  woodstove: true
+  pairs: North Wind and Twin Hill
+- name: Unami
+  camp: Big Springs
+  capacity: 26
+  cost: 325
+  heat: true
+  water: true
+  fireplace: true
+  woodstove: false
+  pairs: Pueblo and Bear Lodge
