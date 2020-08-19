@@ -95,7 +95,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
         <tr>
           <td class="text-nowrap" scope="row">{{facility.name}}</td>
           <td>{{facility.capacity}}</td>
-          <td>{{facility.cost}}</td>
+          <td>&dollar;{{facility.cost}}</td>
           <td>{% if facility.heat %}&check;{% endif %}</td>
           <td>{% if facility.water %}&check;{% endif %}</td>
           <td>{% if facility.fireplace %}&check;{% endif %}</td>
@@ -130,7 +130,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
       <tbody>
         <tr>
           <td scope="row">Resica Falls Scout Reservation</td>
-          <td>&dollar;3400</td>
+          <td>&dollar;3000</td>
           <td>{{site.data.lodges.size}}</td>
           <td>{{site.data.campsites.size}}</td>
           <td>{{resica_cap | divided_by: 10 | round | times: 10}}</td>
@@ -138,7 +138,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
         </tr>
         <tr>
           <td scope="row">Big Springs Camp</td>
-          <td>&dollar;750</td>
+          <td>&dollar;1500</td>
           <td>{{springs_lodges.size}}</td>
           <td>{{springs_sites.size}}</td>
           <td>{{springs_cap | divided_by: 10 | round | times: 10}}</td>

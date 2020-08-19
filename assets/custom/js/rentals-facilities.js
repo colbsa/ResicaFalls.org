@@ -1,9 +1,11 @@
 $(document).ready( function () {
   var campsites = $('#campsitesTable').DataTable( {
-    paging: false
+    paging: false,
+    info: false
   } );
   var lodges = $('#lodgesTable').DataTable( {
-    paging: false
+    paging: false,
+    info: false
   } );
 
   campsites.columns().flatten().each( function ( colIdx ) {
