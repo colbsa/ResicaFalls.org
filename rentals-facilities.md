@@ -37,9 +37,9 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
 {% assign resica_cap = firestone_cap | plus: springs_cap %}
 
 <div class="row">
-  <div class="col-lg-6">
+  <div class="col-md-4">
     <h2>Campsites</h2>
-    <table class="table table-responsive table-sm">
+    <table class="table table-responsive table-sm text-center">
       <thead>
         <tr class="text-nowrap">
           <th scope="col">Name</th>
@@ -54,10 +54,10 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
         </tr>
       {% for facility in springs_sites %}
         <tr>
-          <td class="text-nowrap" scope="row">{{facility.name}}</td>
-          <td>{% if facility.platforms %}&check;{% endif %}</td>
-          <td>{% if facility.adirondacks %}&check;{% endif %}</td>
-          <td>{% if facility.pavilion %}&check;{% endif %}</td>
+          <th class="text-nowrap" scope="row">{{facility.name}}</th>
+          <td>{% if facility.platforms %}<i class="fa fa-check"></i>{% endif %}</td>
+          <td>{% if facility.adirondacks %}<i class="fa fa-check"></i>{% endif %}</td>
+          <td>{% if facility.pavilion %}<i class="fa fa-check"></i>{% endif %}</td>
         </tr>
       {%- endfor -%}
         <tr>
@@ -65,22 +65,22 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
         </tr>
       {% for facility in firestone_sites %}
         <tr>
-          <td class="text-nowrap" scope="row">{{facility.name}}</td>
-          <td>{% if facility.platforms %}&check;{% endif %}</td>
-          <td>{% if facility.adirondacks %}&check;{% endif %}</td>
-          <td>{% if facility.pavilion %}&check;{% endif %}</td>
+          <th class="text-nowrap" scope="row">{{facility.name}}</th>
+          <td>{% if facility.platforms %}<i class="fa fa-check"></i>{% endif %}</td>
+          <td>{% if facility.adirondacks %}<i class="fa fa-check"></i>{% endif %}</td>
+          <td>{% if facility.pavilion %}<i class="fa fa-check"></i>{% endif %}</td>
         </tr>
       {%- endfor -%}
       </tbody>
     </table>
   </div>
-  <div class="col-lg-6">
+  <div class="col-md-8">
     <h2>Lodges</h2>
-    <table class="table table-responsive table-sm">
+    <table class="table table-responsive table-sm text-center">
       <thead>
         <tr class="text-nowrap">
           <th scope="col">Name</th>
-          <th scope="col">Capacity</th>
+          <th scope="col"><abbr title="Capacity">Cap</abbr></th>
           <th scope="col">Cost</th>
           <th scope="col">Heat</th>
           <th scope="col">Water</th>
@@ -91,19 +91,19 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
       <tbody>
       {% for facility in site.data.lodges %}
         <tr>
-          <td class="text-nowrap" scope="row">{{facility.name}}</td>
+          <th class="text-nowrap" scope="row">{{facility.name}}</th>
           <td>{{facility.capacity}}</td>
           <td>&dollar;{{facility.cost}}</td>
-          <td>{% if facility.heat %}&check;{% endif %}</td>
-          <td>{% if facility.water %}&check;{% endif %}</td>
-          <td>{% if facility.fireplace %}&check;{% endif %}</td>
-          <td>{% if facility.woodstove %}&check;{% endif %}</td>
+          <td>{% if facility.heat %}<i class="fa fa-check"></i>{% endif %}</td>
+          <td>{% if facility.water %}<i class="fa fa-check"></i>{% endif %}</td>
+          <td>{% if facility.fireplace %}<i class="fa fa-check"></i>{% endif %}</td>
+          <td>{% if facility.woodstove %}<i class="fa fa-check"></i>{% endif %}</td>
         </tr>
       {%- endfor -%}
       </tbody>
     </table>
     <h2>Venues</h2>
-    <table class="table table-responsive table-sm">
+    <table class="table table-responsive table-sm text-center">
       <thead>
         <tr class="text-nowrap">
           <th scope="col">Name</th>
@@ -111,36 +111,32 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
           <th scope="col"><abbr title="Cabins"><i class="fas fa-home"></i></abbr></th>
           <th scope="col"><abbr title="Campsites"><i class="fas fa-campground"></i></abbr></th>
           <th scope="col"><abbr title="Capacity">Cap</abbr></th>
-          <th scope="col">Notes</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td scope="row">Resica Falls Scout Reservation</td>
+          <th scope="row">Resica Falls Scout Reservation</th>
           <td>&dollar;3000</td>
           <td>{{site.data.lodges.size}}</td>
           <td>{{site.data.campsites.size}}</td>
           <td>{{resica_cap | divided_by: 10 | round | times: 10}}</td>
-          <td></td>
         </tr>
         <tr>
-          <td scope="row">Big Springs Camp</td>
+          <th scope="row">Big Springs Camp</th>
           <td>&dollar;1500</td>
           <td>{{springs_lodges.size}}</td>
           <td>{{springs_sites.size}}</td>
           <td>{{springs_cap | divided_by: 10 | round | times: 10}}</td>
-          <td></td>
         </tr>
         <tr>
-          <td scope="row">Firestone Camp</td>
+          <th scope="row">Firestone Camp</th>
           <td>&dollar;1000</td>
           <td>{{firestone_lodges.size}}</td>
           <td>{{firestone_sites.size}}</td>
           <td>{{firestone_cap | divided_by: 10 | round | times: 10}}</td>
-          <td></td>
         </tr>
         <tr>
-          <td scope="row">Big Springs Dining Hall</td>
+          <th scope="row">Big Springs Dining Hall</th>
           <td>&dollar;125</td>
           <td></td>
           <td></td>
@@ -148,9 +144,8 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
           <td></td>
         </tr>
         <tr>
-          <td scope="row">Big Springs Dining Hall &amp; Kitchen</td>
+          <th scope="row">Big Springs Dining Hall &amp; Kitchen</th>
           <td>&dollar;250</td>
-          <td></td>
           <td></td>
           <td></td>
           <td></td>
