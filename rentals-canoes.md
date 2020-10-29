@@ -1,7 +1,7 @@
 ---
-title: Host Your Event at Resica Falls
+title: Rent a Canoe
 layout: page
-permalink: rentals/private-events
+permalink: rentals/canoes
 excerpt: A variety of facilities available are ideal for private parties, weddings, corporate events, and other outside events.
 
 ---
