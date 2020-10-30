@@ -13,7 +13,7 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
           <th scope="col"><h2 class="my-0">Pricing</h2></th>
         </tr>
       </thead>
-      <tbody>
+      <tbody class="text-center">
           <tr>
             <td>Early Bird: $440 per Youth / $200 per Adult</td>
           </tr>
@@ -31,10 +31,6 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
           </tr>
       </tbody>
     </table>
-    <div class="text-center">
-      <strong>Every kid receives a free patch and t-shirt!</strong><br>
-      <em>All Early Bird rates end May 1, 2020.</em>
-    </div>
   </div>
   <div class="col">
     <table class="table table-striped my-3 text-center">
@@ -50,7 +46,11 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
         <tr>
           <td>{{session.name}}</td>
           <td>{{session.dates}}</td>
-          <td><a class="btn btn-primary btn-block" href="{{session.link}}" target="_blank">Register Now</a></td>
+          {% if session.link %}
+            <td><a class="btn btn-primary btn-block" href="{{session.link}}" target="_blank">Register Now</a></td>
+          {% else %}
+            <td>Session Full</td>
+          {% endif%}
         </tr>
       {%- endfor -%}
       </tbody>
