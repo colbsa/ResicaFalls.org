@@ -5,13 +5,15 @@ permalink: /summer/food
 excerpt: The summer camp program provides Scouts and Scouters with a well-balanced and nutritious meal plan for the duration of their stay in camp.
 ---
 
-Musser Scout Reservation has partnered with Aramark, a nationally-recognized food service management company, to provide Scouts and Scouters with a well-balanced and nutritious meal plan - approved by a licensed dietician - for the duration of their stay in camp. Each meal includes a hot entree with at least one side; lunch and dinner also include a vegetable. There is a fruit and yogurt bar available at breakfast, and a salad bar at both lunch and dinner. Peanut butter and jelly are also available at both lunch and dinner. Hot and cold drinks are available at twin juice bars located along the center of the back wall of the dining hall.
+Resica Falls has partnered with a food service management company to provide Scouts and Scouters with a well-balanced and nutritious meal plan - approved by an approved dietitian - for the duration of their stay in camp, beginning with dinner on Sunday. Each meal includes a hot entr&eacute;e with at least one side; lunch and dinner also include a vegetable. There is a fruit and yogurt bar available at breakfast, and a salad bar at both lunch and dinner, along with daily specialty salad bars at lunch. Peanut butter and jelly with multiple types of bread are also available at both lunch and dinner. Hot and cold drinks are available at twin juice bars located on either side of the dining hall.
 
-Campers and adult leaders with dietary restrictions can note their individual restrictions with the camp's food service manager before they come to camp. We are more than happy to accommodate any dietary restrictions to ensure that campers and leaders have the best dining experience possible. If you have any questions on dietary restrictions, please [let us know](/contact?subject=Food).
+Campers and adult leaders with dietary restrictions can note their individual restrictions with the camp's food service manager before they come to camp. We are more than happy to accommodate any dietary restrictions to ensure that campers and leaders have the best dining experience possible.
+
+Because of restrictions related to COVID-19, how our food is served may be changed; however, be assured the quality of meals prepared will not be diminished.
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/summer/food1.jpg --img class="img-fluid rounded mb-2" --alt Young scouts and their leader eating hamburgers around a table in a dining hall %}
-{% picture thumb /img/summer/food2.jpg --img class="img-fluid rounded mb-2" --alt Young scouts and their parents eating hamburgers around a table in a dining hall %}
+{% picture thumb /img/summer/food/food_nutrition-1.jpg --img class="img-fluid rounded mb-2" --alt Photorealistic painting ofscouts eating around a table in the dining hall %}
+{% picture thumb /img/summer/food/food_nutrition-2.jpg --img class="img-fluid rounded mb-2" --alt Sample food located at the salad bar %}
 
 {% endcontentfor %}
