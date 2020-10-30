@@ -5,7 +5,7 @@ permalink: /summer/girls
 excerpt: While being a camp counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
 ---
 
-<div class="row pt-3">
+<div class="row">
   <div class="col-12 col-md-8">
     <p>
       Here are a few of the ways we have been prepared for girls, and how we continue to work towards the future:
