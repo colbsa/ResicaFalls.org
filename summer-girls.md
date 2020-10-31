@@ -23,9 +23,10 @@ excerpt: While being a camp counselor can be a demanding job, the rewards are en
           Camp improvements that have been made in recent years are female friendly, particularly the 2015 Great Bend Showerhouse &ndash; an entire facility comprised of 10 individual showers/bathrooms. <strong>NEW for 2021!</strong> &mdash; An additional 7 new individual showers / bathrooms located at the Big Springs Pool to accommodate the needs of all our campers.
         </li>
       </ul>
-      <div class="alert alert-success text-center">
+      <div class="text-center">
+        <h5>Don't Miss Out!</h5>
         <p>All new units will receive the early bird rate of $440 pricing for the 2021 season.</p>
-        <a class="btn btn-block btn-primary mb-2" href="dates-and-rates">See Dates &amp; Rates</a>
+        <a class="btn btn-primary mb-2" href="dates-and-rates">See Dates &amp; Rates</a>
       </div>
     </p>
   </div>
