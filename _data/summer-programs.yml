@@ -1,0 +1,75 @@
+- name: Aquatics – Pool
+  thumbnail: pool.jpg
+  alt:
+  programs: Swimming, Lifesaving, ARC Lifeguarding, Mile Swim
+  description: The pool is located in the heart of camp and is equipped with a three-story water slide that Scouts of all swimming abilities can enjoy. Each morning, wake-up with our Polar Bear Swim and cool down in the afternoon during Free Swim. On Tuesday and Thursday evenings, join us for our Night Owl Swims.
+- name: Aquatics – Lake
+  thumbnail: boating.jpg
+  alt:
+  programs: Canoeing, Kayaking, Fishing, Rowing, Small-boat Sailing, Paddle boarding
+  description: Lake Roger is a 27-acre spring fed lake located at the top of Pine Mountain where Scouts can fish, canoe, kayak, sail, and row during daily Open Boating periods, as well as enjoy the excitement of our Wibit Aquapark features such as the trampoline and blob. On Tuesday evenings, participate in our Twilight Boating program.
+- name: Resica Rangers
+  thumbnail: boating.jpg
+  alt:
+  programs: Specific Scout Skills (Scout-First Class), Nature & Fingerprinting MBs, 5 Mile Hike, Overnighter
+  description: Our first-year camper program, the Resica Rangers is designed to give Scouts a full sample of what Resica Falls has to offer, while learning many of the outdoor skills necessary for ranks Scout through First Class. The Patrol Method is the heart of this all-day program that integrates fun and merit badges into its expansive schedule.
+- name: Handicraft
+  thumbnail: handicraft.jpg
+  alt:
+  programs: Art, Basketry, Fingerprinting, Leatherwork, Pottery, Pulp & Paper, Sculpture, Wood Carving
+  description: The Eibner Handicraft Pavilion brought our crafts program closer to the heart of camp in 2016 and allowed us to expand our offerings with added pottery wheels and kilns. A pristine building with ample covered seating also plays home to a variety of extra programs throughout the week, including the ever-popular Art Club.
+- name: STEM
+  thumbnail: stem.jpg
+  alt:
+  programs: Astronomy, Chemistry, Composite Materials, Electricity, Electronics, Engineering, Moviemaking, Photography, Radio, Robotics, Space Exploration
+  description: The STEM program at Resica Falls is ever-growing with a multitude of merit badges offered in the Great Bend. Drone racing and virtual reality help round our science and technology program that started as a big dream in a little shack over a decade ago.
+- name: Native American Village
+  thumbnail: nav.jpg
+  alt:
+  programs: Archaeology, Fly Fishing, Indian Lore
+  description: With consistent support from Unami Lodge, One, our Native American Village program brings to life the history of the Lenni Lenape and of the Village of Ressaca. Examine artifacts from the earlier days of the property while learning about the history and traditions of Native Americans. Be sure to stop down on Monday evenings to try your hand at fly fishing under the guidance of an expert angler.
+- name: Shooting Sports
+  thumbnail: bb.jpg
+  alt:
+  programs: Rifle Shooting, Shotgun Shooting, Archery
+  description: "A full complement of shooting activities are offered at our multiple ranges, including: shotgun, rifle, Cowboy Action shooting, chalkball, archery, action archery, sporting arrows, and tomahawks. Our certified instructors work hand-in-hand with Scouts to ensure they learn to shoot in a safe manner during badges, open shoots, and scheduled troop shoots."
+- name: Scoutcraft
+  thumbnail: scoutcraft.jpg
+  alt:
+  programs: Camping, Cooking, Exploration, Fire Safety, Geocaching, Orienteering, Pioneering, Wilderness Survival
+  description: Put your outdoor skills to the test at Scoutcraft! Whether it’s building a monkey bridge or whipping up a dish in a Dutch oven, there’s always something exciting happening in Scoutcraft. Skills demonstrations of the highest caliber are held periodically throughout the week to add to your knowledge of Scouting’s basics.
+- name: Ecology
+  thumbnail: nature.jpg
+  alt:
+  programs: Animal Science, Bird Study, Environmental Science, Fish & Wildlife Management, Forestry, Geology, Insect Study, Mammal Study, Nature, Oceanography, Reptile & Amphibian Study, Soil & Water Conservation, Weather
+  description: Become one with nature at our Ecology center. Our knowledge staff will help you learn more about the local flora and fauna in the world around you, as well as a Scout’s responsibility in the outdoors.
+- name: Sports
+  thumbnail: slingshot.jpg
+  alt:
+  programs: Athletics, Game Design, Personal Fitness, Sports
+  description: Scouts keep moving at Resica Falls as they have fun at our human foosball court, blacktop basketball court, GaGa Pit, tetherball poles, and batting cage. The Parade Field is your playground as various pick-up games and lunch time competitions dominate any down time.
+- name: Shop
+  thumbnail: slingshot.jpg
+  alt:
+  programs: Metalwork, Plumbing, Welding
+  description: The trades are the foundation of our country. The Shop area camp looks to share these important life skills with Scouts so that they can carry with them throughout their lives, and possibly even pursue a career in one of these areas.
+- name: Civics
+  thumbnail: slingshot.jpg
+  alt:
+  programs: American Heritage, Citizenship in the Nation, Citizenship in the World, Law, Public Speaking
+  description: A key part of Scouting is to prepare Scouts to be good citizens of the world and the Civics area takes this responsibility very seriously. The law of the land and the values of the United States are instilled in Scouts through exceptional instruction and engaging activities in this part of camp.
+- name: COPE
+  thumbnail: bouldering.jpg
+  alt:
+  programs: Low COPE, High COPE, Climbing MB
+  description: Project COPE (Challenging Outdoor Personal Experience) is a personal development program – in the air! Participants climb, swing, balance, jump, rappel, and think through solutions to a variety of challenges on their own and as part of a team each morning. In the afternoon, learn to climb to new heights on our Climbing Tower.
+- name: ATV Program
+  thumbnail: atv.jpg
+  alt:
+  programs: BSA ATV Safety Course
+  description: Scouts at least 14 years of age or older have the opportunity to participate in this exhilarating program. Learn basic safety and the fundamentals of riding under the supervision of a certified instructor and assistant. Scouts begin riding on the first day and will be riding like pros by the end of the week!
+- name: High Five
+  thumbnail: slingshot.jpg
+  alt:
+  programs:
+  description: "Are you a Scout 13 years of age or older? Do you enjoy hiking and exploring the pristine Pocono Mountain wilderness that is Resica Falls? Then join our High Five Adventure Club each afternoon to explore the secrets the camp has to offer. Possible excursions include: A hike to Look Out Point and a swim at Fossil Rock; An afternoon of shooting muzzle loaders, shotguns, sporting arrows, and action archery; An adventure that takes you to all three sets of falls on the reservation – Resica Falls, Little Falls, and Green Falls"
