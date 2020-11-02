@@ -9,7 +9,7 @@ Joins us for a week-long canoe trip of over 70 miles down the picturesque Delawa
 
 Begin your week at Resica Falls Scout Reservation where you meet your guide for the week, get accustomed to the gear you’ll be using on the trek, and review your canoeing skills. With the help of your guide, you will also review the trip’s itinerary and prepare your previsions for the journey. Another key aspect of the trek is making sure everyone understands the key safety procedures while on the river, including BSA Safety Afloat.
 
-To participate in Paddle-rama, you must be a registered Scout and at least 14 years old at the time of participation. Units are highly encouraged to provide their own two-deep leadership for the trek. You must also have a current BSA Annual Health & Medical Record signed by a physician within the last 12 months. You must also be able to attain “Swimmer” classification during the swim test.
+To participate in Paddlerama, you must be a registered Scout and at least 14 years old at the time of participation. Units are highly encouraged to provide their own two-deep leadership for the trek. You must also have a current BSA Annual Health & Medical Record signed by a physician within the last 12 months. You must also be able to attain “Swimmer” classification during the swim test.
 
 This is the perfect program for Venturing Crews looking for a Tier III Adventure for next summer, or for older Scouts in a troop looking for something new. Sign-up now to participate in the adventure!
 
