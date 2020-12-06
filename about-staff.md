@@ -5,14 +5,14 @@ permalink: /staff
 excerpt: While being a camp counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
 ---
 
-<div class="row pt-3">
-  <div class="col">
+<div class="row align-items-center pt-3">
+  <div class="col-md-6">
     <div class="embed-responsive embed-responsive-16by9">
       <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_dVN5qgBjjY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
   </div>
-  <div class="col">
-    <h2 class="hero">CREATE A LIFETIME OF MEMORIES AND EARN A SALARY!</h2>
+  <div class="col-md-6">
+    <h2 class="hero pt-3 pt-md-0">CREATE A LIFETIME OF MEMORIES AND EARN A SALARY!</h2>
     <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Submit an Application</a>
   </div>
 </div>
@@ -34,7 +34,7 @@ Our staff is not just a group of counselors having fun, but rather a family of 1
 Many of our senior camp staff leaders have extensive experience in camp and have the following to say about their time on camp staff:
 
 <div class="row">
-  <div class="col">
+  <div class="col-md-6">
     <blockquote>
       "I worked on staff for four summers before going away to college. When I moved into my dorm, most of the people I was living with had never done their own laundry, lived away from home, or had a real job. Working on staff really put me ahead of the rest of the students."
     </blockquote>
@@ -45,7 +45,7 @@ Many of our senior camp staff leaders have extensive experience in camp and have
       "My time on staff helped me decide to become a school teacher."
     </blockquote>
   </div>
-  <div class="col">
+  <div class="col-md-6">
     <blockquote>
       "I’ve been in Scouting for a long time and have made a lot of great memories. When I get together with my friends, the stories we tell all seem to revolve around our time on camp staff."
     </blockquote>

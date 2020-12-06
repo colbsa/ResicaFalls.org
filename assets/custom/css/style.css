@@ -99,7 +99,7 @@ blockquote{
   background: var(--blockquote-background);
 }
 .hero {
-  font-size: 4rem;
+  font-size: 3rem;
   font-style: italic;
   color: var(--resica-black);
 }
