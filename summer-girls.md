@@ -43,7 +43,7 @@ excerpt: While being a camp counselor can be a demanding job, the rewards are en
 
 <div class="row justify-content-md-center">
   <div class="col-md-5">
-    <div class="card">
+    <div class="card h-100">
       {% picture thumb /img/summer/girls/female-1.jpg --img class="card-img-top img-fluid" --alt A group of females hanging out at the clocktower %}
       <div class="card-body">
         <h5 class="card-title text-center">With A Unit</h5>
@@ -54,7 +54,7 @@ excerpt: While being a camp counselor can be a demanding job, the rewards are en
     </div>
   </div>
   <div class="col-md-5">
-    <div class="card">
+    <div class="card h-100 mt-3 mt-md-0">
       {% picture thumb /img/summer/girls/female-2.jpg --img class="card-img-top img-fluid" --alt A group of females hanging out at the clocktower %}
       <div class="card-body">
         <h5 class="card-title text-center">Troop One Provisional</h5>
