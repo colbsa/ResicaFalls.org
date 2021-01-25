@@ -1,0 +1,48 @@
+---
+layout: post
+title: Summer 2020 - Virtual Camp
+author:
+date: 2020-09-15
+banner:
+banneralt:
+thumbnail: generic-dark-blue.png
+thumbalt:
+excerpt: This circus was all virtual! Clowns and circus hands made the magic happen...
+---
+
+Our 2020 theme of “Under the Big Top” had a unique spin on a traditional circus theme.
+
+This circus was all virtual! Clowns and circus hands made the magic happen and joined over 1,300 Scouts and leaders in a summer of fun in a whole new environment. Opening Campfires, Carnivals, Cooking Classes, and the Grand Finale rounded a week of just clowning around.
+
+**Merit Badge Stats:**
+- \# of Merit Badges
+  - Partial: 1,248
+  - Complete: 4,490
+  - Total: 5,738
+- Merit Badge Completion Rate: 78.3%
+- Top 8 Merit Badges
+  - Cooking
+  - Citizenship in the Community
+  - Citizenship in the World
+  - Game Design
+  - Communications
+  - Environmental Science
+  - Art
+  - Citizenship in the Nation
+
+**Number of Virtual Rangers:** 142  
+**Number of Scouts that earned the Virtual Scout Award:** 31
+
+## What Leaders & Units Are Saying
+
+“I enjoyed making kettle corn, corn dogs, doing a TikTok skit and I’ve gotten 9 merit badges from camp.”
+
+“Overall I had a really good time. It was really good for the first year of Virtual Camp. Thank you to everyone who made it happen.”
+
+“I loved it! I wish I could sneak in another week. Eagle Scout brother who has been to camp said it was great!"
+
+“The counselors did an amazing job trying to act like we were at the actual camp.”
+
+“Y’all did a good job of capturing the spirit of going to camp. Having the stuff in the evening as well as the skill instruction really reminded me of just hanging out at camp.”
+
+“I am a parent, but have been listening to my daughter’s classes. I wanted you to know I am so impressed with the quality of the classes. I’m really thrilled with how much my daughter learned and accomplished. We’re looking forward to next week, too. Thanks so much for keeping the kids engaged and safe during this unusual summer!”
