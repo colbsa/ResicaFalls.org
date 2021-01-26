@@ -3,7 +3,7 @@ layout: post
 title: "A Profile in Service: Chris Brenner"
 author:
 date: 2020-09-30
-banner: 2020.09.30-Brenner-Banner.png
+banner: 2020.09.30-Brenner-Post-Banner.png
 banneralt:
 thumbnail: 2020.09.30-Brenner-Thumb.png
 thumbalt:
