@@ -3,9 +3,9 @@ layout: post
 title: "A Profile in Service: Chris Brenner"
 author:
 date: 2020-09-30
-banner: 2020.09.30-Brenner-Post-Banner.png
+banner: 2020.09.30-Brenner.png
 banneralt:
-thumbnail: 2020.09.30-Brenner-Thumb.png
+thumbnail: 2020.09.30-Brenner.png
 thumbalt:
 excerpt: The year was 2006, the camp was Resica Falls, and the man was Christian F. Brenner...
 ---

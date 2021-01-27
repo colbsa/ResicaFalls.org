@@ -3,9 +3,9 @@ layout: post
 title: Summer 2019 - Jurassic Falls
 author:
 date: 2019-09-01
-banner: 2019-Jurassic-Falls.png
+banner: 2019.09.01-Jurassic-Falls.png
 banneralt: "'2019 Jurassic Falls' written in front of a drawing of a triceratops"
-thumbnail: 2019-Jurassic-Falls.png
+thumbnail: 2019.09.01-Jurassic-Falls.png
 thumbalt: "'2019 Jurassic Falls' written in front of a drawing of a triceratops"
 excerpt: Our 2019 theme of "Jurassic Falls" brought the past into the present as dinosaurs...
 ---

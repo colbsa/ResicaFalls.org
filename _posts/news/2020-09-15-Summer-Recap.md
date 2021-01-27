@@ -3,10 +3,10 @@ layout: post
 title: Summer 2020 - Virtual Camp
 author:
 date: 2020-09-15
-banner:
-banneralt:
-thumbnail: generic-dark-blue.png
-thumbalt:
+banner: 2020.09.15-Virtual-Camp.png
+banneralt: Virtual Camp Logo
+thumbnail: 2020.09.15-Virtual-Camp.png
+thumbalt: Virtual Camp Logo
 excerpt: This circus was all virtual! Clowns and circus hands made the magic happen...
 ---
 

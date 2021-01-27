@@ -3,9 +3,9 @@ layout: post
 title: "2021: Knights of the Bushkill"
 author:
 date: 2020-10-03
-banner:
+banner: 2020.10.03-Knights.png
 banneralt:
-thumbnail: KnightsOfTheBushkill.jpg
+thumbnail: 2020.10.03-Knights.jpg
 thumbalt:
 excerpt: ...take us back to a nobler time when knights and dragons roamed the land.
 ---
