@@ -3,9 +3,12 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/slide-musser-covid19.png
-  alt: "Picture of a campfire in the dark with the writing 'Musser SR and COVID-19'"
-  link: /coronavirus
+- image: /img/slider/2021.01.31-Leaders-Update.jpg
+  alt: "Picture of a lake and a dock with the writing 'Virtual Leaders Update'"
+  link: /leaders-update
+- image: /img/slider/2021.01.31-SEEK.jpg
+  alt: "The SEEK program logo with the writing 'Preparing the next generation of camp staff'"
+  link: /summer/seek
 
 button-bar:
   Register For Summer Camp: /summer/register
