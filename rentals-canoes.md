@@ -2,17 +2,46 @@
 title: Rent a Canoe
 layout: page
 permalink: rentals/canoes
-excerpt: A variety of facilities available are ideal for private parties, weddings, corporate events, and other outside events.
+excerpt: Looking to go on a troop canoe trip? Rent your canoes and a campsite from Resica Falls!
 
 ---
 
-Musser Scout Reservation is available for non-Scouting groups to rent. The variety of facilities available are ideal for private parties, weddings, corporate events, and other outside events - even LARPing groups. Many venues serve as perfect outdoor and rustic settings. Our facilities available include the Dining Hall, a kitchen, open-air pavilions, and campsites, as well as themed structures including a Wild West Fort, a Medieval Castle, and a Pirate Ship. Event planners, prepare to let your imaginations run wild as you consider Musser Scout Reservation for the locale of your next event.
+Is your unit looking to go on a weekend canoe trip? Rent your canoes from Resica Falls! The Delaware River is only a few miles away from Resica Falls and with that comes a great opportunity for a canoeing trip. Resica Falls offers canoes for rent at competitive fees. Paddles & PFDs are inncluded with our canoes. Rentals are available throughout the year for units interested in either a day or weekend trip on the River. [Contact us](/contact?subject=Canoe%20Rentals) for more information or to schedule a trip!
 
-For more information, contact our Director of Outdoor Adventures [John Bickel](/contact?subject=Private%20Events).
-
+<table class="table text-center">
+    <caption>Paddles &amp; PFDs inncluded with our canoes. Trailer holds 6 canoes. $50 for canoe delivery and pickup.</caption>
+    <thead class="thead-inverse">
+        <tr>
+            <th class="text-center">Item</th>
+            <th class="text-center">Day</th>
+            <th class="text-center">Weekend</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Canoe</td>
+            <td>$15</td>
+            <td>$25</td>
+        </tr>
+        <tr>
+            <td>Trailer</td>
+            <td>$20</td>
+            <td>$30</td>
+        </tr>
+        <tr>
+            <td>PFD or Paddle</td>
+            <td>$3</td>
+            <td>$3</td>
+        </tr>
+        <tr>
+            <td>PFD &amp; Paddle</td>
+            <td>$5</td>
+            <td>$5</td>
+        </tr>
+    </tbody>
+</table>
 {% contentfor sidebar %}
 
-{% picture thumb /img/rentals/garrison/wedding2.jpg --img class="img-fluid rounded mb-2" --alt A bride and groom holding hands walking through a castle gate %}
-{% picture thumb /img/rentals/garrison/wedding3.jpg --img class="img-fluid rounded mb-2" --alt A bride and groom kissing in front of a castle and a crowd of people at their seats %}
+{% picture thumb /img/rentals/canoes/canoeing.jpg --img class="img-fluid rounded mb-2" --alt A unit loading into a canoe %}
 
 {% endcontentfor %}
