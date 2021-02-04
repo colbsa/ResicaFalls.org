@@ -38,12 +38,12 @@ We’re thrilled to be offering the SEEK program in 2021! Space is limited, so r
         <tr>
             <td>Weeks 1-3</td>
             <td>June 27 - July 17</td>
-            <td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/scouts-bsa-summer-camp-at-resica-falls-week-1/2678053">Register</a></td>
+            <td><a class="btn btn-primary" href="https://colbsa.doubleknot.com/event/scouts-bsa-summer-camp-at-resica-falls-week-1/2678053">Register</a></td>
         </tr>
         <tr>
             <td>Weeks 4-6</td>
             <td>July 18 - August 7</td>
-            <td><a class="btn btn-success" href="https://colbsa.doubleknot.com/event/scouts-bsa-summer-camp-at-resica-falls-week-4/2693060">Register</a></td>
+            <td><a class="btn btn-primary" href="https://colbsa.doubleknot.com/event/scouts-bsa-summer-camp-at-resica-falls-week-4/2693060">Register</a></td>
         </tr>
     </tbody>
 </table>
