@@ -36,7 +36,7 @@
         <h5 class="card-header">Upcoming Events</h5>
         <div class="card-body">
           {% for event in site.data.events limit:4 %}
-          <i class="far fa-calendar pr-2 text-body"></i><em>{{ event.date }}</em>: {% if event.link-url.size > 0 %}<a href="{{ event.link-url }}">{% endif %}{{ event.title }}{% if event.link-url.size > 0 %}</a>{% endif %}</br>
+          <i class="far fa-calendar pr-2 text-body"></i><em>{{ event.date | date: '%B %d }}</em>: {% if event.link-url.size > 0 %}<a href="{{ event.link-url }}">{% endif %}{{ event.title }}{% if event.link-url.size > 0 %}</a>{% endif %}</br>
           {% endfor %}
         </div>
       </div>
