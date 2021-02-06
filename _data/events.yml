@@ -1,16 +1,16 @@
-- title: Campership Applications Due
-  date: 2020-04-15
-  date-end:
-  time:
-  link-text: More Information
-  link-url: https://colbsa.org/camperships/
-
 - title: Leaders' Meeting
   date: 2021-02-08
   date-end:
   time: 7PM
   link-text: Register Now
   link-url: https://colbsa.zoom.us/webinar/register/WN_TuFXpLLyRwi6-M8yx_oDqA
+
+- title: Campership Applications Due
+  date: 2020-04-15
+  date-end:
+  time:
+  link-text: More Information
+  link-url: https://colbsa.org/camperships/
 
 - title: Camp Staff Weekend
   date: 2021-06-04
