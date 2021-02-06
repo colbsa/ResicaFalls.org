@@ -35,9 +35,8 @@
       <div class="card mb-3">
         <h5 class="card-header">Upcoming Events</h5>
         <div class="card-body">
-          {% assign highlighted_events = site.data.events | where_exp:"event", "event.link-url.size > 0" %}
-          {% for event in highlighted_events limit:3 %}
-            <a href="{{ event.link-url }}"><i class="far fa-calendar pr-2 text-body"></i>{{ event.title }}</a></br>
+          {% for event in site.data.events limit:4 %}
+          <i class="far fa-calendar pr-2 text-body"></i><em>{{ event.date }}</em>: {% if event.link-url.size > 0 %}<a href="{{ event.link-url }}">{% endif %}{{ event.title }}{% if event.link-url.size > 0 %}</a>{% endif %}</br>
           {% endfor %}
         </div>
       </div>
