@@ -65,7 +65,7 @@ body {
   color: var(--page-text);
   background-color: var(--page-background);
   font-family: 'open-sans', sans-serif;
-  padding-top: 65px;
+  padding-top: 60px;
 }
 p {
   line-height: 1.5;
@@ -197,6 +197,10 @@ iframe {
 
 /* === NAVIGATION === */
 /* setup */
+.navbar {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
 .navbar.bg-light {
   background-color: var(--nav-background) !important;
   font-family: 'open-sans', sans-serif;
@@ -238,6 +242,9 @@ iframe {
 }
 /* spacing on large screens */
 @media (min-width: 992px) {
+  body{
+      padding-top: 70px;
+  }
   .navbar-light, .bg-light {
     height: 70px;
   }
