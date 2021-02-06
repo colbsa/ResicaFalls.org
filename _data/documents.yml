@@ -64,6 +64,12 @@
   - name: Annual Health and Medical Record
     url: https://www.scouting.org/health-and-safety/ahmr/
     update:
+  - name: Council COVID Questionnaire
+    url: https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit
+    update:
+  - name: Dietary Restriction Information
+    url: https://docs.google.com/forms/d/e/1FAIpQLSc4FejywBzAqdQNBush5RoSF3j5Qfi5UbFw8alSw3PmSXuE3A/viewform?usp=sf_link
+    update:
   - name: Unit Medication Storage Release
     url: /files/health_and_safety/Unit_Medication_Storage_Release.pdf
     update:
