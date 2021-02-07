@@ -103,9 +103,7 @@ ErrorDocument 404 /404/index.html
 ErrorDocument 403 /403/index.html
 
 Redirect /summer/documents /documents
-Redirect /weekend/documents /documents
-Redirect /bussing /summer/bus
-Redirect /busing /summer/bus
+Redirect /yearround/documents /documents
 
 Redirect /coronavirus /news/COVID19-Summer-Camp-Update
 Redirect /covid19 /news/COVID19-Summer-Camp-Update
