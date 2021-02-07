@@ -5,7 +5,7 @@ permalink: /volunteer
 excerpt: Resica Falls Scout Reservation is always looking for volunteers to help make camp an even greater place!
 ---
 
-Looking to spend more time in camp? Want to give back to Scouting and camp? Resica Falls Reservation is always looking for volunteers to help make camp an even greater place!
+Looking to spend more time in camp? Want to give back to Scouting and camp? Resica Falls Scout Reservation is always looking for volunteers to help make camp an even greater place!
 
 <h2>Campmasters <div class="subheader">The Key to Outstanding Customer Service</div></h2>
 A positive camping experience begins with welcoming and enthusiastic hosts. The campmasters fill this role of hosts during a weekend of camping. This group of registered Scouts perform unit check-in and check-out, as well as open the Trading Post and help with any problems that may arise. Campmasters are also encouraged to offer some program for the Scouts in camp or assist with a camp improvement project.
