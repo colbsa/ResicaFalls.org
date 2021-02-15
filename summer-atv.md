@@ -1,7 +1,7 @@
 ---
 title: ATV Program
 layout: page
-permalink: /summer/atv-program
+permalink: /summer/atv
 excerpt: The summer camp program provides Scouts and Scouters with a well-balanced and nutritious meal plan for the duration of their stay in camp.
 ---
 
