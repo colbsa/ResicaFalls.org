@@ -22,7 +22,7 @@ picture:
 
 recaptcha: 6LcTT0wUAAAAAFkVYQkthW1xsO85zniDgC8QV0fL
 
-permalink: /news/:year/:title
+permalink: /news/:title
 
 pagination:
   enabled: true
