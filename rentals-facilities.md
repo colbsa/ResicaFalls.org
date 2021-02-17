@@ -153,7 +153,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
       </tbody>
     </table>
     <h2>Special Events</h2>
-    Facility and venue prices are listed for Scouting groups and are based on a per weekend rental except where otherwise noted. Our facilities and camp venues are available for non-Scouting groups to rent. For more information on renting any part of Musser Scout Reservation for a special event, visit <a href="/rentals/private-events">Events in Camp</a>.
+    Facility and venue prices are listed for Scouting groups and are based on a per weekend rental except where otherwise noted. Our facilities and camp venues are available for non-Scouting groups to rent. For more information on renting any part of Resica Falls for a special event, visit <a href="/rentals/private-events">Events in Camp</a>.
   </div>
 </div>
 
