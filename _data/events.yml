@@ -1,9 +1,16 @@
-- title: Leaders' Meeting
+- title: Virtual Leaders' Update
   date: 2021-02-08
   date-end:
   time: 7PM
-  link-text: Register Now
-  link-url: https://colbsa.zoom.us/webinar/register/WN_TuFXpLLyRwi6-M8yx_oDqA
+  link-text: Watch the Replay
+  link-url: https://www.youtube.com/watch?v=6YdBajNHrb0
+
+- title: Virtual Leaders' Update
+  date: 2021-03-08
+  date-end:
+  time: 7PM
+  link-text: Coming Soon
+  link-url:
 
 - title: Campership Applications Due
   date: 2021-04-15
@@ -72,8 +79,8 @@
   date: 2021-08-08
   date-end: 2021-08-13
   time:
-  link-text: Register Now
-  link-url: https://colbsa.doubleknot.com/event/scouts-bsaventuring-summer-camp-at-resica-falls-week-7/2693063
+  link-text: Registration Closed
+  link-url:
 
 - title: Field Weekend
   date: 2021-09-24
