@@ -1,87 +1,136 @@
 - section:
   name: Summer Camp Details
-  files:
-  - name: Response to COVID-19
-    url: /files/summer/2020.04.06_Covid-19-Update.pdf
-    update:
-  - name: 2020 Summer Camp Brochure
-    url: /files/summer/2020-RFSR-Brochure.pdf
-    update:
-  - name: 2020 Leaders' Guide
-    url: /files/summer/2020_Leaders_Guide.pdf
-    update:
-  - name: 2020 Program Guide
-    url: /files/summer/2020_Program_Guide.pdf
-    update:
-  - name: 2020 Merit Badge Offerings
-    url: /files/summer/2020-Merit-Badge-Offerings.pdf
-    update:
-  - name: Precamp Swim Test
-    url: /files/summer/Precamp_Swim_Test.pdf
-    update:
-  - name: Parental Release
-    url: /files/summer/Parental_Release.pdf
-    update:
-  - name: Merit Badge Signup Instructions
-    url: /files/summer/MeritBadge_Instructions.pdf
-    update:
-  - name: Campership Application
-    url: https://colbsa.org/camperships/
-    update:
+  subsections:
+    - name: Summer 2021
+      files:
+      - name: 2021 Leaders' Guide
+        url: /files/summer/2021_Leaders_Guide.pdf
+        coming-soon-date:
+        updated-date:
+      - name: 2021 Program Guide
+        url:
+        coming-soon-date:
+        updated-date:
+      - name: 2021 Roster Template
+        url:
+        coming-soon-date:
+        updated-date:
+      - name: 2021 Refund Policy
+        url: /files/summer/2021_Refund_Policy.pdf
+        coming-soon-date:
+        updated-date: 2021.02.04
+      - name: 2021 Campership Applications
+        url: https://colbsa.org/camperships/
+        coming-soon-date:
+        updated-date: 2021.02.04
+    - name: Summer 2020
+      files:
+      - name: Response to COVID-19
+        url: /files/summer/2020.04.06_Covid-19-Update.pdf
+        coming-soon-date:
+        updated-date:
+      - name: 2020 Summer Camp Brochure
+        url: /files/summer/2020-RFSR-Brochure.pdf
+        coming-soon-date:
+        updated-date:
+      - name: 2020 Program Guide
+        url: /files/summer/2020_Program_Guide.pdf
+        coming-soon-date:
+        updated-date:
+      - name: 2020 Merit Badge Offerings
+        url: /files/summer/2020-Merit-Badge-Offerings.pdf
+        coming-soon-date:
+        updated-date:
+    - name: General Summer Forms
+      files:
+      - name: Precamp Swim Test
+        url: /files/summer/Precamp_Swim_Test.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Parental Release
+        url: /files/summer/Parental_Release.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Merit Badge Signup Instructions
+        url: /files/summer/MeritBadge_Instructions.pdf
+        coming-soon-date:
+        updated-date:
 - section:
   name: Special Programs
-  files:
-  - name: ATV Participant Release
-    url: /files/special_programs/ATV_Participant_Release.pdf
-    update:
-  - name: COPE Application
-    url: /files/special_programs/COPE_Application.pdf
-    update:
-  - name: Cowboy Action Flyer
-    url: /files/special_programs/CowboyActionFlyer-Permission.pdf
-    update:
+  subsections:
+    - name:
+      files:
+      - name: ATV Participant Release
+        url: /files/special_programs/ATV_Participant_Release.pdf
+        coming-soon-date:
+        updated-date:
+      - name: COPE Application
+        url: /files/special_programs/COPE_Application.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Cowboy Action Flyer
+        url: /files/special_programs/CowboyActionFlyer-Permission.pdf
+        coming-soon-date:
+        updated-date:
 - section:
   name: General Information
-  files:
-  - name: Trail Map
-    url: /files/general/ResicaFalls_TrailsMap.pdf
-    update:
-  - name: Big Springs Camp Map
-    url: /files/general/BigSprings_Map.pdf
-    update:
-  - name: Firestone Camp Map
-    url: /files/general/Firestone_Map.pdf
-    update:
-  - name: Orienteering Maps
-    url: /files/general/ResicaFalls_OrienteeringMaps.pdf
-    update:
-  - name: Geocache Course
-    url: /files/general/ResicaFalls_GeocacheCourse.pdf
-    update:
+  subsections:
+    - name:
+      files:
+      - name: Trail Map
+        url: /files/general/ResicaFalls_TrailsMap.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Big Springs Camp Map
+        url: /files/general/BigSprings_Map.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Firestone Camp Map
+        url: /files/general/Firestone_Map.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Orienteering Maps
+        url: /files/general/ResicaFalls_OrienteeringMaps.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Geocache Course
+        url: /files/general/ResicaFalls_GeocacheCourse.pdf
+        coming-soon-date:
+        updated-date:
 - section:
   name: Health & Safety Forms
-  files:
-  - name: Annual Health and Medical Record
-    url: https://www.scouting.org/health-and-safety/ahmr/
-    update:
-  - name: Council COVID Questionnaire
-    url: https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit
-    update:
-  - name: Dietary Restriction Information
-    url: https://docs.google.com/forms/d/e/1FAIpQLSc4FejywBzAqdQNBush5RoSF3j5Qfi5UbFw8alSw3PmSXuE3A/viewform?usp=sf_link
-    update:
-  - name: Unit Medication Storage Release
-    url: /files/health_and_safety/Unit_Medication_Storage_Release.pdf
-    update:
-  - name: Adult Medication Storage Release
-    url: /files/health_and_safety/Adult_Medication_Storage_Release.pdf
-    update:
-  - name: Allergy Action Plan
-    url: /files/health_and_safety/Anaphylaxis-Emergency-Action-Plan.pdf
-    update:
-  - name: Drug Admin Record
-    url: /files/health_and_safety/Drug_Admin_Record.pdf
-    update:
-  - name: Medical Record FAQ
-    url: https://www.scouting.org/health-and-safety/ahmr/medical-formfaqs/
-    update:
+  subsections:
+    - name:
+      files:
+      - name: Annual Health and Medical Record
+        url: https://www.scouting.org/health-and-safety/ahmr/
+        coming-soon-date:
+        updated-date:
+      - name: Council COVID Questionnaire
+        url: https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit
+        coming-soon-date:
+        updated-date:
+      - name: Dietary Restriction Information
+        url: https://docs.google.com/forms/d/e/1FAIpQLSc4FejywBzAqdQNBush5RoSF3j5Qfi5UbFw8alSw3PmSXuE3A/viewform?usp=sf_link
+        coming-soon-date:
+        updated-date:
+      - name: Unit Medication Storage Release
+        url: /files/health_and_safety/Unit_Medication_Storage_Release.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Adult Medication Storage Release
+        url: /files/health_and_safety/Adult_Medication_Storage_Release.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Allergy Action Plan
+        url: /files/health_and_safety/Anaphylaxis-Emergency-Action-Plan.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Drug Admin Record
+        url: /files/health_and_safety/Drug_Admin_Record.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Medical Record FAQ
+        url: https://www.scouting.org/health-and-safety/ahmr/medical-formfaqs/
+        coming-soon-date:
+        updated-date:
