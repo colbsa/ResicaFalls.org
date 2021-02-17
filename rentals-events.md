@@ -10,12 +10,25 @@ Resica Falls Scout Reservation is available for non-Scouting groups to rent. The
 
 For more information, contact our Director of Outdoor Adventures [John Bickel](/contact?recipient=john.bickel@scouting.org).
 
-{% contentfor sidebar %}
-
-{% picture thumb /img/rentals/events/wedding-escort.jpg --img class="img-fluid rounded mb-2" --alt A bride is escorted down a trail by her father %}
-{% picture thumb /img/rentals/events/wedding-chapel.jpg --img class="img-fluid rounded mb-2" --alt Bride and groom married in front of the chapel with their wedding party in the background %}
-{% picture thumb /img/rentals/events/wedding-reception.jpg --img class="img-fluid rounded mb-2" --alt A bride and groom share their first dance with the wedding party in the background %}
-{% picture thumb /img/rentals/events/wedding-falls.jpg --img class="img-fluid rounded mb-2" --alt Bride and groom share a kiss in front of Resica Falls %}
-{% picture thumb /img/rentals/events/arena-show.jpg --img class="img-fluid rounded mb-2" --alt A campfire takes place on stage in an amphitheater at dusk %}
-
-{% endcontentfor %}
+<div class="row">
+  <div class="col">
+    {% picture thumb /img/rentals/events/1.jpg --img class="img-fluid rounded mb-2" --alt Bride and groom married in front of the chapel with their wedding party in the background %}
+  </div>
+  <div class="col">
+    {% picture thumb /img/rentals/events/2.jpg --img class="img-fluid rounded mb-2" --alt A band performing on stage in an amphitheater at dusk %}
+  </div>
+  <div class="col">
+    {% picture thumb /img/rentals/events/3.jpg --img class="img-fluid rounded mb-2" --alt Bride and groom share a kiss in front of Resica Falls %}
+  </div>
+</div>
+<div class="row">
+  <div class="col">
+    {% picture thumb /img/rentals/events/4.jpg --img class="img-fluid rounded mb-2" --alt Fireworks are seen above an amphitheater at night %}
+  </div>
+  <div class="col">
+    {% picture thumb /img/rentals/events/5.jpg --img class="img-fluid rounded mb-2" --alt A trail mix bar at a special event %}
+  </div>
+  <div class="col">
+    {% picture thumb /img/rentals/events/6.jpg --img class="img-fluid rounded mb-2" --alt An empty amphitheater ready for your show %}
+  </div>
+</div>
