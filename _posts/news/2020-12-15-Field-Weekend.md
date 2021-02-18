@@ -4,9 +4,9 @@ title: "Field Weekend"
 author:
 date: 2019-12-15
 banner:
-banneralt:
+banneralt: A white fleur de lis on a blue background
 thumbnail: generic-blue.png
-thumbalt:
+thumbalt: A white fleur de lis on a blue background
 excerpt: The Field Weekend allows your Troop to hone their tent camping skills while...
 ---
 

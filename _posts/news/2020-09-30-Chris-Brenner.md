@@ -4,9 +4,9 @@ title: "A Profile in Service: Chris Brenner"
 author:
 date: 2020-09-30
 banner: 2020.09.30-Brenner.png
-banneralt:
+banneralt: A smiling Chris Brenner and the text 'A Profile In Service"
 thumbnail: 2020.09.30-Brenner.png
-thumbalt:
+thumbalt: A smiling Chris Brenner and the text 'A Profile In Service"
 excerpt: The year was 2006, the camp was Resica Falls, and the man was Christian F. Brenner...
 ---
 

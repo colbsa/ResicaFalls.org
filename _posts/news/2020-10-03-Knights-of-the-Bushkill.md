@@ -4,9 +4,9 @@ title: "2021: Knights of the Bushkill"
 author:
 date: 2020-10-03
 banner: 2020.10.03-Knights.png
-banneralt:
+banneralt: A medieval style banner of the falls with the text 'Knights of the Bushkill' 
 thumbnail: 2020.10.03-Knights.jpg
-thumbalt:
+thumbalt: A medieval style banner of the falls with the text 'Knights of the Bushkill'
 excerpt: ...take us back to a nobler time when knights and dragons roamed the land.
 ---
 
