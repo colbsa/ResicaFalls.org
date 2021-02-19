@@ -21,10 +21,10 @@
       <div class="col-md-3">
         <h4>Stay Connected</h4>
         <p class="footer-socialmedia">
-          <a href="http://facebook.com/resicafalls"><i class="fab fa-facebook-square fa-2x"></i></a>
-          <a href="http://instagram.com/resicafalls"><i class="fab fa-instagram fa-2x"></i></a>
-          <a href="http://youtube.com/resicafalls"><i class="fab fa-youtube-square fa-2x"></i></a>
-          <a href="http://flickr.com/resicafalls"><i class="fab fa-flickr fa-2x"></i></a>
+          <a href="http://facebook.com/resicafalls" aria-label="Resica Falls Facebook"><i class="fab fa-facebook-square fa-2x"></i></a>
+          <a href="http://instagram.com/resicafalls" aria-label="Resica Falls Instagram"><i class="fab fa-instagram fa-2x"></i></a>
+          <a href="http://youtube.com/resicafalls" aria-label="Resica Falls Youtube"><i class="fab fa-youtube-square fa-2x"></i></a>
+          <a href="http://flickr.com/resicafalls" aria-label="Resica Falls Flickr"><i class="fab fa-flickr fa-2x"></i></a>
         </p>
         <p></p>
       </div>
@@ -45,8 +45,8 @@
   </div>
 </footer>
 
-<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js" integrity="sha384-u/bQvRA/1bobcXlcEYpsEdFVK/vJs3+T+nXLsBYJthmdBuavHvAW6UsmqO2Gd/F9" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha384-LtrjvnR4Twt/qOuYxE721u19sVFLVSA4hf/rRt6PrZTmiPltdZcI7q7PXQBYTKyf" crossorigin="anonymous"></script>
 <script src="{% ministamp /assets/custom/js/main.js /assets/custom/js/main.js %}"></script>
 {% for dependency in page.dependencies -%}
 <script src="{{dependency.src}}"{% if dependency.integrity %} integrity="{{dependency.integrity}}" crossorigin="anonymous"{% endif %}></script>
