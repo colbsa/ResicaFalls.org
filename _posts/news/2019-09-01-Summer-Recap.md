@@ -1,0 +1,52 @@
+---
+layout: post
+title: Summer 2019 - Jurassic Falls
+author:
+date: 2019-09-01
+banner: 2019.09.01-Jurassic-Falls.png
+banneralt: "'2019 Jurassic Falls' written in front of a drawing of a triceratops"
+thumbnail: 2019.09.01-Jurassic-Falls.png
+thumbalt: "'2019 Jurassic Falls' written in front of a drawing of a triceratops"
+excerpt: Our 2019 theme of "Jurassic Falls" brought the past into the present as dinosaurs...
+---
+
+Our 2019 theme of "Jurassic Falls" brought the past into the present as dinosaurs, cavemen, and other prehistoric party animals joined over 2,800 Scouts in a summer of fun and exciting opportunities. The Dino Deep Dig, Caveman Crawl, and Bedrock Blast rounded out a week of prehistoric proportions!
+
+**Merit Badge Stats:**
+- \# of Merit Badges
+  - Partial: 1,829
+  - Complete: 7,994
+  - Total: 9,823
+- Merit Badge Completion Rate: 81.4%
+- Top 10 Merit Badges
+  - Swimming
+  - Nature
+  - First Aid
+  - Environmental Science
+  - Citizenship in the World
+  - Citizenship in the Nation
+  - Game Design
+  - Camping
+  - Wood Carving
+  - Cooking
+
+**Staff Member of the Year:** Patrick White    
+**Counselor in Training of the Year:** Dax Lyon
+
+**Camp Improvements for 2019**::
+- Two new merit badge offerings — Law (Civics) and Nuclear Science (STEM), as well as drone racing and VR equipment at STEM
+- Three campsites – Shenandoah, Shoshone, and Pueblo – received new tents and platforms
+- New doors, windows, and internal walls were installed at the STEM Center, and a new walkway was built outside of Unami Lodge – courtesy of Troop 542 (Baden Powell District)
+- Improved unit check-in with the camp leadership team at the Resica Elementary School
+
+## What Leaders & Units Are Saying
+
+**"Best camp staff – knowledgeable, helpful, and committeed."** - *Troop 150, Patriot’s Path Council*
+
+**"The staff and the facility are the prime reasons for out troop’s continued attendance at RFSR. It is the premier example of how a camp should run – exceptional!"** – *Troop 315, Cradle of Liberty Council*
+
+**"First time here and thoroughly impressed; staff very good."** – *Troop 545, Hawk Mountain Council*
+
+**"Program was best run this year. Chris Brenner hits a home run and cleared the bases. His staff and Steve Mach were incredible!"** – *Troop 320, Cradle of Liberty Council*
+
+**"Kids are sweaty, stinky, tired, and happy. Overall a good experience; Resica never disappoints!"** – *Troop 577, Cradle of Liberty Council*

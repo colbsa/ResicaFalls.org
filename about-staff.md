@@ -3,58 +3,76 @@ title: Join Camp Staff
 layout: page
 permalink: /staff
 excerpt: While being a camp counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
-content_class: col-md-6 col-lg-8
-sidebar_class: col-md-6 col-lg-4
 ---
 
-Why work at a fast food or retail establishment that focuses on sales when you can have opportunities like these:
-
-- Make lots of new friends in your area and from other states
-- Spend a summer in the great outdoors where nature prevails
-- Acquire experiential education (learning by doing) and new skills that will last a lifetime
-- Learn how to lead others and to apply leadership skills
-- Be part of an effective team and cooperate with others to get things done
-
-Working on a campstaff is a fun way to spend your summer, and it gives you the opportunity to make a difference in the life of each and every Scout that comes to camp. While being a counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
-
-Qualifications of a Staff Member:
-
-- Be at least 15 years old
-- A positive attitude and a strong work ethic
-- A willingness to live by the Scout Oath &amp; Law
-- A desire to have fun and make a lasting impact on the life of a scout
-
-If you're ready to join us for a summer of fun at Musser, apply today!
-
-Are you 14 years old, or 15 and can't commit for the whole summer? [Check out our CIT Program.](/cit)
-
-{% contentfor sidebar %}
-
-{% picture thumb /img/summer/staff.jpg --img class="img-fluid rounded mb-2" --alt Five staff in uniform and life vests jumping up in the air in front of a building %}
-
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_dVN5qgBjjY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="row align-items-center pt-3">
+  <div class="col-md-6">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_dVN5qgBjjY" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <h2 class="hero pt-3 pt-md-0">CREATE A LIFETIME OF MEMORIES AND EARN A SALARY!</h2>
+    <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Submit an Application</a>
+  </div>
 </div>
 
-<a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Submit an Application</a>
+Working on camp staff opens to each staff member a whole new world of adventure and opportunities. In addition to spending a summer in the great outdoors, staff members will:
 
-{% endcontentfor %}
+- Learn how to lead others and to apply leadership skills.
+- Be part of an effective team and cooperate with others to get things done.
+- Acquire experiential education (learning by doing) and new skills while working with young people ages 11-17.
+- Make lots of fiends and memories that will last a lifetime.
 
-{% contentfor bottom %}
+Our staff is not just a group of counselors having fun, but rather a family of 100 individuals dedicated to providing an outstanding experience to each and every one of our campers. Each of our counselors and support staff members receives extensive training in their roles in camp, as well as specific knowledge in customer service, emergency procedures, and youth protection. We look for only the best staff members that possess the following qualifications:
+
+- Be at least 15 years old.
+- A positive attitude and a strong work ethic.
+- A desire to make a lasting impact on the life of a Scout.
+- A willingness to live by the Scout Oath &amp; Law.
+
+Many of our senior camp staff leaders have extensive experience in camp and have the following to say about their time on camp staff:
+
+<div class="row">
+  <div class="col-md-6">
+    <blockquote>
+      "I worked on staff for four summers before going away to college. When I moved into my dorm, most of the people I was living with had never done their own laundry, lived away from home, or had a real job. Working on staff really put me ahead of the rest of the students."
+    </blockquote>
+    <blockquote>
+      "Spent a summer working at COPE – more fun that working at a fast food joint."
+    </blockquote>
+    <blockquote>
+      "My time on staff helped me decide to become a school teacher."
+    </blockquote>
+  </div>
+  <div class="col-md-6">
+    <blockquote>
+      "I’ve been in Scouting for a long time and have made a lot of great memories. When I get together with my friends, the stories we tell all seem to revolve around our time on camp staff."
+    </blockquote>
+    <blockquote>
+      "I was never a Scout, but I had a great time working at Resica Falls while in college."
+    </blockquote>
+    <blockquote>
+      "I met my wife working on camp staff."
+    </blockquote>
+  </div>
+</div>
+
+If you’re ready to join us for a summer of fun at Resica Falls, apply today!
 
 <div class="col alert alert-primary text-center">
-  <h2 class="mb-0">Quotes from Staff</h2>
-</div>
-<div class="row">
-  <div class="col-sm-6">
-    <p>"I worked on staff for five Summers. When I went to college, it felt like I was living in a dorm full of babies. Most of them had never lived away from Mom, washed their own clothes or had a real job. Working on staff put me far ahead of the rest of the students."</p>
-    <p>"30 years later and my best friends are still the guys I was on camp staff with."</p>
-  </div>
-  <div class="col-sm-6">
-    <p>"I’ve been in Scouting for a long time and have a lot of great memories. When I get together with my friends, the stories we tell and the friendships we talk about seem to revolve around our time on camp staff."</p>
-    <p>"My time on staff helped me decide to become a school teacher."</p>
-    <p>"I met my wife working on camp staff."</p>
-  </div>
+  <h2 class="mb-0">Frequently Asked Questions</h2>
 </div>
 
-{% endcontentfor %}
+<strong>Does Resica Falls only hire counselors?</strong><br>
+Absolutely not! While the bulk of our staff are counselors working in specific program areas such as aquatics or handicraft, any camp needs a strong group of support staff members to operate efficiently. Resica looks to hire excellent staff in the areas of maintenance, health &amp; safety, office administration, retail, and dining hall support. Both counselors and support staff are a part of our staff family.
+
+<strong>Where do staff members live?</strong><br>
+Most staff members live in their own canvas tent in the staff area. Some senior members of the staff and female staff members live in shared bunk rooms in cabins such as Bear Lodge and the Nunevilles. Private cabins are available for married staff members whose families would be joining them in camp.
+
+<strong>Do staff get time off?</strong><br>
+Staff have time off each day that is dependent upon their area of camp and their responsibilities. Staff members also have one “Night Off” each week that can be used to leave camp to go shopping, have dinner, see a movie, or just take a break. Transportation from Resica to these locations is provided. During the typical change-over period between sessions of Saturday to Sunday, staff are considered off and can leave camp to go home or visit town.
+
+<strong>Are staff paid well?</strong><br>
+We offer a competitive salary based on experience, qualifications, skills, and level of responsibility.
+

@@ -1,0 +1,151 @@
+- name: Bear Paw
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: true
+  pairs: Deer Run
+- name: Cayuga
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Cherokee
+- name: Cherokee
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Cayuga
+- name: Cheyenne
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs:
+- name: Chinook
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Chippewa, Nunevilles and Cox Lodge
+- name: Chippewa
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Chinook and Brooks Lodge
+- name: Comanche
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs:
+- name: Deer Run
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: true
+  pairs: Bear Paw
+- name: Mohawk
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs:
+- name: Navajo
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs:
+- name: North Wind
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Trooper Lodge
+- name: Pueblo
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Bear Lodge and Unami Lodge
+- name: Running Fox
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Two Feathers
+- name: Shenandoah
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Shoshone
+- name: Shoshone
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Shenandoah
+- name: Twin Hill 1
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Twin Hill 2 and Trooper Lodge
+- name: Twin Hill 2
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs: Twin Hill 1 and Trooper Lodge
+- name: Two Feathers
+  camp: Big Springs
+  platforms: true
+  adirondacks: false
+  pavilion: false
+  pairs:
+
+- name: Bear Hollow
+  camp: Firestone
+  platforms: false
+  adirondacks: true
+  pavilion: true
+  pairs:
+- name: Eagle's Crest
+  camp: Firestone
+  platforms: false
+  adirondacks: true
+  pavilion: true
+  pairs:
+- name: Falcons Roost
+  camp: Firestone
+  platforms: false
+  adirondacks: true
+  pavilion: true
+  pairs:
+- name: Hillside
+  camp: Firestone
+  platforms: false
+  adirondacks: false
+  pavilion: false
+  pairs:
+- name: Porcupine Ridge
+  camp: Firestone
+  platforms: false
+  adirondacks: true
+  pavilion: true
+  pairs:
+- name: Ruffed Grouse
+  camp: Firestone
+  platforms: false
+  adirondacks: true
+  pavilion: true
+  pairs:
+- name: Staff Area
+  camp: Firestone
+  platforms: false
+  adirondacks: true
+  pavilion: true
+  pairs:

@@ -1,89 +1,90 @@
-- title: Camp Service Day [Cancelled]
-  date: 2020-03-28
+- title: Virtual Leaders' Update
+  date: 2021-02-08
   date-end:
-  link-text: Cancelled
+  time: 7PM
+  link-text: Watch the Replay
+  link-url: https://www.youtube.com/watch?v=6YdBajNHrb0
+
+- title: Virtual Leaders' Update
+  date: 2021-03-08
+  date-end:
+  time: 7PM
+  link-text: Coming Soon
   link-url:
 
 - title: Campership Applications Due
-  date: 2020-04-15
+  date: 2021-04-15
   date-end:
+  time:
   link-text: More Information
   link-url: https://colbsa.org/camperships/
 
-- title: Unami Lodge Service Weekend
-  date: 2020-04-03
-  date-end: 2020-04-05
-  link-text: Cancelled
-  link-url:
-
-- title: Spring Fling
-  date: 2020-05-15
-  date-end: 2020-05-17
-  link-text: Cancelled
+- title: Unami Lodge Spring Service
+  date: 2021-05-14
+  date-end: 2021-05-16
+  time:
+  link-text: Coming Soon
   link-url:
 
 - title: Camp Staff Weekend
-  date: TBD
-  date-end:
-  link-text: Postponed
-  link-url: /staff
-
-- title: Cub Family Weekend 1
-  date: 2020-06-05
-  date-end: 2020-06-07
-  link-text: Coming Soon!
+  date: 2021-06-04
+  date-end: 2021-06-06
+  time:
+  link-text: Registration Closed
   link-url:
 
-- title: Cub Family Weekend 2
-  date: 2020-06-12
-  date-end: 2020-06-14
-  link-text: Coming Soon!
+- title: Week 1
+  date: 2021-06-27
+  date-end: 2021-07-02
+  time:
+  link-text: Registration Closed
   link-url:
 
-- title: Cub Summer Camp
-  date: 2020-06-22
-  date-end: 2020-07-24
+- title: Week 2
+  date: 2021-07-04
+  date-end: 2021-07-09
+  time:
+  link-text: Registration Closed
+  link-url:
+
+- title: Week 3
+  date: 2021-07-11
+  date-end: 2021-07-16
+  time:
+  link-text: Registration Closed
+  link-url:
+
+- title: Week 4
+  date: 2021-07-18
+  date-end: 2021-07-23
+  time:
+  link-text: Registration Closed
+  link-url:
+
+- title: Week 5
+  date: 2021-07-25
+  date-end: 2021-07-30
+  time:
+  link-text: Registration Closed
+  link-url:
+
+- title: Week 6
+  date: 2021-08-01
+  date-end: 2021-08-06
+  time:
+  link-text: Registration Closed
+  link-url:
+
+- title: Week 7
+  date: 2021-08-08
+  date-end: 2021-08-13
+  time:
+  link-text: Registration Closed
+  link-url:
+
+- title: Field Weekend
+  date: 2021-09-24
+  date-end: 2021-09-26
+  time:
   link-text: More Information
-  link-url: /summer/programs
-
-- title: Camp Service Day
-  date: 2020-09-12
-  date-end:
-  link-text: More Information
-  link-url: http://colbsa.doubleknot.com/registration/calendardetail.aspx?activitykey=2599670&orgkey=541
-
-- title: Webelos Woods
-  date: 2020-09-25
-  date-end: 2020-09-27
-  link-text: Coming Soon!
-  link-url:
-
-- title: Unami Lodge Service Weekend
-  date: 2020-10-02
-  date-end: 2020-10-04
-  link-text: More Information
-  link-url: https://unamilodge.org/calendar
-
-- title: Cub Scout Fall Fest
-  date: 2020-10-10
-  date-end: 2020-10-11
-  link-text: Coming in August
-  link-url:
-
-- title: Cub Scout Fall Fest
-  date: 2020-10-17
-  date-end: 2020-10-18
-  link-text: Coming in August
-  link-url:
-
-- title: Cub Scout Fall Fest
-  date: 2020-10-24
-  date-end: 2020-10-25
-  link-text: Coming in August
-  link-url:
-
-- title: Cub Scout Fall Fest
-  date: 2020-10-31
-  date-end: 2020-11-01
-  link-text: Coming in August
-  link-url:
+  link-url: /yearround/field-weekend

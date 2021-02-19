@@ -102,11 +102,75 @@ Options All -Indexes
 ErrorDocument 404 /404/index.html
 ErrorDocument 403 /403/index.html
 
+#####
+#Old Site Redirects
+#####
+Redirect 301 /camp-history /history
+Redirect 301 /spark /news
+Redirect 301 /videos /youtube
+Redirect 301 /important-documents /documents
+Redirect 301 /hunting-fishing /yearround/hunting-fishing
+
+Redirect 301 /knights /news/2020/Knights-of-the-Bushkill
+Redirect 301 /programs-and-opportunities /summer/programs
+Redirect 301 /virtual /news/2020/Summer-Recap
+Redirect 301 /jurassic-falls /news/2019/Summer-Recap
+Redirect 301 /prepared-for-girls /summer/girls
+Redirect 301 /food-and-nutrition /summer/food
+
+Redirect 301 /join-camp-staff /staff
+Redirect 301 /work-at-resica /staff
+Redirect 301 /joincampstaff /staff
+Redirect 301 /seek /summer/seek
+
+Redirect 301 /weekend-activities /yearround/activities
+Redirect 301 /facilities-and-rentals /rentals/facilities
+Redirect 301 /field-weekend /news/2019/Field-Weekend
+
+Redirect 301 /contact-us /contact
+
+Redirect 301 /dates-and-rates /summer/register
+Redirect 301 /2021 /summer/register
+Redirect 301 /2022 /summer/register
+
+Redirect 301 /atv-program /summer/atv
+Redirect 301 /campership /documents
+Redirect 301 /canoeing /rentals/canoes
+Redirect 301 /chris /news/2020/Chris-Brenner
+Redirect 301 /cit-program /summer/seek
+Redirect 301 /cope /yearround/cope
+Redirect 301 /guidebooks /documents
+Redirect 301 /nylt https://colbsa.org/training/nylt/
+Redirect 301 /troop-one /summer/provo
+Redirect 301 /provo /summer/provo
+Redirect 301 /provisional /summer/provo
+
+#####
+#Other Redirects
+#####
 Redirect /summer/documents /documents
-Redirect /weekend/documents /documents
-Redirect /bussing /summer/bus
-Redirect /busing /summer/bus
+Redirect /yearround/documents /documents
+
+Redirect 301 /Trading-Post https://resicatradingpost.square.site/
+Redirect 301 /trading-post https://resicatradingpost.square.site/
+Redirect 301 /tradingpost https://resicatradingpost.square.site/
+Redirect 301 /Store https://resicatradingpost.square.site/
+Redirect 301 /store https://resicatradingpost.square.site/
+
+Redirect 301 /youtube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
+Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
+
+Redirect 301 /staffapparel https://colbsa.doubleknot.com/event/2020-resica-falls-staff-merchandise/2648722
+Redirect 301 /closingreport /staff-downloads
+Redirect 301 /dkstatus https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=64244&sf=f&orgkey=1112
+
+Redirect 301 /leaders-update https://colbsa.zoom.us/webinar/register/WN_TuFXpLLyRwi6-M8yx_oDqA
+Redirect 301 /leadersupdate https://colbsa.zoom.us/webinar/register/WN_TuFXpLLyRwi6-M8yx_oDqA
 
 Redirect /coronavirus /news/COVID19-Summer-Camp-Update
 Redirect /covid19 /news/COVID19-Summer-Camp-Update
 Redirect /covid-19 /news/COVID19-Summer-Camp-Update
+
+#TODO
+#downloads pages
+#news format

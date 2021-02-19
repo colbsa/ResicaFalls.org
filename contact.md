@@ -1,7 +1,6 @@
 ---
 title: Contact Us
 layout: page
-excerpt: If you have a question or you want to reach out, let us know what is on your mind.
 dependencies:
 - src: https://www.google.com/recaptcha/api.js
 - src: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js
@@ -10,9 +9,10 @@ scripts:
 
 ---
 
-<form id="contactform" onsubmit="event.preventDefault();" novalidate>
-  <div class="row">
-    <div class="col-md-6">
+<div class="row">
+  <div class="col-12 col-md-8">
+    <h2>Send a Message</h2>
+    <form id="contactform" onsubmit="event.preventDefault();" novalidate>
       <div class="form-group">
         <label for="name">Name</label>
         <input type="text" class="form-control" name="name" id="contactform-name" placeholder="" value="" required>
@@ -21,24 +21,13 @@ scripts:
         <label for="email">Email</label>
         <input type="email" class="form-control" name="email" id="contactform-email" placeholder="" value="" required>
       </div>
-      <div class="form-group">
-        <label for="subject">Subject</label>
-        <div class="input-group">
-          <select class="form-control" name="subject" id="contactform-subject" required>
-            <option value="">Select One</option>
-            <option value="Summer Camp">Summer Camp</option>
-            <option value="Reservations">Reservations</option>
-            <option value="Fall Fest">Fall Fest</option>
-            <option value="Training">Training</option>
-            <option value="Other">Other</option>
-          </select>
-        </div>
+      <div class="form-group d-none">
+        <label for="recipient">Recipient</label>
+        <input type="recipient" class="form-control" name="recipient" id="contactform-recipient" placeholder="" value="hello@resicafalls.org" disabled>
       </div>
-    </div>
-    <div class="col-md-6">
       <div class="form-group">
         <label for="message">Message</label>
-        <textarea class="form-control" name="message" id="contactform-message" rows="12" required></textarea>
+        <textarea class="form-control" name="message" id="contactform-message" rows="6" required></textarea>
       </div>
       <div class="g-recaptcha"
         data-sitekey="{{ site.recaptcha }}"
@@ -51,6 +40,21 @@ scripts:
       <div class="alert alert-info fade hidden" role="alert" id="alert-response">
         <strong id="alert-headline"></strong> <span id="alert-text"></span>
       </div>
-    </div>
+    </form>
   </div>
-</form>
+  <div class="col-12 col-md-4">
+    <h2>Contact Info</h2>
+    <address>
+      <strong>Resica Falls Scout Reservation</strong><br>
+      1200 Resica Falls Road<br>
+      East Stroudsburg, PA 18302<br>
+      <a href="resicafalls.org">ResicaFalls.org</a><br>
+      <a href="mailto:hello@ResicaFalls.org">hello@ResicaFalls.org</a>
+    </address>
+    <h2>Phone Numbers</h2>
+    <address>
+      Phone: (570) 223-8312<br>
+      Fax: (610) 668-2951
+    </address>
+  </div>
+</div>
