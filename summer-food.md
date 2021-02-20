@@ -9,7 +9,7 @@ Resica Falls has partnered with a food service management company to provide Sco
 
 Campers and adult leaders with dietary restrictions can note their individual restrictions with the camp's food service manager before they come to camp via the form below. We are more than happy to accommodate any dietary restrictions to ensure that campers and leaders have the best dining experience possible.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4FejywBzAqdQNBush5RoSF3j5Qfi5UbFw8alSw3PmSXuE3A/viewform?embedded=true" width="640" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc4FejywBzAqdQNBush5RoSF3j5Qfi5UbFw8alSw3PmSXuE3A/viewform?embedded=true" width="100%" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 Because of restrictions related to COVID-19, how our food is served may be changed; however, be assured the quality of meals prepared will not be diminished.
 
