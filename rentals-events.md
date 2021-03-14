@@ -11,24 +11,24 @@ Resica Falls Scout Reservation is available for non-Scouting groups to rent. The
 For more information, contact our Director of Outdoor Adventures [John Bickel](/contact?recipient=john.bickel@scouting.org).
 
 <div class="row">
-  <div class="col">
+  <div class="col-md">
     {% picture thumb /img/rentals/events/1.jpg --img class="img-fluid rounded mb-2" --alt Bride and groom married in front of the chapel with their wedding party in the background %}
   </div>
-  <div class="col">
+  <div class="col-md">
     {% picture thumb /img/rentals/events/2.jpg --img class="img-fluid rounded mb-2" --alt A band performing on stage in an amphitheater at dusk %}
   </div>
-  <div class="col">
+  <div class="col-md">
     {% picture thumb /img/rentals/events/3.jpg --img class="img-fluid rounded mb-2" --alt Bride and groom share a kiss in front of Resica Falls %}
   </div>
 </div>
 <div class="row">
-  <div class="col">
+  <div class="col-md">
     {% picture thumb /img/rentals/events/4.jpg --img class="img-fluid rounded mb-2" --alt Fireworks are seen above an amphitheater at night %}
   </div>
-  <div class="col">
+  <div class="col-md">
     {% picture thumb /img/rentals/events/5.jpg --img class="img-fluid rounded mb-2" --alt A trail mix bar at a special event %}
   </div>
-  <div class="col">
+  <div class="col-md">
     {% picture thumb /img/rentals/events/6.jpg --img class="img-fluid rounded mb-2" --alt An empty amphitheater ready for your show %}
   </div>
 </div>
