@@ -151,6 +151,9 @@ Redirect 301 /provisional /summer/provo
 Redirect /summer/documents /documents
 Redirect /yearround/documents /documents
 
+Redirect /flyfishing /yearround/hunting-fishing
+Redirect /fishing /yearround/hunting-fishing
+
 Redirect 301 /Trading-Post https://resicatradingpost.square.site/
 Redirect 301 /trading-post https://resicatradingpost.square.site/
 Redirect 301 /tradingpost https://resicatradingpost.square.site/
