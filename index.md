@@ -3,8 +3,8 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/2021.01.31-Leaders-Update.jpg
-  alt: "Picture of a lake and a dock with the writing 'Virtual Leaders Update'"
+- image: /img/slider/2021.04.12-Leaders-Update.jpg
+  alt: "Picture of climbing rope with the writing 'Virtual Leaders Update'"
   link: /leaders-update
 - image: /img/slider/2021.01.31-SEEK.jpg
   alt: "The SEEK program logo with the writing 'Preparing the next generation of camp staff'"
