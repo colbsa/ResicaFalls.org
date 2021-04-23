@@ -22,7 +22,11 @@
       - name: 2021 Campership Applications
         url: https://colbsa.org/camperships/
         coming-soon-date:
-        updated-date: 2021.02.04
+        updated-date:
+      - name: 2021 Pre-Camp Survey
+        url: https://forms.gle/5iNcAA8xjJL54y347
+        coming-soon-date:
+        updated-date:
     - name: Summer 2020
       files:
       - name: Response to COVID-19
