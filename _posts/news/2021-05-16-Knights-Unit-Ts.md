@@ -7,7 +7,7 @@ banner: 2021.05.16-Knights-Unit-Ts.jpg
 banneralt: Short Sleeved T-Shirt with coat of arms and 'Knights of the Bushkill'
 thumbnail: 2021.05.16-Knights-Unit-Ts.png
 thumbalt: Short Sleeved T-Shirt with coat of arms and 'Knights of the Bushkill'
-excerpt: The Field Weekend allows your Troop to hone their tent camping skills while...
+excerpt: Place your order for your personalized Troop T-shirts.
 ---
 
 Place your order for your personalized Troop T-shirts. They will be available for pick up when you check in for your week at Resica.
