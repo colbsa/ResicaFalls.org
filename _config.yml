@@ -4,7 +4,7 @@ logo: "/img/logo.png"
 description: "Spend your summer doing something amazing at Resica Falls Scout Reservation."
 
 alert:
-  text: For coronavirus related updates, please visit <a href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
+  text: For summer camp COVID-19 information <a href="/files/health_and_safety/Resica-Falls_COVID-19_Overview-Sheet.pdf" target="_blank">review our latest overview</a>. For all other activities, visit <a href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
   class: alert-danger
 
 plugins:
