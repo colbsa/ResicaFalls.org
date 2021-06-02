@@ -27,24 +27,6 @@
         url: https://forms.gle/5iNcAA8xjJL54y347
         coming-soon-date:
         updated-date:
-    - name: Summer 2020
-      files:
-      - name: Response to COVID-19
-        url: /files/summer/2020.04.06_Covid-19-Update.pdf
-        coming-soon-date:
-        updated-date:
-      - name: 2020 Summer Camp Brochure
-        url: /files/summer/2020-RFSR-Brochure.pdf
-        coming-soon-date:
-        updated-date:
-      - name: 2020 Program Guide
-        url: /files/summer/2020_Program_Guide.pdf
-        coming-soon-date:
-        updated-date:
-      - name: 2020 Merit Badge Offerings
-        url: /files/summer/2020-Merit-Badge-Offerings.pdf
-        coming-soon-date:
-        updated-date:
     - name: General Summer Forms
       files:
       - name: Precamp Swim Test
@@ -70,6 +52,10 @@
         updated-date:
       - name: ATV COVID Waiver
         url: /files/special_programs/ATV_COVID_Waiver.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Catapult Competition Guidelines
+        url: /files/special_programs/Catapult-Competition-Guidelines.pdf
         coming-soon-date:
         updated-date:
       - name: COPE Application
