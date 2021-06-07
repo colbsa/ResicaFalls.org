@@ -179,6 +179,8 @@ Redirect /coronavirus /news/COVID19-Summer-Camp-Update
 Redirect /covid19 /news/COVID19-Summer-Camp-Update
 Redirect /covid-19 /news/COVID19-Summer-Camp-Update
 
+Redirect /brennerproject https://app.mobilecause.com/e/Kutx0A?vid=jgebx
+
 #TODO
 #downloads pages
 #news format
