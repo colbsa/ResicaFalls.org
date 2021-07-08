@@ -5,6 +5,8 @@ permalink: /summer/register
 excerpt: 7 great weeks to spend the summer with us! Which will you choose?
 ---
 
+Registration for 2021 is closed. For information about joining us at camp this summer, contact us at hello@ResicaFalls.org. For information about 2022 camp season, check back in a few weeks.
+
 <div class="row">
   <div class="col">
     <table class="table table-striped my-3 ">
