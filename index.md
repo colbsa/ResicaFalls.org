@@ -3,7 +3,7 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/BrennerProject.png
+- image: /img/slider/BrennerLodge.png
   alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
   link: /brennerproject
 - image: /img/slider/2021.04.12-Leaders-Update.jpg
