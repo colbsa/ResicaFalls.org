@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Unit T-Shirts"
+title: Brenner Lodge
 author:
 date: 2021-07-16
 banner: 2021.07.16-BrennerLodge.png
