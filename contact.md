@@ -12,7 +12,7 @@ scripts:
 <div class="row">
   <div class="col-12 col-md-8">
     <h2>Send a Message</h2>
-    <form id="contactform" onsubmit="event.preventDefault();" novalidate>
+    <form id="contactform" onsubmit="event.preventDefault();" novalidate="">
       <div class="form-group">
         <label for="name">Name</label>
         <input type="text" class="form-control" name="name" id="contactform-name" placeholder="" value="" required>
