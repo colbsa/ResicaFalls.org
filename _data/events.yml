@@ -1,76 +1,83 @@
-- title: Campership Applications Due
-  date: 2021-04-15
-  date-end:
-  time:
-  link-text: More Information
-  link-url: https://colbsa.org/camperships/
-
-- title: Unami Lodge Spring Service
-  date: 2021-05-14
-  date-end: 2021-05-16
-  time:
-  link-text: Coming Soon
-  link-url:
-
-- title: Camp Staff Weekend
-  date: 2021-06-04
-  date-end: 2021-06-06
-  time:
-  link-text: Registration Closed
-  link-url:
-
-- title: Week 1
-  date: 2021-06-27
-  date-end: 2021-07-02
-  time:
-  link-text: Registration Closed
-  link-url:
-
-- title: Week 2
-  date: 2021-07-04
-  date-end: 2021-07-09
-  time:
-  link-text: Registration Closed
-  link-url:
-
-- title: Week 3
-  date: 2021-07-11
-  date-end: 2021-07-16
-  time:
-  link-text: Registration Closed
-  link-url:
-
-- title: Week 4
-  date: 2021-07-18
-  date-end: 2021-07-23
-  time:
-  link-text: Registration Closed
-  link-url:
-
-- title: Week 5
-  date: 2021-07-25
-  date-end: 2021-07-30
-  time:
-  link-text: Registration Closed
-  link-url:
-
-- title: Week 6
-  date: 2021-08-01
-  date-end: 2021-08-06
-  time:
-  link-text: Registration Closed
-  link-url:
-
-- title: Week 7
-  date: 2021-08-08
-  date-end: 2021-08-13
-  time:
-  link-text: Registration Closed
-  link-url:
-
-- title: Field Weekend
+- title: Liberty Jam - The Grand Finale
   date: 2021-09-24
   date-end: 2021-09-26
   time:
   link-text: More Information
-  link-url: /yearround/field-weekend
+  link-url: https://colbsa.org/25th/
+
+- title: Service Day
+  date: 2021-10-09
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Service Day
+  date: 2021-10-09
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Service Day
+  date: 2021-10-23
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Service Day
+  date: 2021-11-20
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Week 1
+  date: 2022-06-26
+  date-end: 2022-07-02
+  time:
+  link-text: Coming Soon
+  link-url:
+
+- title: Week 2
+  date: 2022-07-03
+  date-end: 2022-07-09
+  time:
+  link-text: Coming Soon
+  link-url:
+
+- title: Week 3
+  date: 2022-07-10
+  date-end: 2022-07-16
+  time:
+  link-text: Coming Soon
+  link-url:
+
+- title: Week 4
+  date: 2022-07-17
+  date-end: 2022-07-23
+  time:
+  link-text: Coming Soon
+  link-url:
+
+- title: Week 5
+  date: 2022-07-24
+  date-end: 2022-07-30
+  time:
+  link-text: Coming Soon
+  link-url:
+
+- title: Week 6
+  date: 2022-07-31
+  date-end: 2022-08-06
+  time:
+  link-text: Coming Soon
+  link-url:
+
+- title: Week 7
+  date: 2022-08-07
+  date-end: 2022-08-13
+  time:
+  link-text: Coming Soon
+  link-url:
