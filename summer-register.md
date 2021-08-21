@@ -5,7 +5,7 @@ permalink: /summer/register
 excerpt: 7 great weeks to spend the summer with us! Which will you choose?
 ---
 
-Registration for 2021 is closed. For information about joining us at camp this summer, contact us at hello@ResicaFalls.org. For information about 2022 camp season, check back in a few weeks.
+We're still preparing to open registration for 2022. For information about 2022 camp season, check back in a few weeks, or contact us at hello@ResicaFalls.org.
 
 <div class="row">
   <div class="col">
@@ -17,10 +17,10 @@ Registration for 2021 is closed. For information about joining us at camp this s
       </thead>
       <tbody class="text-center">
           <tr>
-            <td>Early Bird: $440 per Youth / $200 per Adult</td>
+            <td>Early Bird: $445 per Youth / $200 per Adult</td>
           </tr>
           <tr>
-            <td>Regular: $465 per Youth / $200 per Adult</td>
+            <td>Regular: $475 per Youth / $200 per Adult</td>
           </tr>
           <tr>
             <td><em>Early bird offer ends December 15</em></td>
@@ -51,7 +51,7 @@ Registration for 2021 is closed. For information about joining us at camp this s
           {% if session.link %}
             <td><a class="btn btn-primary btn-block" href="{{session.link}}" target="_blank">Register Now</a></td>
           {% else %}
-            <td>Session Full</td>
+            <td>Coming Soon</td>
           {% endif%}
         </tr>
       {%- endfor -%}

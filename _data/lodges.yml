@@ -1,6 +1,6 @@
 - name: Bear
   camp: Big Springs
-  capacity: 24
+  capacity: 22
   cost: 300
   heat: true
   water: true
