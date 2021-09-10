@@ -5,7 +5,7 @@ permalink: /summer/register
 excerpt: 7 great weeks to spend the summer with us! Which will you choose?
 ---
 
-We're still preparing to open registration for 2022. For information about 2022 camp season, check back in a few weeks, or contact us at hello@ResicaFalls.org.
+We're still preparing to open registration for 2022. You can reserve your spot today using the Declaration of Intent on the [Important Documents page](/documents). For information about 2022 camp season, check back in a few weeks, or contact us at hello@ResicaFalls.org.
 
 <div class="row">
   <div class="col">
