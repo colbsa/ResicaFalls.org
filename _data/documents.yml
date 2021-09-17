@@ -1,6 +1,12 @@
 - section:
   name: Summer Camp Details
   subsections:
+    - name: Summer 2022
+      files:
+      - name: 2022 Declaration of Intent
+        url: /files/summer/2022_Declaration_of_Intent.pdf
+        coming-soon-date:
+        updated-date:
     - name: Summer 2021
       files:
       - name: 2021 Leaders' Guide
