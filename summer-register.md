@@ -26,9 +26,6 @@ We're still preparing to open registration for 2022. You can reserve your spot t
             <td><em>Early bird offer ends December 15</em></td>
           </tr>
           <tr>
-            <td><strong>Second Week: $250 per Youth</strong></td>
-          </tr>
-          <tr>
             <td><strong>Every unit receives 2 free adults!</strong><br>You will also earn 1 free adult for every 10 scouts after your first 20 scouts!</td>
           </tr>
       </tbody>
