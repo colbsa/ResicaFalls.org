@@ -17,13 +17,16 @@ We're still preparing to open registration for 2022. You can reserve your spot t
       </thead>
       <tbody class="text-center">
           <tr>
-            <td>Early Bird: $445 per Youth / $200 per Adult</td>
+            <td>Early Bird: $475 per Youth / $200 per Adult</td>
           </tr>
           <tr>
-            <td>Regular: $475 per Youth / $200 per Adult</td>
+            <td>Regular: $505 per Youth / $200 per Adult</td>
           </tr>
           <tr>
             <td><em>Early bird offer ends December 15</em></td>
+          </tr>
+          <tr>
+            <td><strong>Second Week: $375 per Youth</strong></td>
           </tr>
           <tr>
             <td><strong>Every unit receives 2 free adults!</strong><br>You will also earn 1 free adult for every 10 scouts after your first 20 scouts!</td>
