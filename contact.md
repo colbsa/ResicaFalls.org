@@ -7,7 +7,7 @@ dependencies:
 scripts: 
 - src: assets/custom/js/contact.js
 alert:
-- text: The contact form is currently undergoing some work. For best results, please email us directly at hello@resicafalls.org.
+  text: The contact form is currently undergoing some work. For best results, please email us directly at hello@resicafalls.org.
 
 ---
 
