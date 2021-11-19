@@ -6,6 +6,8 @@ dependencies:
 - src: https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.min.js
 scripts: 
 - src: assets/custom/js/contact.js
+alert:
+- text: The contact form is currently undergoing some work. For best results, please email us directly at hello@resicafalls.org.
 
 ---
 
