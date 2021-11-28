@@ -23,7 +23,7 @@ We're still preparing to open registration for 2022. You can reserve your spot t
             <td>Regular: $505 per Youth / $200 per Adult</td>
           </tr>
           <tr>
-            <td><em>Early bird offer ends December 15</em></td>
+            <td><em>Early bird offer ends February 1</em></td>
           </tr>
           <tr>
             <td><strong>Second Week: $375 per Youth</strong></td>
