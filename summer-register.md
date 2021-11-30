@@ -58,7 +58,7 @@ We're still preparing to open registration for 2022. You can reserve your spot t
       </tbody>
     </table>
     <div class="text-center">
-      <a role="button" class="btn btn-primary btn-lg" href="https://colbsa.doubleknot.com/Rosters/logon.aspx?orgkey=541">View Your Current Registration</a>
+      <a role="button" class="btn btn-primary btn-lg" href="https://scoutingevent.com/525-52835">View Your Current Registration</a>
     </div>
   </div>
 </div>

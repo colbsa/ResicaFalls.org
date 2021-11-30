@@ -6,7 +6,7 @@
       - name: 2022 Declaration of Intent
         url: /files/summer/2022_Declaration_of_Intent.pdf
         coming-soon-date:
-        updated-date:
+        updated-date: 20201.10.09
     - name: Summer 2021
       files:
       - name: 2021 Leaders' Guide
@@ -25,14 +25,6 @@
         url: /files/summer/2021_Refund_Policy.pdf
         coming-soon-date:
         updated-date: 2021.02.04
-      - name: 2021 Campership Applications
-        url: https://colbsa.org/camperships/
-        coming-soon-date:
-        updated-date:
-      - name: 2021 Pre-Camp Survey
-        url: https://forms.gle/5iNcAA8xjJL54y347
-        coming-soon-date:
-        updated-date:
       - name: 2021 Summer Menu
         url: /files/summer/2021_Summer_Menu.pdf
         coming-soon-date:
@@ -47,14 +39,10 @@
         url: /files/summer/Parental_Release.pdf
         coming-soon-date:
         updated-date:
-      - name: Merit Badge Signup Instructions
-        url: /files/summer/MeritBadge_Instructions.pdf
-        coming-soon-date:
-        updated-date:
 - section:
   name: Special Programs
   subsections:
-    - name:
+    - name: ATV Program
       files:
       - name: ATV Participant Release
         url: /files/special_programs/ATV_Participant_Release.pdf
@@ -68,14 +56,14 @@
         url: https://cbt.svia.org/login/index.php
         coming-soon-date:
         updated-date:
-      - name: Catapult Competition Guidelines
-        url: /files/special_programs/Catapult-Competition-Guidelines.pdf
-        coming-soon-date:
-        updated-date:
+    - name: COPE & Climbing
+      files:
       - name: COPE Application
         url: /files/special_programs/COPE_Application.pdf
         coming-soon-date:
         updated-date:
+    - name: Shooting Sports
+      files:
       - name: Cowboy Action Flyer
         url: /files/special_programs/CowboyActionFlyer-Permission.pdf
         coming-soon-date:
@@ -112,10 +100,6 @@
       files:
       - name: Annual Health and Medical Record
         url: https://www.scouting.org/health-and-safety/ahmr/
-        coming-soon-date:
-        updated-date:
-      - name: Council COVID Questionnaire
-        url: https://docs.google.com/document/d/1lOQwzgRHTjeNazHFIY9_yl63192nllqwsivWf092Pto/edit
         coming-soon-date:
         updated-date:
       - name: Dietary Restriction Information
