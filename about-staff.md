@@ -22,11 +22,11 @@ Working on camp staff opens to each staff member a whole new world of adventure 
 - Learn how to lead others and to apply leadership skills.
 - Be part of an effective team and cooperate with others to get things done.
 - Acquire experiential education (learning by doing) and new skills while working with young people ages 11-17.
-- Make lots of fiends and memories that will last a lifetime.
+- Make lots of friends and memories that will last a lifetime.
 
 Our staff is not just a group of counselors having fun, but rather a family of 100 individuals dedicated to providing an outstanding experience to each and every one of our campers. Each of our counselors and support staff members receives extensive training in their roles in camp, as well as specific knowledge in customer service, emergency procedures, and youth protection. We look for only the best staff members that possess the following qualifications:
 
-- Be at least 15 years old.
+- Be at least 16 years old.
 - A positive attitude and a strong work ethic.
 - A desire to make a lasting impact on the life of a Scout.
 - A willingness to live by the Scout Oath &amp; Law.
@@ -58,7 +58,7 @@ Many of our senior camp staff leaders have extensive experience in camp and have
   </div>
 </div>
 
-If you’re ready to join us for a summer of fun at Resica Falls, apply today!
+If you’re ready to join us for a summer of fun at Resica Falls, [apply today](https://colbsa.workbrightats.com/jobs/)!
 
 <div class="col alert alert-primary text-center">
   <h2 class="mb-0">Frequently Asked Questions</h2>

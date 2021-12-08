@@ -38,14 +38,14 @@ We’re thrilled to be offering the SEEK program in 2022! Space is limited, so r
         <tr>
             <td>Weeks 1-3</td>
             <td>June 26 - July 16</td>
-            <td>Coming Soon</td>
-            <!-- <td><a class="btn btn-primary" href="https://scoutingevent.com/525-52835-138422">Register</a></td> -->
+            <!-- <td>Coming Soon</td> -->
+            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-52835-138422">Register</a></td>
         </tr>
         <tr>
             <td>Weeks 4-6</td>
             <td>July 17 - August 6</td>
-            <td>Coming Soon</td>
-            <!-- <td><a class="btn btn-primary" href="https://scoutingevent.com/525-52835-138427">Register</a></td> -->
+            <!-- <td>Coming Soon</td> -->
+            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-52835-138427">Register</a></td>
         </tr>
     </tbody>
 </table>

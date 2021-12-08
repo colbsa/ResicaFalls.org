@@ -7,7 +7,7 @@ excerpt: Our Resica Troop One program is designed to allow every Scout the oppor
 
 Our Resica Troop One program is designed to allow every Scout the opportunity to experience the adventure that awaits at Resica Falls. Members of our staff serve as Scoutmaster and as assistants for Troop One, providing those Scouts coming to camp without their unit, or those who want to experience a second week of camp, with the leadership and supervision needed for a fun stay in camp. Boys and girls participating in Resica One have the same experiences and opportunities as Scouts who camp with their regular troops.
 
-The members of Troop One function as a normal troop throughout the week. The Scouts have the chance to earn merit badges and participate in camp-wide programs, eat meals in the dining hall, and sit around the campfire, all with this temporary troop. If your stay with Troop One is your second week participating in a council-level resident summer camp program, whether at Resica Falls or not, you can participate at a discounted rate. Please visit our [Dates and Rates](/summer/register) page for more information about pricing!
+The members of Troop One function as a normal troop throughout the week. The Scouts have the chance to earn merit badges and participate in camp-wide programs, eat meals in the dining hall, and sit around the campfire, all with this temporary troop. If your stay with Troop One is your second week participating in summer camp at Resica Falls, you can attend at a discounted rate. Please visit our [Dates and Rates](/summer/register) page for more information about pricing!
 
 <table class="table text-center table-sessions">
   <thead class="thead-inverse">
@@ -19,19 +19,19 @@ The members of Troop One function as a normal troop throughout the week. The Sco
   </thead>
   <tbody>
     <tr>
-      <td>Week 1-5</td>
-      <td>June 27 - July 31</td>
-      <td>Closed (Full)</td>
+      <td>Week 5</td>
+      <td>July 24 - July 30</td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-52835-138428">Register</a></td>
     </tr>
     <tr>
       <td>Week 6</td>
-      <td>August 1 - August 7</td>
-      <td><a class="btn btn-primary" href="https://colbsa.doubleknot.com/event/scouts-bsaventuring-summer-camp-at-resica-falls-week-6/2693062">Register</a></td>
+      <td>July 31 - August 6</td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-52835-138429">Register</a></td>
     </tr>
     <tr>
       <td>Week 7</td>
-      <td>August 8 - August 14</td>
-      <td><a class="btn btn-primary" href="https://colbsa.doubleknot.com/event/scouts-bsaventuring-summer-camp-at-resica-falls-week-7/2693063">Register</a></td>
+      <td>August 7 - August 13</td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-52835-138430">Register</a></td>
     </tr>
   </tbody>
 </table>
