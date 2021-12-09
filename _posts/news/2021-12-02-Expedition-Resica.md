@@ -12,5 +12,5 @@ excerpt: The Camp Leadership Team is excited to reveal our theme for the summer 
 
 The Camp Leadership Team is excited to reveal our theme for the summer of 2022 - Expedition Resica! Journey into the depths of the jungle and explore a world filled with adventure, mystery, and exotic wildlife. Prepare your costumes and expedition gear for events like the Jungle Boogie and the Great Cryptid Hike. Keep your eyes open for more hints and secrets about the exciting program that awaits this summer at Resica Falls!
 
-**A Note on COVID-19: **
+<strong>A Note on COVID-19:</strong>
 Resica Falls continues to be committed to the safety of all Scouts, leaders, and camp staff. While we prepare for another traditional summer camp experience in 2022, we will continue to be mindful of any new challenges that may present themselves in order to provide the adventure and the wonder of the outdoors that is Resica Falls.
