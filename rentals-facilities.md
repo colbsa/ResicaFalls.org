@@ -13,7 +13,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
 
 {% picture thumb /img/rentals/campsites/generic_creek.jpg --img class="img-fluid rounded" --alt A dome tent pitched with the entryway facing a small creek with fall foliage on the ground %}
 
-<!-- <a class="btn btn-primary btn-block" href="https://colbsa.doubleknot.com/facilitysearch/2849" target="_blank">Book Now!</a> -->
+<a class="btn btn-primary btn-block" href="https://campreservation.com/525/Camps/416" target="_blank">Book Now!</a>
 
 {% endcontentfor %}
 
@@ -23,7 +23,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
   The current facility reservation system is closed until January 1, 2022 as we work to move existing reservations onto our new platform. We appreciate your patience as we work to bring you a better facility reservation process in the new year. We cannot take reservations over the phone or via email.  Please contact <a href="mailto:camping@colbsa.org">camping@colbsa.org</a> with any additional questions.
 </div>
 
-<!-- {% assign firestone_lodges = site.data.lodges | where: "camp", "Firestone" %}
+{% assign firestone_lodges = site.data.lodges | where: "camp", "Firestone" %}
 {% assign firestone_sites = site.data.campsites | where: "camp", "Firestone" %}
 {% assign springs_lodges = site.data.lodges | where: "camp", "Big Springs" %}
 {% assign springs_sites = site.data.campsites | where: "camp", "Big Springs" %}
@@ -159,6 +159,6 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
     <h2>Special Events</h2>
     Facility and venue prices are listed for Scouting groups and are based on a per weekend rental except where otherwise noted. Our facilities and camp venues are available for non-Scouting groups to rent. For more information on renting any part of Resica Falls for a special event, visit <a href="/rentals/private-events">Events in Camp</a>.
   </div>
-</div> -->
+</div>
 
 {% endcontentfor %}
