@@ -6,9 +6,13 @@
       - name: 2022 Declaration of Intent
         url: /files/summer/2022_Declaration_of_Intent.pdf
         coming-soon-date:
-        updated-date: 20201.10.09
+        updated-date: 2021.10.09
       - name: 2022 Resica Falls Promo
         url: /files/summer/2022_Resica-Falls-Promo.pdf
+        coming-soon-date:
+        updated-date:
+      - name: 2022 Campership Application
+        url: https://colbsa.org/camperships/
         coming-soon-date:
         updated-date:
     - name: Summer 2021

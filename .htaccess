@@ -134,7 +134,7 @@ Redirect 301 /2021 /summer/register
 Redirect 301 /2022 /summer/register
 
 Redirect 301 /atv-program /summer/atv
-Redirect 301 /campership /documents
+Redirect 301 /campership https://colbsa.org/camperships/
 Redirect 301 /canoeing /rentals/canoes
 Redirect 301 /chris /news/2020/Chris-Brenner
 Redirect 301 /cit-program /summer/seek
