@@ -21,7 +21,10 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
             <td>Regular: $505 per Youth / $200 per Adult</td>
           </tr>
           <tr>
-            <td><em>Early bird offer ends February 1</em></td>
+            <td>
+              <strong>Early bird offer ends March 1</strong><br>
+              <em>$50 per Scout deposit must be paid to lock-in the Early Bird rate for each individual Scout</em>
+            </td>
           </tr>
           <tr>
             <td><strong>Second Week: $375 per Youth</strong></td>
