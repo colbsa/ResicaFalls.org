@@ -22,7 +22,7 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
           </tr>
           <tr>
             <td>
-              <strong>Early bird offer ends March 1</strong><br>
+              <strong>Early Bird offer ends March 1</strong><br>
               <em>$50 per Scout deposit must be paid to lock-in the Early Bird rate for each individual Scout</em>
             </td>
           </tr>
