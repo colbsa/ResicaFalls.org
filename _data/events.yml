@@ -12,6 +12,27 @@
   link-text: More Information
   link-url: https://colbsa.org/camperships/
 
+- title: Service Day
+  date: 2022-04-02
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Service Day
+  date: 2022-04-23
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Service Day
+  date: 2022-06-04
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
 - title: Week 1
   date: 2022-06-26
   date-end: 2022-07-02
