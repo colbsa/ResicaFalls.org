@@ -58,8 +58,5 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
       {%- endfor -%}
       </tbody>
     </table>
-    <div class="text-center">
-      <a role="button" class="btn btn-primary btn-lg" href="https://scoutingevent.com/525-52835">View Your Current Registration</a>
-    </div>
   </div>
 </div>
