@@ -5,7 +5,7 @@ author:
 date: 2022-02-07
 banner:
 banneralt:
-thumbnail: 2022.02.28-Leaders-Update.png
+thumbnail: 2022.02.11-Leaders-Update.png
 thumbalt: "Virtual Leaders Update February 28 7PM"
 excerpt:  The first leaders update is coming this February 28...
 ---
