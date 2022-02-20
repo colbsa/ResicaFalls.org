@@ -35,7 +35,7 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
       </tbody>
     </table>
     <div class="col alert alert-primary text-center">
-      Please only submit one registration per unit. If you have already registered and would like to update your registration follow the link in your confirmation email or email <a href="mailto:camping@colbsa.org">camping@colbsa.org</a>.
+      Please submit only one registration per unit. If you have already registered and would like to update your registration follow the link in your confirmation email or email <a href="mailto:camping@colbsa.org">camping@colbsa.org</a>.
     </div>
   </div>
   <div class="col">
