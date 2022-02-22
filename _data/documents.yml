@@ -3,6 +3,10 @@
   subsections:
     - name: Summer 2022
       files:
+      - name: 2022 Program Guide
+        url: /files/summer/2022-ResicaProgamGuide.pdf
+        coming-soon-date:
+        updated-date:
       - name: 2022 Declaration of Intent
         url: /files/summer/2022_Declaration_of_Intent.pdf
         coming-soon-date:
@@ -23,28 +27,6 @@
         url: https://docs.google.com/forms/d/e/1FAIpQLSeVr0zkMPCU6yIaD4fXFzkJkZ63wVl65nsYAl0foqtK6CiCyg/viewform
         coming-soon-date:
         updated-date:
-    - name: Summer 2021
-      files:
-      - name: 2021 Leaders' Guide
-        url: /files/summer/2021_Leaders_Guide.pdf
-        coming-soon-date:
-        updated-date: 2021.06.03
-      - name: 2021 Program Guide
-        url: /files/summer/2021_Program_Guide.pdf
-        coming-soon-date:
-        updated-date: 2021.06.02
-      - name: 2021 Roster Template
-        url: /files/summer/Camp_Roster.xlsx
-        coming-soon-date:
-        updated-date:
-      - name: 2021 Refund Policy
-        url: /files/summer/2021_Refund_Policy.pdf
-        coming-soon-date:
-        updated-date: 2021.02.04
-      - name: 2021 Summer Menu
-        url: /files/summer/2021_Summer_Menu.pdf
-        coming-soon-date:
-        updated-date: 2021.07.18
     - name: General Summer Forms
       files:
       - name: Precamp Swim Test
