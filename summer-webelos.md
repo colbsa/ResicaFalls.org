@@ -23,9 +23,9 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
 
 <div class="col alert alert-primary text-center">
   Registration Opens: April 1, 2022<br>
-  Registration Deadline: June 24, 2022<br>
+  <strong>Registration Deadline: June 24, 2022</strong><br>
   $375 per Scout&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$150 per Adult<br>
-  Registration for both Scouts and Adults includes a t shirt and a patch!
+  <em>Registration for both Scouts and Adults includes a t shirt and a patch!</em>
 </div>
 
 <table class="table text-center table-sessions">
