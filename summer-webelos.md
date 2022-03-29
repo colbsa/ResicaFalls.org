@@ -2,7 +2,7 @@
 title: Webelos Week – An Outdoor Adventure for Cubs
 layout: page
 permalink: /summer/webelos
-excerpt: Introduced in 2021, the SEEK program is focused on preparing the next generation of camp staff. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth. 
+excerpt: An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure.
 ---
 
 Calling all rising 4th and 5th graders – Resica Falls is excited to introduce our Webelos Week for Summer 2022! An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure. The time in between will be filled with campfires, shooting sports, swimming, boating, and exploring the outdoors. Other highlights will include a day hike for all and an exclusive overnight trip for Arrow of Light Scouts. All these activities are centered around the theme of **Expedition Resica**, a mysterious escape into the depths of the jungle! 
