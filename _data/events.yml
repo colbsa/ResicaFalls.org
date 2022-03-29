@@ -1,23 +1,16 @@
-- title: Leaders Update
-  date: 2022-02-28
-  date-end:
-  time: 7PM
-  link-text: More Information
-  link-url: /posts/2022-February-Leaders-Update
-
-- title: Early Bird Ends
-  date: 2022-03-01
-  date-end:
-  time:
-  link-text: More Information
-  link-url: /summer/register
-
 - title: Campership Application Due
   date: 2022-04-01
   date-end:
   time:
   link-text: More Information
   link-url: https://colbsa.org/camperships/
+  
+- title: Leaders Update Webinar
+  date: 2022-04-11
+  date-end:
+  time: 7PM
+  link-text: Register
+  link-url: https://colbsa.zoom.us/webinar/register/WN_ryUwcKtsTzq2OuIengLQOg
 
 - title: Service Day
   date: 2022-04-02
