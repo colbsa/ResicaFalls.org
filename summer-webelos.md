@@ -47,7 +47,7 @@ Registration for both Scouts and Adults includes a t shirt and a patch!
 
 {% contentfor sidebar %}
 
-{% picture thumb /_img/activities/bb.jpg --img class="img-fluid rounded mb-2" --alt Scout shooting BB Gun %}
+{% picture thumb /img/summer/bb-2.jpg --img class="img-fluid rounded mb-2" --alt Scout shooting BB Gun %}
 
 {% endcontentfor %}
 
