@@ -21,11 +21,12 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
 - Webelos Walkabout (4th Grade/Webelos Only)
 - Yo-Yo
 
-Registration Opens: April 1, 2022
-Registration Deadline: June 24, 2022
-$375 per Scout         $150 per Adult
-Registration for both Scouts and Adults includes a t shirt and a patch!
-
+<div class="col alert alert-primary text-center">
+  Registration Opens: April 1, 2022<br>
+  Registration Deadline: June 24, 2022<br>
+  $375 per Scout&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$150 per Adult<br>
+  Registration for both Scouts and Adults includes a t shirt and a patch!
+</div>
 
 <table class="table text-center table-sessions">
     <thead class="thead-inverse">
