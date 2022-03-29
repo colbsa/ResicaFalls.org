@@ -39,7 +39,7 @@ The members of Troop One function as a normal troop throughout the week. The Sco
 
 {% contentfor sidebar %}
 
-{% picture thumb /img/summer/troop-one/01.jpg --img class="img-fluid rounded mb-2" --alt Photorealistic painting of scouts eating around a table in the dining hall %}
-{% picture thumb /img/summer/troop-one/02.jpg --img class="img-fluid rounded mb-2" --alt Sample food located at the salad bar %}
+{% picture thumb /img/summer/troop-one/01.jpg --img class="img-fluid rounded mb-2" --alt Scout tinkering with a robot %}
+{% picture thumb /img/summer/troop-one/02.jpg --img class="img-fluid rounded mb-2" --alt Two scouts swimming in a pool %}
 
 {% endcontentfor %}
