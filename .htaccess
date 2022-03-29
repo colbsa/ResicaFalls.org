@@ -172,8 +172,8 @@ Redirect 301 /staffapparel https://colbsa.doubleknot.com/event/2021-resica-falls
 Redirect 301 /closingreport /staff-downloads
 Redirect 301 /dkstatus https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=64244&sf=f&orgkey=1112
 
-Redirect 301 /leaders-update https://colbsa.zoom.us/webinar/register/WN_tphNX5TOQt6lO1wLbOLUOw
-Redirect 301 /leadersupdate https://colbsa.zoom.us/webinar/register/WN_tphNX5TOQt6lO1wLbOLUOw
+Redirect 301 /leaders-update https://colbsa.zoom.us/webinar/register/WN_ryUwcKtsTzq2OuIengLQOg
+Redirect 301 /leadersupdate https://colbsa.zoom.us/webinar/register/WN_ryUwcKtsTzq2OuIengLQOg
 
 Redirect /coronavirus /news/COVID19-Summer-Camp-Update
 Redirect /covid19 /news/COVID19-Summer-Camp-Update
