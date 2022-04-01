@@ -2,7 +2,6 @@
 title: Webelos Week – An Outdoor Adventure for Cubs
 layout: page
 permalink: /summer/webelos
-permalink: /seek2022
 excerpt: An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure.
 ---
 
@@ -25,7 +24,7 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
 <div class="col alert alert-primary text-center">
   Registration Opens: April 1, 2022<br>
   <strong>Registration Deadline: June 24, 2022</strong><br>
-  $375 per Scout&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$150 per Adult<br>
+  $375 per Scout &mdash; $150 per Adult<br>
   <em>Registration for both Scouts and Adults includes a t shirt and a patch!</em>
 </div>
 
