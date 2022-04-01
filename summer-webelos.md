@@ -2,6 +2,7 @@
 title: Webelos Week – An Outdoor Adventure for Cubs
 layout: page
 permalink: /summer/webelos
+permalink: /seek2022
 excerpt: An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure.
 ---
 
@@ -40,7 +41,7 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
         <tr>
             <td>1</td>
             <td>August 7 - August 13</td>
-            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-57697">Register</a></td>
+            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-57697">Register Now</a></td>
         </tr>
     </tbody>
 </table>
