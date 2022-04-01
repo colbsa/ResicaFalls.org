@@ -40,8 +40,7 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
         <tr>
             <td>1</td>
             <td>August 7 - August 13</td>
-            <td>Registration Coming Soon</td>
-            <!-- <td><a class="btn btn-primary disabled" href="#">Register</a></td> -->
+            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-57697">Register</a></td>
         </tr>
     </tbody>
 </table>
@@ -49,6 +48,8 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
 {% contentfor sidebar %}
 
 {% picture thumb /img/summer/bb-2.jpg --img class="img-fluid rounded mb-2" --alt Scout shooting BB Gun %}
+{% picture thumb /img/summer/slide.jpg --img class="img-fluid rounded mb-2" --alt 3 Story pool slide %}
+{% picture thumb /img/summer/campfire.jpg --img class="img-fluid rounded mb-2" --alt Scouts proudly building campfire %}
 
 {% endcontentfor %}
 
