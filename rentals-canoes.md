@@ -9,7 +9,7 @@ excerpt: Looking to go on a troop canoe trip? Rent your canoes and a campsite fr
 Is your unit looking to go on a weekend canoe trip? Rent your canoes from Resica Falls! The Delaware River is only a few miles away from Resica Falls and with that comes a great opportunity for a canoeing trip. Resica Falls offers canoes for rent at competitive fees. Paddles & PFDs are included with our canoes. Rentals are available throughout the year for units interested in either a day or weekend trip on the River.
 
 <table class="table text-center">
-    <caption>Paddles &amp; PFDs included with our canoes. Trailer holds 6 canoes. $50 for canoe delivery and pickup.</caption>
+    <caption>Paddles &amp; PFDs included with our canoes.</caption>
     <thead class="thead-inverse">
         <tr>
             <th class="text-center">Package</th>
