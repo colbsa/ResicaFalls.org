@@ -85,7 +85,6 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
           <th scope="col">Heat</th>
           <th scope="col">Water</th>
           <th scope="col">Fireplace</th>
-          <th scope="col">Wood Stove</th>
         </tr>
       </thead>
       <tbody>
@@ -97,7 +96,6 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
           <td>{% if facility.heat %}<i class="fa fa-check"></i>{% endif %}</td>
           <td>{% if facility.water %}<i class="fa fa-check"></i>{% endif %}</td>
           <td>{% if facility.fireplace %}<i class="fa fa-check"></i>{% endif %}</td>
-          <td>{% if facility.woodstove %}<i class="fa fa-check"></i>{% endif %}</td>
         </tr>
       {%- endfor -%}
       </tbody>
