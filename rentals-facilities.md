@@ -19,10 +19,6 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
 
 {% contentfor bottom %}
 
-<div class="alert alert-secondary">
-  The current facility reservation system is closed until January 1, 2022 as we work to move existing reservations onto our new platform. We appreciate your patience as we work to bring you a better facility reservation process in the new year. We cannot take reservations over the phone or via email.  Please contact <a href="mailto:camping@colbsa.org">camping@colbsa.org</a> with any additional questions.
-</div>
-
 {% assign firestone_lodges = site.data.lodges | where: "camp", "Firestone" %}
 {% assign firestone_sites = site.data.campsites | where: "camp", "Firestone" %}
 {% assign springs_lodges = site.data.lodges | where: "camp", "Big Springs" %}
