@@ -80,7 +80,7 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
       <thead>
         <tr class="text-nowrap">
           <th class="text-left" scope="col">Name</th>
-          <th scope="col"><abbr title="Capacity">Cap</abbr></th>
+          <th scope="col">Capacity</th>
           <th scope="col">Cost</th>
           <th scope="col">Water</th>
           <th scope="col">Fireplace</th>
