@@ -7,7 +7,7 @@ excerpt: Resica Falls Scout Reservation is home to many cabins and campsites ava
 ---
 
 ## Cabins & Campsites
-Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {{site.data.campsites.size}} campsites available for rental at various points throughout the year. Review the table below to see the accommodations and facilities that are available with each. With such a numerous amount of facilities available, there is something available for any unit - Cub Pack, Scouts BSA Troop, Venturing Crew, or Sea Scout Ship - looking to complete any type of outdoor adventure. All lodges have electricity, refrigerators, stoves and a fire ring outside. Lodges with water have kitchen sinks and full bathrooms. All campsites cost $50 per weekend, comfortably hold 35 campers, have a fire ring and latrine in-site as well as water in close proximity.
+Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {{site.data.campsites.size}} campsites available for rental at various points throughout the year. Review the table below to see the accommodations and facilities that are available with each. With such a numerous amount of facilities available, there is something available for any unit - Cub Pack, Scouts BSA Troop, Venturing Crew, or Sea Scout Ship - looking to complete any type of outdoor adventure. All lodges have electricity, heating, refrigerators, stoves and a fire ring outside. Lodges with water have kitchen sinks and full bathrooms. All campsites cost $50 per weekend, comfortably hold 35 campers, have a fire ring and latrine in-site as well as water in close proximity.
 
 {% contentfor sidebar %}
 
@@ -82,7 +82,6 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
           <th class="text-left" scope="col">Name</th>
           <th scope="col"><abbr title="Capacity">Cap</abbr></th>
           <th scope="col">Cost</th>
-          <th scope="col">Heat</th>
           <th scope="col">Water</th>
           <th scope="col">Fireplace</th>
         </tr>
@@ -93,7 +92,6 @@ Resica Falls Scout Reservation is home to {{site.data.lodges.size}} cabins and {
           <th class="text-nowrap text-left" scope="row">{{facility.name}}</th>
           <td>{{facility.capacity}}</td>
           <td>&dollar;{{facility.cost}}</td>
-          <td>{% if facility.heat %}<i class="fa fa-check"></i>{% endif %}</td>
           <td>{% if facility.water %}<i class="fa fa-check"></i>{% endif %}</td>
           <td>{% if facility.fireplace %}<i class="fa fa-check"></i>{% endif %}</td>
         </tr>
