@@ -1,7 +1,7 @@
 - name: Bear
   camp: Big Springs
   capacity: 22
-  cost: 300
+  cost: 275
   heat: true
   water: true
   fireplace: true
@@ -9,7 +9,7 @@
   pairs: Pueblo and Unami Lodge
 - name: Brooks
   camp: Big Springs
-  capacity: 14
+  capacity: 16
   cost: 100
   heat: false
   water: false
@@ -18,8 +18,8 @@
   pairs: Chippewa and Cox Lodge
 - name: Bushkill
   camp:
-  capacity: 32
-  cost: 325
+  capacity: 38
+  cost: 300
   heat: true
   water: true
   fireplace: true
@@ -27,7 +27,7 @@
   pairs: Family Cabins
 - name: Cox
   camp: Big Springs
-  capacity: 14
+  capacity: 16
   cost: 100
   heat: false
   water: false
@@ -37,7 +37,7 @@
 - name: Family Cabin
   camp:
   capacity: 4
-  cost: 100
+  cost: 150
   heat: true
   water: true
   fireplace: false
@@ -61,19 +61,10 @@
   fireplace: false
   woodstove: false
   pairs: Chinook
-- name: Trooper
-  camp: Big Springs
-  capacity: 20
-  cost: 125
-  heat: false
-  water: false
-  fireplace: false
-  woodstove: true
-  pairs: North Wind and Twin Hill
 - name: Unami
   camp: Big Springs
   capacity: 26
-  cost: 325
+  cost: 300
   heat: true
   water: true
   fireplace: true
