@@ -26,4 +26,4 @@ Resica Falls is once again offering your unit personalized Troop T-shirts for th
 - S - XL: $15
 - 2XL - 3XL: $18
 - 4XL: $20
-- $10 setup fee for unit personalization if ordering less than 11 shirts
+- $15 setup fee for unit personalization if ordering less than 11 shirts
