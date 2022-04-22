@@ -10,7 +10,7 @@ thumbalt: Short Sleeved T-Shirt with speckled snake and 'Expedition Resica'
 excerpt: Place your order for your personalized Troop T-shirts.
 ---
 
-Resica Falls is once again offering your unit personalized Troop T-shirts for the 2022 season. This year's shirt features our theme logo on the front and your unit number on the back, letting you show your true Resica spirit! Shirts will be available for pick up during your week at Resica.
+Resica Falls is once again offering your unit personalized Troop T-shirts for the 2022 season. This year's shirt features our theme logo on the front and your unit number on the back, letting you show your true Resica spirit! Shirts will be available for pick up during your week at Resica. Order your shirts today through your current Blackpug camp registration.
 
 ## Custom Theme Shirts
 - Tan Shirt with Left Chest Logo
@@ -18,7 +18,6 @@ Resica Falls is once again offering your unit personalized Troop T-shirts for th
 - Pick Up During Check-In at Camp
 
 ## Ordering Dates
-- Available through Black Pug Starting April 20
 - Weeks 1 - 3 Due By May 23
 - Weeks 4 - 7 Due By June 13
 
