@@ -7,10 +7,10 @@ excerpt: An exciting week of adventure and activities designed for Webelos and A
 
 Calling all rising 4th and 5th graders – Resica Falls is excited to introduce our Webelos Week for Summer 2022! An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure. The time in between will be filled with campfires, shooting sports, swimming, boating, and exploring the outdoors. Other highlights will include a day hike for all and an exclusive overnight trip for Arrow of Light Scouts. All these activities are centered around the theme of **Expedition Resica**, a mysterious escape into the depths of the jungle! 
 
-Meals will be served in the Dining Hall and camping will be done in one of our campsites, complete with canvas tent, platform, and cot. Sign-ups are on for individual Cub Scouts. Parents are encouraged to attend with their child. Two staff members will serve as Den Leaders for the program and provide leadership to the program and in the campsite. Full details for the entire week will be available in the Webelos Week Program Guide (coming soon)!
+Meals will be served in the Dining Hall and camping will be done in one of our campsites, complete with canvas tent, platform, and cot. Sign-ups are on for individual Cub Scouts. Parents are encouraged to attend with their child. Two staff members will serve as Den Leaders for the program and provide leadership to the program and in the campsite. Full details for the entire week are available in the Webelos Week Program Guide!
 
 <div class="text-center">
-    <a class="btn btn-primary mb-2" href="/files/summer/2022-ResicaWebelosGuide.pdf">Download Webelos Guide</a>
+    <a class="btn btn-primary" href="/files/summer/2022-ResicaWebelosGuide.pdf">Download Webelos Week Program Guide</a>
 </div>
 
 **Webelos & Arrow of Light Scout Adventures Offered**
