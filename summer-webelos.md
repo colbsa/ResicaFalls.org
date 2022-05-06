@@ -9,6 +9,10 @@ Calling all rising 4th and 5th graders – Resica Falls is excited to introduce 
 
 Meals will be served in the Dining Hall and camping will be done in one of our campsites, complete with canvas tent, platform, and cot. Sign-ups are on for individual Cub Scouts. Parents are encouraged to attend with their child. Two staff members will serve as Den Leaders for the program and provide leadership to the program and in the campsite. Full details for the entire week will be available in the Webelos Week Program Guide (coming soon)!
 
+<div class="text-center">
+    <a class="btn btn-primary mb-2" href="/files/summer/2022-ResicaWebelosGuide.pdf">Download Webelos Guide</a>
+</div>
+
 **Webelos & Arrow of Light Scout Adventures Offered**
 
 - Aquanaut (some requirements)
