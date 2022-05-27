@@ -3,9 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/2022.04.05-Leaders-Update.png
-  alt: "Virtual Leaders Update April 11th 7PM"
-  link: https://colbsa.zoom.us/webinar/register/WN_ryUwcKtsTzq2OuIengLQOg
+- image: /img/slider/2022.05.27-Leaders-Update.png
+  alt: "Virtual Leaders Update May 31st 7PM"
+  link: https://colbsa.zoom.us/webinar/register/WN_-EZsOKaHR_SeTkUrZRbGvA
 - image: /img/slider/Summer2022Theme.png
   alt: "'Expedition Resica - Summer 2022' on a rainforest background"
   link: /summer/register
