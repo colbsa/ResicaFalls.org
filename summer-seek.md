@@ -1,11 +1,11 @@
 ---
-title: SEEK - Staff Education, Experiences, & Knowledge
+title: SEEK
 layout: page
 permalink: /summer/seek
-excerpt: Introduced in 2021, the SEEK program is focused on preparing the next generation of camp staff. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth. 
+excerpt: Introduced in 2021, the SEEK program is focused on preparing the next generation of leaders. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth. 
 ---
 
-Introduced in 2021, the SEEK program is focused on preparing the next generation of camp staff. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth. Scouts ages 15 and 16 will work with our dedicated staff to hone the skills needed to be a great leader, both in camp and in their units.
+Introduced in 2021, the SEEK program is focused on preparing the next generation of leaders. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth. Scouts ages 15 and 16 will work with our dedicated staff to hone the skills needed to be a great leader, both in camp and in their units.
 
 SEEK was designed with 4 goals in mind:
 
@@ -22,7 +22,7 @@ Each of the 3 weeks has both trainings and activities centered around a theme:
 - Week 2 - Leading and Learning
 - Week 3 - Action and Adventure
 
-Care has been taken to provide a balance of both work and play over this extended period. One day SEEK participants might be shadowing an area director and the next day camping out Lake Roger!
+Care has been taken to provide a balance of both work and play over this extended period. One day SEEK participants might be shadowing an area director and the next day camping out at Lake Roger!
 
 We’re thrilled to be offering the SEEK program in 2022! Space is limited, so register today to ensure your spot in this exciting new adventure!
 
