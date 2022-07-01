@@ -3,10 +3,6 @@ title: Resica Falls Scout Reservation
 logo: "/img/logo.png"
 description: "Spend your summer doing something amazing at Resica Falls Scout Reservation."
 
-alert:
-  text: For COVID-19 information visit <a href="http://colbsa.org/coronavirus">colbsa.org/coronavirus</a>.
-  class: alert-danger
-
 plugins:
   - jekyll-paginate-v2
   - jekyll_picture_tag
