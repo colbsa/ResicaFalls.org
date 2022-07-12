@@ -31,7 +31,11 @@
         </div>
     {% endfor %}
     <div class="col-lg-4 col-md-10 mx-auto">
-      <!-- Upcoming Events -->
+      <!-- Promo Video -->
+      <div class="embed-responsive embed-responsive-16by9 mb-3">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Qnkb7vMVG00" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <!-- Upcoming Events
       <div class="card mb-3">
         <h5 class="card-header">Upcoming Events</h5>
         <div class="card-body">
@@ -39,7 +43,7 @@
           <i class="far fa-calendar pr-2 text-body"></i><strong>{{ event.date | date: '%b %-d' }}</strong> - {% if event.link-url.size > 0 %}<a href="{{ event.link-url }}">{% endif %}{{ event.title }}{% if event.link-url.size > 0 %}</a>{% endif %}</br>
           {% endfor %}
         </div>
-      </div>
+      </div>-->
       <!-- Quick Links -->
       <div class="card mb-3">
         <h5 class="card-header">Quick Links</h5>
