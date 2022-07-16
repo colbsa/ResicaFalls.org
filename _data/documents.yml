@@ -31,6 +31,12 @@
         url: https://docs.google.com/forms/d/e/1FAIpQLSeVr0zkMPCU6yIaD4fXFzkJkZ63wVl65nsYAl0foqtK6CiCyg/viewform
         coming-soon-date:
         updated-date:
+    - name: Summer 2023
+      files:
+      - name: 2023 Declaration of Intent
+        url: /files/summer/2023_Declaration_of_Intent.pdf
+        coming-soon-date:
+        updated-date:
     - name: General Summer Forms
       files:
       - name: Precamp Swim Test
@@ -39,6 +45,10 @@
         updated-date:
       - name: Parental Release
         url: /files/summer/Parental_Release.pdf
+        coming-soon-date:
+        updated-date:
+      - name: Own Your Home Program Description
+        url: /files/summer/2022-Own-Your-Home.pdf
         coming-soon-date:
         updated-date:
 - section:
