@@ -1,44 +1,16 @@
-- title: Week 3
-  date: 2022-07-10
-  date-end: 2022-07-16
-  time:
-  link-text: More Information
-  link-url: /summer/register
-
-- title: Week 4
-  date: 2022-07-17
-  date-end: 2022-07-23
-  time:
-  link-text: More Information
-  link-url: /summer/register
-
-- title: Week 5
-  date: 2022-07-24
-  date-end: 2022-07-30
-  time:
-  link-text: More Information
-  link-url: /summer/register
-
-- title: Week 6
-  date: 2022-07-31
-  date-end: 2022-08-06
-  time:
-  link-text: More Information
-  link-url: /summer/register
-
-- title: Week 7
-  date: 2022-08-07
-  date-end: 2022-08-13
-  time:
-  link-text: More Information
-  link-url: /summer/register
-
 - title: Service Day
   date: 2022-09-17
   date-end:
   time:
   link-text: More Information
   link-url: /volunteer
+
+- title: Unami Lodge Fall Fellowship
+  date: 2022-10-07
+  date-end: 2022-10-07
+  time:
+  link-text: More Information
+  link-url: https://scoutingevent.com/525-57192
 
 - title: Service Day
   date: 2022-10-29
