@@ -5,6 +5,10 @@ permalink: /summer/register
 excerpt: 7 great weeks to spend the summer with us! Which will you choose?
 ---
 
+<div class="col alert text-center alert-page alert-primary mb-0">
+  <strong>2023 Dates and Rates Below!</strong> - Registration will open soon.
+</div>
+
 <div class="row">
   <div class="col">
     <table class="table table-striped my-3 ">
@@ -15,19 +19,22 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
       </thead>
       <tbody class="text-center">
           <tr>
-            <td>Early Bird: $475 per Youth / $200 per Adult</td>
+            <td>Early Bird: $525 per Youth / $225 per Adult</td>
           </tr>
           <tr>
-            <td>Regular: $505 per Youth / $200 per Adult</td>
+            <td>Regular: $555 per Youth / $225 per Adult</td>
           </tr>
           <tr>
             <td>
-              <strong>Early Bird offer ends March 1</strong><br>
-              <em>$50 per Scout deposit must be paid to lock-in the Early Bird rate for each individual Scout</em>
+              <strong>Pricing Now Includes All Merit Badge Supplies!</strong><br>
+              Only additional fees are for external certications.
             </td>
           </tr>
           <tr>
-            <td><strong>Second Week: $375 per Youth</strong></td>
+            <td>
+              <strong>Early Bird offer ends Feb 1</strong><br>
+              <em>$50 per Scout deposit must be paid to lock-in the Early Bird rate for each individual Scout</em>
+            </td>
           </tr>
           <tr>
             <td><strong>Every unit receives 2 free adults!</strong><br>You will also earn 1 free adult for every 10 scouts after your first 20 scouts!</td>
