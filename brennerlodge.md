@@ -5,7 +5,7 @@ permalink: /brennerlodge
 excerpt: Our Resica Troop One program is designed to allow every Scout the opportunity to experience the adventure that awaits at Resica Falls.
 ---
 
-{% picture thumb /img/brenner/chris.jpg --img class="img-fluid rounded mb-2" --alt Chris Brenner sitting in his camp office %}
+{% picture thumb /img/brenner/chris.jpg --img class="img-fluid col-4 float-right rounded m-2" --alt Chris Brenner sitting in his camp office %}
 
 Trooper Lodge stands in the former Great Bend portion of Resica Falls near the STEM Center, Archery Range, and COPE Course. The cabin has served many different functions over the last few years for both the summer and year-round operation. A rustic cabin, Trooper Lodge is in desperate need of repairs to continue to serve the Scouts and Scouters camping at Resica Falls all-year long. 
 
@@ -15,11 +15,13 @@ In addition to serving as a rentable cabin during the year-round operation, the 
 
 ## Elevation and Floor Plan
 
-<div class="col">
+<div class="row">
+  <div class="col-md">
   {% picture /img/brenner/rendering.png --img class="img-fluid rounded mb-2" --alt Chris Brenner sitting in his camp office %}
-</div>
-<div class="col">
+  </div>
+  <div class="col-md">
   {% picture /img/brenner/floorplan.png --img class="img-fluid rounded mb-2" --alt Chris Brenner sitting in his camp office %}
+  </div>
 </div>
 
 ## Year-Round Cabin Features
