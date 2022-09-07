@@ -24,7 +24,7 @@ Each of the 3 weeks has both trainings and activities centered around a theme:
 
 Care has been taken to provide a balance of both work and play over this extended period. One day SEEK participants might be shadowing an area director and the next day camping out at Lake Roger!
 
-We’re thrilled to be offering the SEEK program in 2022! Space is limited, so register today to ensure your spot in this exciting new adventure!
+We’re thrilled to be offering the SEEK program in 2023! Space is limited, so register today to ensure your spot in this exciting new adventure!
 
 <table class="table text-center table-sessions">
     <thead class="thead-inverse">
@@ -38,14 +38,8 @@ We’re thrilled to be offering the SEEK program in 2022! Space is limited, so r
         <tr>
             <td>Weeks 1-3</td>
             <td>June 25 - July 15</td>
-            <td>Coming Soon</td>
-            <!-- <td><a class="btn btn-primary" href="#">Register</a></td> -->
-        </tr>
-        <tr>
-            <td>Weeks 4-6</td>
-            <td>July 16 - August 5</td>
-            <td>Coming Soon</td>
-            <!-- <td><a class="btn btn-primary" href="#">Register</a></td> -->
+            <!-- <td>Coming Soon</td> -->
+            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-61822-157654">Register Now</a></td>
         </tr>
     </tbody>
 </table>

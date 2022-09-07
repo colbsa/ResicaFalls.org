@@ -19,19 +19,19 @@ The members of Troop One function as a normal troop throughout the week. The Sco
   </thead>
   <tbody>
     <tr>
+      <td>Week 4</td>
+      <td>July 16 - July 22</td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-61822-157657">Register Now</a></td>
+    </tr>
+    <tr>
       <td>Week 5</td>
       <td>July 23 - July 29</td>
-      <td><a class="btn btn-primary disabled" href="#">Coming Soon</a></td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-61822-157658">Register Now</a></td>
     </tr>
     <tr>
       <td>Week 6</td>
       <td>July 30 - August 5</td>
-      <td><a class="btn btn-primary disabled" href="#">Coming Soon</a></td>
-    </tr>
-    <tr>
-      <td>Week 7</td>
-      <td>August 6 - August 12</td>
-      <td><a class="btn btn-primary disabled" href="#">Coming Soon</a></td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-61822-157659">Register Now</a></td>
     </tr>
   </tbody>
 </table>

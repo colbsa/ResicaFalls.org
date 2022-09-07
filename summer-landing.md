@@ -105,16 +105,16 @@ excerpt:
   </div>
   <div class="row align-items-center my-5">
     <div class="col-md-6 col-lg-3 my-3">
-      <a href="#"><img src="/img/summer/landing/ScoutsBSA.png" class="rounded img-fluid grow" alt=""></a>
+      <a href="/summer/programs"><img src="/img/summer/landing/ScoutsBSA.png" class="rounded img-fluid grow" alt=""></a>
     </div>
     <div class="col-md-6 col-lg-3 my-3">
-      <a href="#"><img src="/img/summer/landing/Webelos.png" class="rounded img-fluid grow" alt=""></a>
+      <a href="/summer/webelos"><img src="/img/summer/landing/Webelos.png" class="rounded img-fluid grow" alt=""></a>
     </div>
     <div class="col-md-6 col-lg-3 my-3">
-      <a href="#"><img src="/img/summer/landing/SEEK.png" class="rounded img-fluid grow" alt=""></a>
+      <a href="/summer/seek"><img src="/img/summer/landing/SEEK.png" class="rounded img-fluid grow" alt=""></a>
     </div>
     <div class="col-md-6 col-lg-3 my-3">
-      <a href="#"><img src="/img/summer/landing/Paddlerama.png" class="rounded img-fluid grow" alt=""></a>
+      <a href="/summer/paddlerama"><img src="/img/summer/landing/Paddlerama.png" class="rounded img-fluid grow" alt=""></a>
     </div>
   </div>
   <!-- <div class="row my-5">
