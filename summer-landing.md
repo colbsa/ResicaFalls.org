@@ -88,7 +88,7 @@ excerpt:
       <div class="subheader-text text-secondary pb-0">EXPERIENCE SCOUTING LIKE NEVER BEFORE</div>
       <div class="header-text text-primary pb-2">WHAT ARE YOU DOING NEXT SUMMER?</div>
       <div>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tellus lorem, maximus at purus a, dictum euismod nisi. Suspendisse potenti. Morbi a risus ligula. Cras nibh mauris, porta eu felis eu, rhoncus dignissim sem. Morbi ac aliquam purus. Duis sem leo, tincidunt sed consectetur at, iaculis sit amet leo. Pellentesque elementum lacinia turpis id sagittis.
+        Resica Falls is proud to offer a diverse program during our summer camp operation. Whether it be merit badges, rank advancement, patrol activities, or high adventure, we have something for every Scout, leader, and unit! We also offer a Webelos Week for Webelos and Arrow of Light Scouts. No matter which program you choose to participate in, rest assured that customer service and program excellence are our highest priorities! Find out more about each of our programs below – Adventures Awaits you!
       </div>
     </div>
     <div class="col-md-6">
