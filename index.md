@@ -3,15 +3,15 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/2022.05.27-Leaders-Update.png
-  alt: "Virtual Leaders Update May 31st 7PM"
-  link: https://colbsa.zoom.us/webinar/register/WN_-EZsOKaHR_SeTkUrZRbGvA
-- image: /img/slider/Summer2022Theme.png
-  alt: "'Expedition Resica - Summer 2022' on a rainforest background"
-  link: /summer/register
+- image: /img/slider/2022.09.09-Registration-Open.png
+  alt: "2023 Registration Open"
+  link: /news/2023-Registration-Open
+- image: /img/slider/2022.09.12-Fall-Service-Days.png
+  alt: "2022 Fall Service Days"
+  link: /calendar
 - image: /img/slider/BrennerLodge.png
   alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
-  link: /brennerproject
+  link: /brennerlodge
 - image: /img/slider/2021.01.31-SEEK.jpg
   alt: "The SEEK program logo with the writing 'Preparing the next generation of camp staff'"
   link: /summer/seek
