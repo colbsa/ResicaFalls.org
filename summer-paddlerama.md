@@ -14,8 +14,7 @@ To participate in Paddlerama, you must be a registered Scout and at least 14 yea
 This is the perfect program for Venturing Crews looking for a Tier III Adventure for next summer, or for older Scouts in a troop looking for something new. Sign-up now to participate in the adventure!
 
 <div class="row justify-content-md-center text-center mb-4">
-	<!-- <a class="col-md-4 btn btn-primary mb-4" href="https://colbsa.doubleknot.com/event/paddlerama-at-resica-falls-summer-camp/2746353">Register Now</a> -->
-  <strong>2023 Registration Coming Soon</strong>
+	<a class="col-md-4 btn btn-primary mb-4" href="https://scoutingevent.com/525-60010">Register Now</a>
 </div>
 
 <div class="row">
