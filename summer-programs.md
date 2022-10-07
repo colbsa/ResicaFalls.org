@@ -7,6 +7,10 @@ excerpt: Many traditional summer highlights are available alongside new programs
 
 Resica Falls offers a full and diverse program to meet the needs of all of our campers. Our specially trained and skilled staff members provide instruction and supervision of the highest level in each of activities below as part of our summer camp program.
 
+<div class="row justify-content-md-center text-center mb-4">
+	<a class="col-md-4 btn btn-primary mb-4" href="/summer/register">Register Today</a>
+</div>
+
 {% for program in site.data.summer-programs %}
 
 <div class="card my-3">
