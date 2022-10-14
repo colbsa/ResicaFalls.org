@@ -24,6 +24,7 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
     bottom: 0;
     left: 0;
   }
+
   h1 {
     font-size: 6em;
     line-height: 1em;
@@ -41,27 +42,11 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
     font-size: 1.5em;
     font-weight: bold;
   }
-  .grow { 
-    transition: all .2s ease-in-out; 
+  .text-shadow {
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
   }
-  .grow:hover { 
-    transform: scale(1.05); 
-  }
-  .thumbnail {
-    position: relative;
-  }
-  .caption {
-    position: absolute;
-    top: 45%;
-    left: 0;
-    width: 100%;
-    font-size: 2em;
-    font-weight: bold;
-    font-style: normal;
-    line-height: 1em;
-    color: #fff;
-  }
-
 </style>
 
 <div class="jumbotron jumbotron-fluid">
@@ -72,7 +57,7 @@ excerpt: 7 great weeks to spend the summer with us! Which will you choose?
     </div>
   </div> -->
     <div class="d-flex flex-row justify-content-center align-items-center jumbotron-container">
-    <div class="text-center mb-5">
+    <div class="text-center mb-5 text-shadow text-white">
       <h1>{{page.title}}</h1>
     </div>
   </div>
