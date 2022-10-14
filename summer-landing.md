@@ -17,6 +17,7 @@ excerpt:
   }
   .jumbotron-container {
     min-height: 75vh;
+    padding-bottom: 5em;
   }
   .divider {
     width: 100%;
@@ -35,11 +36,11 @@ excerpt:
   }
   .header-text{
       font-family: 'bebas-neue', serif;
-      font-size: 4em;
+      font-size: 3.25em;
       line-height: 1em;
   }
   .subheader-text{
-    font-size: 1.5em;
+    font-size: 1.25em;
     font-weight: bold;
   }
   .grow { 
@@ -66,14 +67,8 @@ excerpt:
 </style>
 
 <div class="jumbotron jumbotron-fluid">
-  <!-- <div class="d-flex flex-row justify-content-end align-items-center jumbotron-container">
-    <div class="text-center mx-5">
-      <h2 class="text-white">EXPERIENCE SCOUTING'S GREATEST ADVENTURE</h2>
-      <h1 class="text-white">SCOUTS BSA RESIDENT CAMP</h1>
-    </div>
-  </div> -->
     <div class="d-flex flex-row justify-content-center align-items-center jumbotron-container">
-    <div class="text-center mb-5">
+    <div class="text-center">
       <h1 class="text-white">SUMMER PROGRAMS</h1>
     </div>
   </div>
@@ -83,15 +78,15 @@ excerpt:
 </div>
 
 <div class="container">
-  <div class="row align-items-center my-5">
-    <div class="col-md-6">
-      <div class="subheader-text text-secondary pb-0">EXPERIENCE SCOUTING LIKE NEVER BEFORE</div>
-      <div class="header-text text-primary pb-2">WHAT ARE YOU DOING NEXT SUMMER?</div>
-      <div>
+  <div class="row align-items-center">
+    <div class="col-lg-6">
+      <div class="subheader-text text-secondary d-none d-md-block">EXPERIENCE SCOUTING LIKE NEVER BEFORE</div>
+      <div class="header-text text-primary text-center text-md-left">WHAT ARE YOU DOING NEXT SUMMER?</div>
+      <div class="mt-3 mb-5 mb-md-3">
         Resica Falls is proud to offer a diverse program during our summer camp operation. Whether it be merit badges, rank advancement, patrol activities, or high adventure, we have something for every Scout, leader, and unit! We also offer a Webelos Week for Webelos and Arrow of Light Scouts. No matter which program you choose to participate in, rest assured that customer service and program excellence are our highest priorities! Find out more about each of our programs below – Adventures Awaits you!
       </div>
     </div>
-    <div class="col-md-6">
+    <div class="col-lg-6">
       <div class="embed-responsive embed-responsive-16by9">
         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Qnkb7vMVG00" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
@@ -103,24 +98,18 @@ excerpt:
       <div class="header-text text-primary">CHOOSE YOUR PROGRAM</div>
     </div>
   </div>
-  <div class="row align-items-center my-5">
-    <div class="col-md-6 col-lg-3 my-3">
+  <div class="row align-items-center mt-3 mb-5">
+    <div class="col-6 col-lg-3 my-3">
       <a href="/summer/programs"><img src="/img/summer/landing/ScoutsBSA.png" class="rounded img-fluid grow" alt=""></a>
     </div>
-    <div class="col-md-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-3 my-3">
       <a href="/summer/webelos"><img src="/img/summer/landing/Webelos.png" class="rounded img-fluid grow" alt=""></a>
     </div>
-    <div class="col-md-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-3 my-3">
       <a href="/summer/seek"><img src="/img/summer/landing/SEEK.png" class="rounded img-fluid grow" alt=""></a>
     </div>
-    <div class="col-md-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-3 my-3">
       <a href="/summer/paddlerama"><img src="/img/summer/landing/Paddlerama.png" class="rounded img-fluid grow" alt=""></a>
     </div>
   </div>
-  <!-- <div class="row my-5">
-    <div class="col text-center">
-      <div class="subheader-text text-secondary">CAMP SCHEDULE</div>
-      <div class="header-text text-primary">A DAY IN THE LIFE</div>
-    </div>
-  </div> -->
 </div>
