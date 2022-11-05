@@ -189,6 +189,9 @@ Redirect /ownyourhome /files/summer/2022-Own-Your-Home.pdf
 Redirect /trivia https://scoutingevent.com/525-63018
 Redirect /trivianight https://scoutingevent.com/Download/52599373/OR/2022_RFSR_Trivia_Night_Flier.pdf
 
+Redirect /ccip /files/RFSR-CCIP_2022-2027.pdf
+Redirect /CCIP /files/RFSR-CCIP_2022-2027.pdf
+
 #TODO
 #downloads pages
 #news format
