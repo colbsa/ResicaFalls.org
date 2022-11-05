@@ -2,7 +2,7 @@
 title: 2023 Dates & Rates
 layout: landing
 permalink: /summer/register
-excerpt: 7 great weeks to spend the summer with us! Which will you choose?
+excerpt: 6 great weeks to spend the summer with us! Which will you choose?
 ---
 
 <style>
