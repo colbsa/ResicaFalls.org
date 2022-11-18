@@ -61,6 +61,60 @@ Many of our senior camp staff leaders have extensive experience in camp and have
 If you’re ready to join us for a summer of fun at Resica Falls, [apply today](https://colbsa.workbrightats.com/jobs/)!
 
 <div class="col alert alert-primary text-center">
+  <h2 class="mb-0">Compensation &amp; Benefits Information</h2>
+</div>
+
+All positions are seasonal positions. The season for all staff runs from June 17, 2023 - August 10, 2023. In addition, a Staff Training Day will be held on May 13th and a Staff Weekend will be held June 2nd-4th. Some positions may require additional time. Further details will be provided upon hiring.
+
+<table class="table table-striped text-center">
+  <thead>
+    <tr>
+      <th scope="col">Positions</th>
+      <th scope="col">Base Salary*</th>
+      <th scope="col">Room and Board**</th>
+      <th scope="col">Total Compensation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">Junior Staff (15-17)</td>
+      <td>$195-$235 per week</td>
+      <td>$250 per week</td>
+      <td>$445-$485 per week</td>
+    </tr>
+    <tr>
+      <td scope="row">Senior Staff (18 and over)</td>
+      <td>$215-$315 per week</td>
+      <td>$250 per week</td>
+      <td>$465-$565 per week</td>
+    </tr>
+    <tr>
+      <td scope="row">Area Directors (18 and over)</td>
+      <td>$240-$360 per week</td>
+      <td>$250 per week</td>
+      <td>$490-$610 per week</td>
+    </tr>
+    <tr>
+      <td scope="row">Senior Area Directors (21 and over)</td>
+      <td>$350-500 per week</td>
+      <td>$250 per week</td>
+      <td>$600-$750 per week</td>
+    </tr>
+  </tbody>
+</table>
+
+*\*Based upon position and experience. Candidates with more experience may fall above typical ranges. All salary ranges are based upon a 6-day week.*
+
+*\*\*Most staff will be assigned housing in an individual canvas tent with a twin bed and electricity. Indoor housing in a cabin is available for some senior staff upon request - communal living with a twin bed, electricity, and HVAC is provided. On-site laundry facilities are available. All staff will receive meals during the course of their employment and local transportation out of camp on Nights Off and Days Off.*
+
+**Other Compensation**
+
+**PHEAA Grant:** Pennsylvania residents enrolled in undergraduate or graduate programs at PA colleges or universities have the opportunity to apply for a work-study PHEAA grant. Qualifying applicants will receive grant paperwork upon employment and any distribution will be allocated based on employer’s discretion.
+
+**Additional Training:** All staff members will receive job specific training during the course of their employment. Supplemental training may be given based upon each employee's position, including but not limited to: American Red Cross Basic First Aid training, American Red Cross CPR training, American Red Cross Wilderness First Aid training, American Red Cross Lifeguard training, NRA Range Safety Officer & Shooting Instructor training, USAA Archery Instructor training, and BSA National Camping School certification.
+
+
+<div class="col alert alert-primary text-center">
   <h2 class="mb-0">Frequently Asked Questions</h2>
 </div>
 
