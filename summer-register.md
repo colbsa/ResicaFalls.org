@@ -73,24 +73,32 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
     </div>
   </div>
   <div class="row mb-4">
-    <div class="col-md-6">
-      <div class="alert alert-primary text-center">
+    <div class="col-md-6 text-center">
+      <div class="alert alert-primary">
         Early Bird: $525 per Youth / $225 per Adult <br>
         <em>(Based On The Per Scout Deposit)</em>
       </div>
-      <div class="alert alert-secondary text-center">
+      <div class="alert alert-secondary">
         Regular: $555 per Youth / $225 per Adult
       </div>
-    </div>
-    <div class="col-md-6 text-center">
       <div>
         <strong>Pricing Now Includes All Merit Badge Supplies!</strong><br>
         Only additional fees are for external certifications.
       </div>
-      <div class="mt-3">
+    </div>
+    <div class="col-md-6 text-center">
+      <div>
         <strong>Every Unit Receives 2 Free Adults!</strong><br>
-        You’ll Also Earn 1 Free Adult for Every 10 Scouts <br>
-        After Your First 20 Scouts
+        <em>You’ll Also Earn 1 Free Adult for Every 10 Scouts<br>
+        After Your First 20 Scouts</em>
+        <ul class="list-unstyled">
+          <li>1-29 Scouts - 2 Free Leaders</li>
+          <li>30-39 Scouts - 3 Free Leaders</li>
+          <li>40-49 Scouts - 4 Free Leaders</li>
+          <li>50-59 Scouts - 5 Free Leaders</li>
+          <li>60-69 Scouts - 6 Free Leaders</li>
+          <li>70-79 Scouts - 7 Free Leaders</li>
+        </ul>       
       </div>
     </div>
   </div>
@@ -134,10 +142,13 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
         <strong>March 31</strong> - An additional $100 due per person to register for Merit Badges and Programs.<br>
         <strong>May 15</strong> - Full Payment is due before campsite assignments and check-in times are assigned.<br>
       </div>
-      <div>
-        <em>
-          Please submit only one registration per unit. If you have already registered and would like to update your registration follow the link in your confirmation email or email camping@colbsa.org.
-        </em>
+      <div class="text-center">
+        <strong>Please submit only one registration per unit.</strong><br>
+        If you have already registered and would like to update your registration follow the link in your confirmation email or email camping@colbsa.org.
+      </div>
+      <div class="text-center mt-3">
+        <strong>Partnered boy and girl troops should register for camp separately.</strong><br>
+        This will assist in transferring advancement progress from Black Pug into Scoutbook.
       </div>
     </div>    
   </div>
