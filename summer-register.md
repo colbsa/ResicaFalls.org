@@ -81,7 +81,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
       <div class="alert alert-secondary">
         Regular: $555 per Youth / $225 per Adult
       </div>
-      <div>
+      <div class="mb-2 mb-md-0">
         <strong>Pricing Now Includes All Merit Badge Supplies!</strong><br>
         Only additional fees are for external certifications.
       </div>
@@ -91,7 +91,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
         <strong>Every Unit Receives 2 Free Adults!</strong><br>
         <em>You’ll Also Earn 1 Free Adult for Every 10 Scouts<br>
         After Your First 20 Scouts</em>
-        <ul class="list-unstyled">
+        <ul class="list-unstyled mb-0">
           <li>1-29 Scouts - 2 Free Leaders</li>
           <li>30-39 Scouts - 3 Free Leaders</li>
           <li>40-49 Scouts - 4 Free Leaders</li>
