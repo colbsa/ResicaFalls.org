@@ -88,9 +88,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
     </div>
     <div class="col-md-6 text-center">
       <div>
-        <strong>Every Unit Receives 2 Free Adults!</strong><br>
-        <em>You’ll Also Earn 1 Free Adult for Every 10 Scouts<br>
-        After Your First 20 Scouts</em>
+        <strong>Every Unit Receives at least 2 Free Adults!</strong>
         <ul class="list-unstyled mb-0">
           <li>1-29 Scouts - 2 Free Leaders</li>
           <li>30-39 Scouts - 3 Free Leaders</li>
