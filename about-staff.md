@@ -113,7 +113,7 @@ All positions are seasonal positions. The season for all staff runs from June 17
 
 **Additional Training:** All staff members will receive job specific training during the course of their employment. Supplemental training may be given based upon each employee's position, including but not limited to: American Red Cross Basic First Aid training, American Red Cross CPR training, American Red Cross Wilderness First Aid training, American Red Cross Lifeguard training, NRA Range Safety Officer & Shooting Instructor training, USAA Archery Instructor training, and BSA National Camping School certification.
 
-
+<!--
 <div class="col alert alert-primary text-center">
   <h2 class="mb-0">Frequently Asked Questions</h2>
 </div>
@@ -129,4 +129,4 @@ Staff have time off each day that is dependent upon their area of camp and their
 
 <strong>Are staff paid well?</strong><br>
 We offer a competitive salary based on experience, qualifications, skills, and level of responsibility.
-
+-->
