@@ -1,12 +1,14 @@
 - name: Week 1
   dates: June 25 - July 1
   link: https://scoutingevent.com/525-61822-157654
+  full: true
 - name: Week 2
   dates: July 2 - July 8
   link: https://scoutingevent.com/525-61822-157655
 - name: Week 3
   dates: July 9 - July 15
   link: https://scoutingevent.com/525-61822-157656
+  full: true
 - name: Week 4
   dates: July 16 - July 22
   link: https://scoutingevent.com/525-61822-157657

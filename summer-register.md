@@ -121,10 +121,14 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
           <tr>
             <td>{{session.name}}</td>
             <td>{{session.dates}}</td>
-            {% if session.link %}
-              <td><a class="btn btn-primary btn-block" href="{{session.link}}" target="_blank">Register Now</a></td>
+            {% if session.full %}
+              <td><strong>FULL</strong></td>
             {% else %}
-              <td>Coming Soon</td>
+              {% if session.link %}
+                <td><a class="btn btn-primary btn-block" href="{{session.link}}" target="_blank">Register Now</a></td>
+              {% else %}
+                <td>Coming Soon</td>
+              {% endif%}
             {% endif%}
           </tr>
         {%- endfor -%}

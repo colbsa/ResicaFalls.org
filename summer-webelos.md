@@ -30,9 +30,9 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
 - Yo-Yo -->
 
 <div class="col alert alert-primary text-center">
-  Registration Opens: March 23, 2023<br>
+  <!-- Registration Opens: March 23, 2023<br> -->
   <strong>Registration Deadline: June 16, 2023</strong><br>
-  <!-- $375 per Scout &mdash; $150 per Adult<br> -->
+  $400 per Scout &mdash; $175 per Adult<br>
   Registration for both Scouts and Adults includes a t shirt and a patch!
 </div>
 
