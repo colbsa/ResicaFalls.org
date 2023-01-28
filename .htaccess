@@ -170,7 +170,6 @@ Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 
 Redirect 301 /staffapparel https://resicatradingpost.square.site/staff-apparel
 Redirect 301 /closingreport /staff-downloads
-Redirect 301 /dkstatus https://colbsa.doubleknot.com/OpenRosters/ViewActivitySpaceAvailable.aspx?classificationid=64244&sf=f&orgkey=1112
 
 Redirect 301 /leaders-update https://colbsa.zoom.us/webinar/register/WN__F7sPy2OTdGxQHzfhFyjMg
 Redirect 301 /leadersupdate https://colbsa.zoom.us/webinar/register/WN__F7sPy2OTdGxQHzfhFyjMg
