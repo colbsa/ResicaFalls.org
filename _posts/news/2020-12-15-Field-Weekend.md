@@ -3,6 +3,7 @@ layout: post
 title: "Field Weekend"
 author:
 date: 2019-12-15
+season: 2021
 banner:
 banneralt: A white fleur de lis on a blue background
 thumbnail: generic-blue.png

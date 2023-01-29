@@ -4,13 +4,13 @@
 <div class="container content mt-3">
   <div class="row">
     <div class="col">
-      <h1>{{page.title}}</h1>
+      <h1>{% if page.season < site.current_season %}({{page.season}}) {% endif %}{{page.title}}</h1>
     </div>
   </div>
   <div class="row">
       <div class="col-lg-8">
         {% if page.banner %}
-        {% picture post /img/posts/banners/{{page.banner}} --img class="img-fluid rounded" --alt {{page.banneralt}} %}
+        {% picture post /img/posts/banners/{{page.banner}} --img class="img-fluid rounded" --alt "{{page.banneralt}} %}
         {% endif %}
         <hr>
             <i class="far fa-clock"></i> {{ page.date | date: '%B %d, %Y' }}
@@ -18,6 +18,13 @@
             <i class="far fa-user pl-5"></i> {{page.author}}
             {% endif %}
         <hr>
+        {% if page.season < site.current_season %}
+        <div class="alert alert-secondary" role="alert">
+              You're viewing an article from the Resica Falls news archives that was written for the {{page.season}} camp season. Please note that this content
+              is presented for reference purposes only. Some links may no longer function and the information below may have been
+              superseded by a more recent policy update.
+            </div>
+            {% endif %}
         {{content}}
       </div>
       <div class="col-lg-4">
@@ -25,7 +32,7 @@
           <h5 class="card-header">Recent Posts</h5>
           <ul class="list-group list-group-flush">
             {% for post in site.posts limit:5 %}
-              <li class="list-group-item"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+              <li class="list-group-item"><a href="{{ BASE_PATH }}{{ post.url }}">{% if post.season < site.current_season %}({{post.season}}) {% endif %}{{ post.title }}</a></li>
             {% endfor %}
           </ul>
         </div>
