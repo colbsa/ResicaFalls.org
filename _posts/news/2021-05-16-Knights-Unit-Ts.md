@@ -3,6 +3,7 @@ layout: post
 title: "Custom Unit T-Shirts"
 author:
 date: 2021-05-16
+season: 2021
 banner: 2021.05.16-Knights-Unit-Ts.jpg
 banneralt: Short Sleeved T-Shirt with coat of arms and 'Knights of the Bushkill'
 thumbnail: 2021.05.16-Knights-Unit-Ts.png

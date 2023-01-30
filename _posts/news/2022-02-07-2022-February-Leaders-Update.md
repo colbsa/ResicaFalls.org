@@ -3,6 +3,7 @@ layout: post
 title: Leaders Update
 author:
 date: 2022-02-07
+season: 2022
 banner:
 banneralt:
 thumbnail: 2022.02.11-Leaders-Update.png

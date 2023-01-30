@@ -3,6 +3,7 @@ layout: post
 title: "2023 Registration Open!"
 author: "Steve Mach"
 date: 2022-09-09
+season: 2023
 banner: 2022.09.09-Registration-Open.png
 banneralt: Short Sleeved T-Shirt with speckled snake and 'Expedition Resica'
 thumbnail: 2022.09.09-Registration-Open.png

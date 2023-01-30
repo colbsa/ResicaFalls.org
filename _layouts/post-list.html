@@ -12,7 +12,7 @@
               {% picture thumb /img/posts/thumbs/{{post.thumbnail}} --img class="card-img-top" --link {{post.url}} --alt {{post.thumbalt}} %}
               <div class="card-body">
                 <h4 class="card-title">
-                  <a href="{{post.url}}">{{post.title}}</a>
+                  <a href="{{post.url}}">{% if post.season < site.current_season %}({{post.season}}) {% endif %}{{post.title}}</a>
                 </h4>
                 <p class="card-text">{{post.excerpt}}</p>
               </div>

@@ -3,6 +3,7 @@ layout: post
 title: Explore the Unknown and Unlock Hidden Mysteries
 author: Jacob Huff
 date: 2021-12-02
+season: 2022
 banner: 2021.12.02-Theme.png
 banneralt: "'Expedition Resica' written on top of a jungle scene"
 thumbnail: 2021.12.02-Theme.png

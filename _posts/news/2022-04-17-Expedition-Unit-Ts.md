@@ -3,6 +3,7 @@ layout: post
 title: "Custom Unit T-Shirts"
 author:
 date: 2022-04-17
+season: 2022
 banner: 2022.04.17-Expedition-Unit-Ts.jpg
 banneralt: Short Sleeved T-Shirt with speckled snake and 'Expedition Resica'
 thumbnail: 2022.04.17-Expedition-Unit-Ts.jpg

@@ -20,7 +20,7 @@
             {% picture thumb /img/posts/thumbs/{{post.thumbnail}} --img class="card-img-top" --link {{post.url}} --alt {{post.thumbalt}} %}
             <div class="card-body">
               <h4 class="card-title">
-                <a href="{{post.url}}">{{post.title}}</a>
+                <a href="{{post.url}}">{% if post.season < site.current_season %}({{post.season}}) {% endif %}{{post.title}}</a>
               </h4>
               <p class="card-text">{{post.excerpt}}</p>
             </div>
@@ -58,7 +58,7 @@
         <h5 class="card-header">More News</h5>
         <div class="card-body">
           {% for post in site.posts limit:4 offset:2 %}
-            <a href="{{ BASE_PATH }}{{ post.url }}"><i class="far fa-newspaper pr-2 text-body"></i>{{ post.title }}</a></br>
+            <a href="{{ BASE_PATH }}{{ post.url }}"><i class="far fa-newspaper pr-2 text-body"></i>{% if post.season < site.current_season %}({{post.season}}) {% endif %}{{ post.title }}</a></br>
           {% endfor %}
             <a href="/news">Read More</a>
         </div>
