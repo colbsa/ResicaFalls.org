@@ -3,12 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/2022.09.09-Registration-Open.png
-  alt: "2023 Registration Open"
-  link: /news/2023-Registration-Open
-- image: /img/slider/2022.09.12-Fall-Service-Days.png
-  alt: "2022 Fall Service Days"
-  link: /calendar
+- image: /img/slider/2023.01.31-Slider.png
+  alt: "Virtual Leaders Update - February 27th"
+  link: /leadersupdate
 - image: /img/slider/BrennerLodge.png
   alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
   link: /brennerlodge
