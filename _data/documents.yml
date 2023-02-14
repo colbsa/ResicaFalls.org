@@ -3,6 +3,10 @@
   subsections:
     - name: Summer 2023
       files:
+      - name: 2023 Program Guide
+        url: /files/summer/2023-ResicaProgamGuide.pdf
+        coming-soon-date:
+        updated-date:
       - name: 2023 Dates & Rates Flyer
         url: /files/summer/2023_Dates_and_Rates.pdf
         coming-soon-date:
@@ -17,10 +21,6 @@
         updated-date:
     - name: Summer 2022
       files:
-      - name: 2022 Program Guide
-        url: /files/summer/2022-ResicaProgamGuide.pdf
-        coming-soon-date:
-        updated-date:
       - name: 2022 Afternoon Adventures Guide
         url: /files/summer/2022-ResicaAdventuresGuide.pdf
         coming-soon-date:
@@ -33,22 +33,10 @@
         url: /files/summer/2022_Summer_Menu.pdf
         coming-soon-date:
         updated-date: 2022-06-10
-      - name: 2022 Summer Camp Refund Policy
-        url: /files/summer/2022_Refund_Policy.pdf
-        coming-soon-date:
-        updated-date:
-      - name: 2022 Summer Camp Refund Request
-        url: https://docs.google.com/forms/d/e/1FAIpQLSeVr0zkMPCU6yIaD4fXFzkJkZ63wVl65nsYAl0foqtK6CiCyg/viewform
-        coming-soon-date:
-        updated-date:
     - name: General Summer Forms
       files:
       - name: Precamp Swim Test
         url: /files/summer/Precamp_Swim_Test.pdf
-        coming-soon-date:
-        updated-date:
-      - name: Parental Release
-        url: /files/summer/Parental_Release.pdf
         coming-soon-date:
         updated-date:
       - name: Own Your Home Program Description
@@ -96,7 +84,7 @@
       - name: Big Springs Camp Map
         url: /files/general/BigSprings_Map.pdf
         coming-soon-date:
-        updated-date:
+        updated-date: 2022-02-14
       - name: Firestone Camp Map
         url: /files/general/Firestone_Map.pdf
         coming-soon-date:
