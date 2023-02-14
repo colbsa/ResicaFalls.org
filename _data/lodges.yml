@@ -5,7 +5,7 @@
   water: true
   fireplace: true
   pairs: Pueblo and Unami Lodge
-- name: Brooks
+- name: Nygard (Previously Brooks)
   camp: Big Springs
   capacity: 16
   cost: 150
@@ -19,7 +19,7 @@
   water: true
   fireplace: true
   pairs: Family Cabins
-- name: Cox
+- name: Reed (Previously Cox)
   camp: Big Springs
   capacity: 16
   cost: 150
