@@ -81,6 +81,10 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
       <div class="alert alert-secondary">
         Regular: $555 per Youth / $225 per Adult
       </div>
+      <div class="alert alert-secondary">
+        <strong>Second Week: $400 per Youth</strong><br>
+        <em>Contact camping@colbsa.org to apply this discount.</em>
+      </div>
       <div class="mb-2 mb-md-0">
         <strong>Pricing Now Includes All Merit Badge Supplies!</strong><br>
         Only additional fees are for external certifications.
