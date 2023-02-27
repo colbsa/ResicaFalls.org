@@ -121,7 +121,6 @@ Redirect 301 /food-and-nutrition /summer/food
 Redirect 301 /join-camp-staff /staff
 Redirect 301 /work-at-resica /staff
 Redirect 301 /joincampstaff /staff
-Redirect 301 /seek /summer/seek
 
 Redirect 301 /weekend-activities /yearround/activities
 Redirect 301 /facilities-and-rentals /rentals/facilities
@@ -141,6 +140,7 @@ Redirect 301 /cit-program /summer/seek
 Redirect 301 /cope /yearround/cope
 Redirect 301 /guidebooks /documents
 Redirect 301 /nylt https://colbsa.org/training/nylt/
+
 Redirect 301 /troop-one /summer/provo
 Redirect 301 /provo /summer/provo
 Redirect 301 /provisional /summer/provo
@@ -191,6 +191,13 @@ Redirect /trivianight https://scoutingevent.com/Download/52599373/OR/2022_RFSR_T
 
 Redirect /ccip /files/RFSR-CCIP_2022-2027.pdf
 Redirect /CCIP /files/RFSR-CCIP_2022-2027.pdf
+
+Redirect /seek /summer/seek
+Redirect /SEEK /summer/seek
+Redirect /Seek /summer/seek
+
+Redirect /webelos /summer/webelos
+
 
 #TODO
 #downloads pages
