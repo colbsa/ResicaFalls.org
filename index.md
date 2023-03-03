@@ -3,8 +3,8 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/2023.01.31-Slider.png
-  alt: "Virtual Leaders Update - February 27th"
+- image: /img/slider/2023-04-19-Slider.png
+  alt: "Virtual Leaders Update: SPL Edition - April 19th"
   link: /leadersupdate
 - image: /img/slider/BrennerLodge.png
   alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
