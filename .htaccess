@@ -160,10 +160,10 @@ Redirect 301 /tradingpost https://resicatradingpost.square.site/
 Redirect 301 /Store https://resicatradingpost.square.site/
 Redirect 301 /store https://resicatradingpost.square.site/
 
-Redirect 301 /tshirt /news/Knights-Unit-Ts
-Redirect 301 /tshirts /news/Knights-Unit-Ts
-Redirect 301 /shirt /news/Knights-Unit-Ts
-Redirect 301 /shirts /news/Knights-Unit-Ts
+Redirect 301 /tshirt https://resicatradingpost.square.site/product/2023-Theme-Shirt/832
+Redirect 301 /tshirts https://resicatradingpost.square.site/product/2023-Theme-Shirt/832
+Redirect 301 /shirt https://resicatradingpost.square.site/product/2023-Theme-Shirt/832
+Redirect 301 /shirts https://resicatradingpost.square.site/product/2023-Theme-Shirt/832
 
 Redirect 301 /youtube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
