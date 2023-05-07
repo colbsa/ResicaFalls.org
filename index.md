@@ -3,8 +3,11 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/2023-04-19-Slider.png
-  alt: "Virtual Leaders Update: SPL Edition - April 19th"
+- image: /img/slider/2023.05.07-Troop-Shirts.png
+  alt: "Custom Troop Shirts Now On Sale"
+  link: /tshirt
+- image: /img/slider/2023.05.07-Leaders-Update.png
+  alt: "Virtual Leaders Update - June 1st"
   link: /leadersupdate
 - image: /img/slider/BrennerLodge.png
   alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
