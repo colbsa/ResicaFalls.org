@@ -59,9 +59,3 @@ Many of our senior camp staff leaders have extensive experience in camp and have
 </div>
 
 If you’re ready to join us for a summer of fun at Resica Falls, [apply today](https://colbsa.workbrightats.com/jobs/)!
-
-<div class="col alert alert-primary text-center">
-  <h2 class="mb-0">Compensation &amp; Benefits Information</h2>
-</div>
-
-All positions are seasonal positions. The season for all staff runs from June 17, 2023 - August 10, 2023. In addition, a Staff Training Day will be held on May 13th and a Staff Weekend will be held June 2nd-4th. Some positions may require additional time. Further details will be provided upon hiring.
