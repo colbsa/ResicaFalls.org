@@ -39,12 +39,10 @@
         url: https://docs.google.com/forms/d/e/1FAIpQLSe0D4pnbZ6IBJkavtOIo4QxkfD8NMaQRxULy8j6Z2ymJnz6eA/viewform
         coming-soon-date:
         updated-date:
-    - name: Summer 2022
-      files:
-      - name: 2022 Summer Camp Menu
-        url: /files/summer/2022_Summer_Menu.pdf
+      - name: 2023 Summer Camp Menu
+        url: /files/summer/2023-Summer-Menu.pdf
         coming-soon-date:
-        updated-date: 2022-06-10
+        updated-date:
     - name: General Summer Forms
       files:
       - name: Precamp Swim Test
