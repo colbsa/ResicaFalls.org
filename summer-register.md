@@ -1,5 +1,5 @@
 ---
-title: 2023 Dates & Rates
+title: 2024 Dates & Rates
 layout: landing
 permalink: /summer/register
 excerpt: 6 great weeks to spend the summer with us! Which will you choose?
@@ -69,22 +69,22 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <div class="subheader-text mb-4">2023 PRICING</div>
+      <div class="subheader-text mb-4">2024 PRICING</div>
     </div>
   </div>
   <div class="row mb-4">
     <div class="col-md-6 text-center">
       <div class="alert alert-primary">
-        Early Bird: $525 per Youth / $225 per Adult <br>
+        Early Bird: $575 per Youth / $250 per Adult <br>
         <em>(Based On The Per Scout Deposit)</em>
       </div>
       <div class="alert alert-secondary">
-        Regular: $555 per Youth / $225 per Adult
+        Regular: $605 per Youth / $250 per Adult
       </div>
-      <div class="alert alert-secondary">
+      <!-- <div class="alert alert-secondary">
         <strong>Second Week: $400 per Youth</strong><br>
         <em>Contact camping@colbsa.org to apply this discount.</em>
-      </div>
+      </div> -->
       <div class="mb-2 mb-md-0">
         <strong>Pricing Now Includes All Merit Badge Supplies!</strong><br>
         Only additional fees are for external certifications.
@@ -107,7 +107,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
   <hr>
   <div class="row mt-4">
     <div class="col text-center">
-      <div class="subheader-text mb-4">2023 DATES</div>
+      <div class="subheader-text mb-4">2024 DATES</div>
     </div>
   </div>
   <div class="row">
