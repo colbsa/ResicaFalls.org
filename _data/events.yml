@@ -1,48 +1,54 @@
+- title: Service Day
+  date: 2023-09-16
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Service Day
+  date: 2023-10-21
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Halloweekend
+  date: 2023-10-28
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /halloween
+
+- title: Service Day
+  date: 2023-11-18
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
 - title: Summer Camp Early Bird Deadline
-  date: 2023-02-01
+  date: 2024-02-01
   date-end:
   time:
   link-text: More Information
   link-url: /summer/register
 
-- title: Virtual Leaders Update
-  date: 2023-02-27
-  date-end:
-  time: 7 PM
-  link-text: Register Now
-  link-url: https://colbsa.zoom.us/webinar/register/WN__F7sPy2OTdGxQHzfhFyjMg
-
 - title: Service Day
-  date: 2023-04-01
+  date: 2024-04-06
   date-end:
   time:
   link-text: More Information
   link-url: /volunteer
 
-- title: Virtual Leaders Update - SPL Edition
-  date: 2023-04-19
-  date-end:
-  time: 7 PM
-  link-text: Register Now
-  link-url: https://colbsa.zoom.us/webinar/register/WN_U7gBJhC-RweWqTLHv5lVyQ
-
-
 - title: Service Day
-  date: 2023-05-06
+  date: 2024-05-04
   date-end:
   time:
   link-text: More Information
   link-url: /volunteer
 
-- title: Virtual Leaders Update
-  date: 2023-06-01
-  date-end:
-  time: 7 PM
-  link-text: Register Now
-  link-url: https://colbsa.zoom.us/webinar/register/WN_oOg9XWhOTyO3iltVJ1ri-w
-
 - title: Service Day
-  date: 2023-06-03
+  date: 2024-06-01
   date-end:
   time:
   link-text: More Information
