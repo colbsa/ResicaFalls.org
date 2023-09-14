@@ -7,7 +7,7 @@ excerpt: Our Resica Troop One program is designed to allow every Scout the oppor
 
 Our Resica Troop One program is designed to allow every Scout the opportunity to experience the adventure that awaits at Resica Falls. Members of our staff serve as Scoutmaster and as assistants for Troop One, providing those Scouts coming to camp without their unit, or those who want to experience a second week of camp, with the leadership and supervision needed for a fun stay in camp. Boys and girls participating in Resica One have the same experiences and opportunities as Scouts who camp with their regular troops.
 
-The members of Troop One function as a normal troop throughout the week. The Scouts have the chance to earn merit badges and participate in camp-wide programs, eat meals in the dining hall, and sit around the campfire, all with this temporary troop. If your stay with Troop One is your second week participating in summer camp at Resica Falls, you can attend at a discounted rate. Please visit our [Dates and Rates](/summer/register) page for more information about pricing!
+The members of Troop One function as a normal troop throughout the week. The Scouts have the chance to earn merit badges and participate in camp-wide programs, eat meals in the dining hall, and sit around the campfire, all with this temporary troop.  Please visit our [Dates and Rates](/summer/register) page for more information about pricing.
 
 <table class="table text-center table-sessions">
   <thead class="thead-inverse">
@@ -20,18 +20,18 @@ The members of Troop One function as a normal troop throughout the week. The Sco
   <tbody>
     <tr>
       <td>Week 4</td>
-      <td>July 16 - July 22</td>
-      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-61822-157657">Register Now</a></td>
+      <td>July 14 - July 20</td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-73304-180236">Register Now</a></td>
     </tr>
     <tr>
       <td>Week 5</td>
-      <td>July 23 - July 29</td>
-      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-61822-157658">Register Now</a></td>
+      <td>July 21 - July 27</td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-73304-180237">Register Now</a></td>
     </tr>
     <tr>
       <td>Week 6</td>
-      <td>July 30 - August 5</td>
-      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-61822-157659">Register Now</a></td>
+      <td>July 28 - August 3</td>
+      <td><a class="btn btn-primary" href="https://scoutingevent.com/525-73304-180238">Register Now</a></td>
     </tr>
   </tbody>
 </table>
