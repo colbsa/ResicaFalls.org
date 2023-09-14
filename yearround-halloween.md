@@ -1,8 +1,8 @@
 ---
 title: Halloweekend at Resica Falls
 layout: event
-permalink: /halloween
-banner-img: /yearround/halloween.png
+permalink: /yearround/halloween
+banner-img: /img/yearround/halloween.png
 banner-text: Halloweekend At Resica Falls
 excerpt: 
 ---
