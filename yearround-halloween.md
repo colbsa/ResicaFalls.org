@@ -68,7 +68,7 @@ excerpt:
             <li>1 Pumpkin Per Person</li>
             <li>Free Event Parking</li>
           </ul>
-          <a href="https://campreservation.com/525/Camps/416" class="btn btn-lg btn-block btn-primary">Purchase Event Pass</a>
+          <a href="#" class="btn btn-lg btn-block btn-primary">Purchase Event Pass</a>
         </div>
       </div>
     </div>
