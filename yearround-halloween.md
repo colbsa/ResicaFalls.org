@@ -68,7 +68,7 @@ excerpt:
             <li>1 Pumpkin Per Person</li>
             <li>Free Event Parking</li>
           </ul>
-          <a href="#" class="btn btn-lg btn-block btn-primary">Purchase Event Pass</a>
+          <a href="https://resicatradingpost.square.site/shop/halloweekend/22?page=1&limit=60&sort_by=category_order&sort_order=asc" class="btn btn-lg btn-block btn-primary">Purchase Event Pass</a>
         </div>
       </div>
     </div>
