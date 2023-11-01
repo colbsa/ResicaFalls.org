@@ -9,9 +9,9 @@ Looking to spend more time in camp? Want to give back to Scouting and camp? Resi
 
 <h2>Camp Service Days <div class="subheader">Lend a Helping Hand & Enjoy Being Back at Camp</div></h2>
 Periodically, Resica Falls will host service days in the spring and fall to take care of various little projects around camp. Scouts and Scouters alike are welcome to participate in these days of service - skilled and non-skilled labor welcome! Whole units that wish to give back to camp have the opportunity to camp in a ground site for free if they commit to provide service back to camp.  
-Service Day Dates: September 16, October 21, November 18, April 6, May 4, June 1
+Service Day Dates: September 16, October 21, November 18, April 13, May 4, June 1
 
-To sign up for our next service day, contact Ranger Nick at nick.mckee@scouting.org.
+To sign up for our next service day, contact contact [Ranger Nick](/contact?recipient=nick.mckee@scouting.org).
 
 <h2>Campmasters <div class="subheader">The Key to Outstanding Customer Service</div></h2>
 A positive camping experience begins with welcoming and enthusiastic hosts. The campmasters fill this role of hosts during a weekend of camping. This group of registered Scouts perform unit check-in and check-out, as well as open the Trading Post and help with any problems that may arise. Campmasters are also encouraged to offer some program for the Scouts in camp or assist with a camp improvement project.

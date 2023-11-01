@@ -1,6 +1,16 @@
 - section:
   name: Summer Camp Details
   subsections:
+    - name: Summer 2024
+      files:
+      - name: 2023 Dates & Rates Flyer
+        url: /files/summer/2024_Dates_and_Rates.pdf
+        coming-soon-date:
+        updated-date:
+      - name: 2024 Campership Form
+        url: https://colbsa.org/camperships
+        coming-soon-date:
+        updated-date:
     - name: Summer 2023
       files:
       - name: 2023 Program Guide
@@ -15,28 +25,8 @@
         url: /files/summer/2023-ResicaWebelosGuide.pdf
         coming-soon-date:
         updated-date:
-      - name: 2023 Campsite, Check-in Time, and Key Adventure Assignments
-        url: https://docs.google.com/spreadsheets/d/e/2PACX-1vRlhL24U_DcjcWFTy2B2W5TadS5Zxuzj0L5hh7xMy9E-tzw72kykEBKg6wLNR4wMA/pubhtml?gid=2117692634&single=true
-        coming-soon-date:
-        updated-date:
-      - name: 2023 Dates & Rates Flyer
-        url: /files/summer/2023_Dates_and_Rates.pdf
-        coming-soon-date:
-        updated-date:
-      - name: 2023 Unit Change Requests Form
-        url: https://247scouting.com/forms/?OrgKey=BSA525&id=3159
-        coming-soon-date:
-        updated-date:
-      - name: 2023 Campership Form
-        url: https://colbsa.org/camperships
-        coming-soon-date:
-        updated-date:
       - name: 2023 Summer Camp Refund Policy
         url: /files/summer/2023_Refund_Policy.pdf
-        coming-soon-date:
-        updated-date:
-      - name: 2023 Summer Camp Refund Request
-        url: https://docs.google.com/forms/d/e/1FAIpQLSe0D4pnbZ6IBJkavtOIo4QxkfD8NMaQRxULy8j6Z2ymJnz6eA/viewform
         coming-soon-date:
         updated-date:
       - name: 2023 Summer Camp Menu
@@ -50,7 +40,7 @@
         coming-soon-date:
         updated-date:
       - name: Own Your Home Program Description
-        url: /files/summer/2023-2024_Own_Your_Home.pdf
+        url: /files/summer/2024_Own_Your_Home.pdf
         coming-soon-date:
         updated-date:
 - section:
@@ -110,10 +100,6 @@
       files:
       - name: Annual Health and Medical Record
         url: https://www.scouting.org/health-and-safety/ahmr/
-        coming-soon-date:
-        updated-date:
-      - name: Dietary Restriction Information
-        url: https://docs.google.com/forms/d/e/1FAIpQLSc4FejywBzAqdQNBush5RoSF3j5Qfi5UbFw8alSw3PmSXuE3A/viewform?usp=sf_link
         coming-soon-date:
         updated-date:
       - name: Unit Medication Storage Release

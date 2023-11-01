@@ -5,7 +5,7 @@ permalink: /summer/webelos
 excerpt: An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure.
 ---
 
-Calling all rising 4th and 5th graders – Resica Falls is excited to once again offer our Webelos Week for Summer 2023! An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure. The time in between will be filled with campfires, shooting sports, swimming, boating, and exploring the outdoors. Other highlights will include a day hike for all and an exclusive overnight trip for Arrow of Light Scouts. 
+Calling all rising 4th and 5th graders – Resica Falls is excited to once again offer our Webelos Week for Summer 2024! An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure. The time in between will be filled with campfires, shooting sports, swimming, boating, and exploring the outdoors. Other highlights will include a day hike for all and an exclusive overnight trip for Arrow of Light Scouts. 
 
 <!-- All these activities are centered around the theme of **Expedition Resica**, a mysterious escape into the depths of the jungle!  -->
 
@@ -31,9 +31,9 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
 
 <div class="col alert alert-primary text-center">
   <!-- Registration Opens: March 23, 2023<br> -->
-  <strong>Registration Deadline: June 16, 2023</strong><br>
-  $400 per Scout &mdash; $175 per Adult<br>
-  Registration for both Scouts and Adults includes a t shirt and a patch!
+  <strong>Registration Opens February 1, 2024</strong><br>
+  $425 per Scout &mdash; $200 per Adult<br>
+  Registration for both Scouts and Adults includes a t-shirt and a patch!
 </div>
 
 <table class="table text-center table-sessions">
@@ -47,7 +47,7 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
     <tbody>
         <tr>
             <td>1</td>
-            <td>July 30 - August 5</td>
+            <td>July 28 - August 3</td>
             <td><a class="btn btn-primary" href="https://scoutingevent.com/525-62860">Register Now</a></td>
         </tr>
     </tbody>
