@@ -6,9 +6,6 @@ slides:
 - image: /img/slider/2023.11.1-Registration-Open.png
   alt: "2024 Registration Now Open!"
   link: /registration
-- image: /img/slider/2023.05.07-Leaders-Update.png
-  alt: "Virtual Leaders Update - June 1st"
-  link: /leadersupdate
 - image: /img/slider/BrennerLodge.png
   alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
   link: /brennerlodge
