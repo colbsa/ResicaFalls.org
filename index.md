@@ -3,9 +3,9 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/2023.05.07-Troop-Shirts.png
-  alt: "Custom Troop Shirts Now On Sale"
-  link: /tshirt
+- image: /img/slider/2023.11.1-Registration-Open.png
+  alt: "2024 Registration Now Open!"
+  link: /registration
 - image: /img/slider/2023.05.07-Leaders-Update.png
   alt: "Virtual Leaders Update - June 1st"
   link: /leadersupdate
