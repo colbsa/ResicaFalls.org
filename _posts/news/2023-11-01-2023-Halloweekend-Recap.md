@@ -3,11 +3,11 @@ layout: post
 title: 2023 Halloweekend Recap
 author: Steve Mach
 date: 2023-11-01
-banner: 2021.11.01-Halloweekend.png
+banner: 2023.11.01-Halloweekend.png
 banneralt:
-thumbnail: 2021.11.01-Halloweekend.png
+thumbnail: 2023.11.01-Halloweekend.png
 thumbalt:
-excerpt: Last Winter and Spring, members of the Camp Staff, Council Camping Committee, and Unami Lodge, One, along with several unit and district leaders, worked together to...
+excerpt: Resica Falls hosted its first Halloweekend! We can’t wait to grow this event next year with even more haunted fun! Keep a lookout...
 ---
 
 Resica Falls hosted our first Halloweekend on Saturday, October 28th. The program was open to the public and attended by just under 100 participants. The build-up to the event was featured on WNEP Channel 16 with a [video and story](https://www.wnep.com/article/news/local/monroe-county/halloweekend-fun-at-scout-camp-resica-falls-scout-reservation-halloweenn-spooky-scary-pumpkins/523-516e3ef0-4dd8-430d-965a-c0a969a27e4d?fbclid=IwAR2psAF05_KgF4g1ws2zaA8mMP538oaiXzqDQf0aRzPaTwLfma0LO2n91T8). 
