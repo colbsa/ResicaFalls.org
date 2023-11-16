@@ -5,7 +5,7 @@ layout: index
 slides:
 - image: /img/slider/2023.11.1-Registration-Open.png
   alt: "2024 Registration Now Open!"
-  link: /registration
+  link: /2024
 - image: /img/slider/BrennerLodge.png
   alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
   link: /brennerlodge
