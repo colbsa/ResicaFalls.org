@@ -171,23 +171,14 @@ Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 Redirect 301 /staffapparel https://resicatradingpost.square.site/staff-apparel
 Redirect 301 /closingreport /staff-downloads
 
-Redirect 301 /leaders-update https://colbsa.zoom.us/webinar/register/WN_oOg9XWhOTyO3iltVJ1ri-w
-Redirect 301 /leadersupdate https://colbsa.zoom.us/webinar/register/WN_oOg9XWhOTyO3iltVJ1ri-w
-
-Redirect /coronavirus /news/COVID19-Summer-Camp-Update
-Redirect /covid19 /news/COVID19-Summer-Camp-Update
-Redirect /covid-19 /news/COVID19-Summer-Camp-Update
+Redirect /leaders-update  https://colbsa.zoom.us/webinar/register/WN_wj5EJP9bTASpYUoUCm18pQ 
+Redirect /leadersupdate  https://colbsa.zoom.us/webinar/register/WN_wj5EJP9bTASpYUoUCm18pQ 
 
 Redirect /brennerproject https://app.mobilecause.com/e/Kutx0A?vid=jgebx
 Redirect /savetom https://app.mobilecause.com/e/zL280w?vid=sq1wh
 Redirect /givingtuesday https://app.mobilecause.com/e/Kutx0A?vid=jgebx
 
-Redirect /mobile https://www.scoutingevent.com/mobile/?eid=52835
-
 Redirect /ownyourhome /files/summer/2024_Own_Your_Home.pdf
-
-Redirect /trivia https://scoutingevent.com/525-63018
-Redirect /trivianight https://scoutingevent.com/Download/52599373/OR/2022_RFSR_Trivia_Night_Flier.pdf
 
 Redirect /ccip /files/RFSR-CCIP_2022-2027.pdf
 Redirect /CCIP /files/RFSR-CCIP_2022-2027.pdf
@@ -202,6 +193,7 @@ Redirect /2024 /summer/register
 
 Redirect /halloween /yearround/halloween
 
+Redirect /meritbadges /summer/merit-badges
 
 #TODO
 #downloads pages

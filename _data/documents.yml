@@ -3,20 +3,32 @@
   subsections:
     - name: Summer 2024
       files:
-      - name: 2024 Dates & Rates Flyer
-        url: /files/summer/2024_Dates_and_Rates.pdf
+      - name: 2024 Program Guide
+        url: /files/summer/2024-ResicaProgramGuide.pdf
+        coming-soon-date:
+        updated-date:
+      - name: 2024 Merit Badge Schedule
+        url: https://scoutingevent.com/executeReport.php?PARAM_ReportSubTitle=+&PARAM_OrgName=CRADLE+OF+LIBERTY+COUNCIL&ok=BSA525&uid=1&PARAM_uid=1&rip=556&PARAM_REPORT_ID=556&regID=0&PARAM_reportLevel=0&PARAM_reportBySession=0&PARAM_URLBASE=&PARAM_SUPPRESS_TOTALS_FLAG=1&PARAM_ORGKEY=BSA525&PARAM_LOCATION_ID=180233&PARAM_LOCATION_ID_ALL=0&PARAM_INSTANCE_ID=73304&PARAM_ReportTitle=Class+Schedule&PARAM_ReportCampName=2024+Resica+Falls+Scouts+BSA+Resident+Camp&PARAM_ReportSDate=2024-06-23+12%3A30%3A00&PARAM_ReportEDate=2024-06-29+09%3A00%3A00&uri=%2Freports%2FJasper4_5_0%2FSESClassCatalogGrid&PARAM_IS_IGNORE_PAGINATION=false&format=PDF&PARAM_REPORT_TYPE=P
+        coming-soon-date:
+        updated-date:
+      - name: 2024 Class Catalog
+        url: https://scoutingevent.com/executeReport.php?PARAM_ReportSubTitle=&PARAM_OrgName=CRADLE+OF+LIBERTY+COUNCIL&ok=BSA525&uid=1&PARAM_uid=1&rip=418&PARAM_REPORT_ID=418&regID=0&PARAM_reportLevel=0&PARAM_reportBySession=0&PARAM_URLBASE=&PARAM_SUPPRESS_TOTALS_FLAG=1&PARAM_CLASS_CATALOG=0&PARAM_CLASS_CATALOG_ALL=1&PARAM_ORGKEY=BSA525&PARAM_LOCATION_ID=0&PARAM_LOCATION_ID_ALL=1&PARAM_INSTANCE_ID=73304&PARAM_ReportTitle=Class+Catalog&PARAM_ReportCampName=2024+Resica+Falls+Scouts+BSA+Resident+Camp&PARAM_ReportSDate=&PARAM_ReportEDate=&uri=%2Freports%2FJasper4_5_0%2FSESClassCatalogInst2Loc1&PARAM_IS_IGNORE_PAGINATION=false&format=PDF&PARAM_REPORT_TYPE=P
         coming-soon-date:
         updated-date:
       - name: 2024 Campership Form
         url: https://colbsa.org/camperships
         coming-soon-date:
         updated-date:
-    - name: Summer 2023
-      files:
-      - name: 2023 Program Guide
-        url: /files/summer/2023-ResicaProgamGuide.pdf
+      - name: Registration Change Request Form
+        url: https://247scouting.com/forms/?OrgKey=BSA525&id=3159
         coming-soon-date:
         updated-date:
+      - name: 2024 Dates & Rates Flyer
+        url: /files/summer/2024_Dates_and_Rates.pdf
+        coming-soon-date:
+        updated-date:
+    - name: Summer 2023
+      files:
       - name: 2023 Afternoon Adventures Guide
         url: /files/summer/2023-ResicaAfternoonAdventuresGuide.pdf
         coming-soon-date:
