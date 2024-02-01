@@ -98,7 +98,7 @@ excerpt:
       <div class="header-text text-primary">CHOOSE YOUR PROGRAM</div>
     </div>
   </div>
-  <div class="row align-items-center justify-content-centermt-3 mb-5">
+  <div class="row align-items-center justify-content-center mt-3 mb-5">
     <div class="col-6 col-lg-3 my-3">
       <a href="/summer/programs"><img src="/img/summer/landing/ScoutsBSA.png" class="rounded img-fluid grow" alt=""></a>
     </div>
@@ -109,9 +109,6 @@ excerpt:
       <a href="/summer/seek"><img src="/img/summer/landing/SEEK.png" class="rounded img-fluid grow" alt=""></a>
     </div>
     <div class="col-6 col-lg-3 my-3">
-      <a href="/summer/provo"><img src="/img/summer/landing/Provo.png" class="rounded img-fluid grow" alt=""></a>
-    </div>
-    <div class="col-6 col-lg-3 my-3">
       <a href="/summer/paddlerama"><img src="/img/summer/landing/Paddlerama.png" class="rounded img-fluid grow" alt=""></a>
     </div>
     <div class="col-6 col-lg-3 my-3">
@@ -119,6 +116,9 @@ excerpt:
     </div>
     <div class="col-6 col-lg-3 my-3">
       <a href="https://scoutingevent.com/525-80825"><img src="/img/summer/landing/Pioneering.png" class="rounded img-fluid grow" alt=""></a>
+    </div>
+    <div class="col-6 col-lg-3 my-3">
+      <a href="/summer/provo"><img src="/img/summer/landing/Provo.png" class="rounded img-fluid grow" alt=""></a>
     </div>
   </div>
 </div>
