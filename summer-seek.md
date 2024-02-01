@@ -38,8 +38,8 @@ We’re thrilled to be offering the SEEK program in 2024! Space is limited, so r
         <tr>
             <td>Weeks 1-3</td>
             <td>June 23 - July 13</td>
-            <td>Coming Soon</td>
-            <!-- <td><a class="btn btn-primary" href="https://scoutingevent.com/525-73304-180233">Register Now</a></td> -->
+            <!-- <td>Coming Soon</td> -->
+            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-73304-180233">Register Now</a></td>
         </tr>
     </tbody>
 </table>

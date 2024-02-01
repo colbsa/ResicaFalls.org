@@ -48,7 +48,7 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
         <tr>
             <td>1</td>
             <td>July 28 - August 3</td>
-            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-62860">Register Now</a></td>
+            <td><a class="btn btn-primary" href="https://scoutingevent.com/525-80830">Register Now</a></td>
         </tr>
     </tbody>
 </table>

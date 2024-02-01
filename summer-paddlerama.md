@@ -14,8 +14,8 @@ To participate in Paddlerama, you must be a registered Scout and at least 13 yea
 This is the perfect program for Venturing Crews looking for a Tier III Adventure for next summer, or for older Scouts in a troop looking for something new. Sign-up now to participate in the adventure!
 
 <div class="row justify-content-md-center text-center mb-4">
-	<!-- <a class="col-md-4 btn btn-primary mb-4" href="https://scoutingevent.com/525-60010">Register Now</a> -->
-  	<a class="col-md-4 btn btn-primary btn-disabled mb-4">Coming Soon</a>
+	<a class="col-md-4 btn btn-primary mb-4" href="https://scoutingevent.com/525-80824">Register Now</a>
+  	<!-- <a class="col-md-4 btn btn-primary btn-disabled mb-4">Coming Soon</a> -->
 
 </div>
 
