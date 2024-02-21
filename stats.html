@@ -11,165 +11,74 @@
 <body>
   <div class="container">
     <div class="row mt-3">
-      <ul class="nav nav-tabs" id="myTab" role="tablist">
-        <li class="nav-item" role="presentation">
-          <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#2023" type="button" role="tab" aria-controls="2024" aria-selected="true">2023</button>
-        </li>
-        <li class="nav-item" role="presentation">
-          <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#2024" type="button" role="tab" aria-controls="2024" aria-selected="false">2024</button>
-        </li>
-      </ul>
-    </div>
-      <div class="tab-content" id="myTabContent">
-        <div class="tab-pane fade show active" id="2023" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
-          <div class="row mt-3">
-            <div class="col-12 col-md-6">
-              <h5 class="text-center text-uppercase fw-bold">Resident Camp</h5>
-              <table class="table table-striped">
-                <thead>
-                  <tr>
-                    <td>Week</td>
-                    <td>Youth</td>
-                    <td>Adult</td>
-                    <td>Total</td>
-                  </tr>
-                </thead>
-                <tbody id="trad2023"></tbody>
-              </table>
-            </div>
-            <div class="col-12 col-md-6">
-              <h5 class="text-center text-uppercase fw-bold">Paddlerama</h5>
-              <table class="table table-striped">
-                <thead>
-                  <tr>
-                    <td>Week</td>
-                    <td>Youth</td>
-                    <td>Adult</td>
-                    <td>Total</td>
-                  </tr>
-                </thead>
-                <tbody id="pad2023"></tbody>
-              </table>
-            </div>
-          </div>
-          <div class="row mt-3">
-            <div class="col-12 col-md-6">
-              <h5 class="text-center text-uppercase fw-bold">Webelos Week</h5>
-              <table class="table table-striped">
-                <thead>
-                  <tr>
-                    <td>Week</td>
-                    <td>Youth</td>
-                    <td>Adult</td>
-                    <td>Total</td>
-                  </tr>
-                </thead>
-                <tbody id="web2023"></tbody>
-              </table>
-            </div>
-            <div class="col-12 col-md-6">
-              <h5 class="text-center text-uppercase fw-bold">Totals</h5>
-              <div class="row my-3">
-                <div class="col">
-                  <div class="card">
-                    <div class="card-header">
-                      Total Youth
-                    </div>
-                    <div class="card-body">
-                      <h5 class="card-title fw-bold" id="total2023"></h5>
-                    </div>
-                  </div>
-                </div>
-                <div class="col">
-                  <div class="card">
-                    <div class="card-header">
-                      % of Goal
-                    </div>
-                    <div class="card-body">
-                      <h5 class="card-title fw-bold" id="percent2023"></h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div class="col-12 col-md-6">
+        <h5 class="text-center text-uppercase fw-bold">Resident Camp</h5>
+        <table class="table text-center">
+          <thead>
+            <tr>
+              <td scope="col" class="col-1">Session</td>
+              <td scope="col" class="col-1">Youth</td>
+              <td scope="col" class="col-1">Adult</td>
+              <td scope="col" class="col-1">Total</td>
+              <td scope="col" class="col-1">Goal</td>
+              <td scope="col" class="col-1">Last Year</td>
+            </tr>
+          </thead>
+          <tbody id="residentCamp"></tbody>
+        </table>
       </div>
-      <div class="tab-pane fade" id="2024" role="tabpanel" aria-labelledby="2024" tabindex="0">
-          <div class="row mt-3">
-            <div class="col-12 col-md-6">
-              <h5 class="text-center text-uppercase fw-bold">Resident Camp</h5>
-              <table class="table table-striped">
-                <thead>
-                  <tr>
-                    <td>Week</td>
-                    <td>Youth</td>
-                    <td>Adult</td>
-                    <td>Total</td>
-                  </tr>
-                </thead>
-                <tbody id="trad2024"></tbody>
-              </table>
-            </div>
-            <div class="col-12 col-md-6">
-              <h5 class="text-center text-uppercase fw-bold">Paddlerama</h5>
-              <table class="table table-striped">
-                <thead>
-                  <tr>
-                    <td>Week</td>
-                    <td>Youth</td>
-                    <td>Adult</td>
-                    <td>Total</td>
-                  </tr>
-                </thead>
-                <tbody id="pad2024"></tbody>
-              </table>
-            </div>
-          </div>
-          <div class="row mt-3">
-            <div class="col-12 col-md-6">
-              <h5 class="text-center text-uppercase fw-bold">Webelos Week</h5>
-              <table class="table table-striped">
-                <thead>
-                  <tr>
-                    <td>Week</td>
-                    <td>Youth</td>
-                    <td>Adult</td>
-                    <td>Total</td>
-                  </tr>
-                </thead>
-                <tbody id="web2024"></tbody>
-              </table>
-            </div>
-            <div class="col-12 col-md-6">
-              <h5 class="text-center text-uppercase fw-bold">Totals</h5>
-              <div class="row my-3">
-                <div class="col">
-                  <div class="card">
-                    <div class="card-header">
-                      Total Youth
-                    </div>
-                    <div class="card-body">
-                      <h5 class="card-title fw-bold" id="total2024"></h5>
-                    </div>
-                  </div>
-                </div>
-                <div class="col">
-                  <div class="card">
-                    <div class="card-header">
-                      % of Goal
-                    </div>
-                    <div class="card-body">
-                      <h5 class="card-title fw-bold" id="percent2024"></h5>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div class="col-12 col-md-6">
+        <h5 class="text-center text-uppercase fw-bold">Paddlerama</h5>
+        <table class="table text-center">
+          <thead>
+            <tr>
+              <td scope="col" class="col-1">Session</td>
+              <td scope="col" class="col-1">Youth</td>
+              <td scope="col" class="col-1">Adult</td>
+              <td scope="col" class="col-1">Total</td>
+              <td scope="col" class="col-1">Goal</td>
+              <td scope="col" class="col-1">Last Year</td>
+            </tr>
+          </thead>
+          <tbody id="paddlerama"></tbody>
+        </table>
       </div>
     </div>
+    <div class="row mt-3">
+      <div class="col-12 col-md-6">
+        <h5 class="text-center text-uppercase fw-bold">Fawn Run</h5>
+        <table class="table text-center">
+          <thead>
+            <tr>
+              <td scope="col" class="col-1">Session</td>
+              <td scope="col" class="col-1">Youth</td>
+              <td scope="col" class="col-1">Adult</td>
+              <td scope="col" class="col-1">Total</td>
+              <td scope="col" class="col-1">Goal</td>
+              <td scope="col" class="col-1">Last Year</td>
+            </tr>
+          </thead>
+          <tbody id="fawnRun"></tbody>
+        </table>
+      </div>
+      <div class="col-12 col-md-6">
+        <h5 class="text-center text-uppercase fw-bold">Webelos Week</h5>
+        <table class="table text-center">
+          <thead>
+            <tr>
+              <td scope="col" class="col-1">Session</td>
+              <td scope="col" class="col-1">Youth</td>
+              <td scope="col" class="col-1">Adult</td>
+              <td scope="col" class="col-1">Total</td>
+              <td scope="col" class="col-1">Goal</td>
+              <td scope="col" class="col-1">Last Year</td>
+            </tr>
+          </thead>
+          <tbody id="webelosWeek"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
 
   <style>
     thead, tr:last-child {
@@ -177,11 +86,8 @@
     }
   </style>
 
-
+<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
   <script>
-
-    let overallYouthTotal = 0
-    let goal = 2500
 
     async function getData(url) {
       try {
@@ -194,152 +100,225 @@
         const doc = parser.parseFromString(data, "text/html");
         const table = doc.querySelector('table');
         const rows = table.querySelectorAll("tr");
-        const columns = [];
+        const sessions = [];
 
         // Iterate through rows
-        for (let i = 0; i < rows.length; i++) {
-          const cells = rows[i].querySelectorAll("td");
-          // Iterate through cells
-          for (let j = 0; j < cells.length; j++) {
-            if (!columns[j]) {
-              columns[j] = [];
-            }
-            columns[j][i] = cells[j].textContent;
+        for (let i = 2; i < rows.length; i++) {
+          const session = {
+            "sessionName": rows[i].querySelector("td:nth-of-type(1)").textContent,
+            "youth": rows[i].querySelector("td:nth-of-type(2)").textContent,
+            "adults": rows[i].querySelector("td:nth-of-type(3)").textContent,
+            "total": rows[i].querySelector("td:nth-of-type(5)").textContent,
           }
+          sessions.push(session)
         }
-
-        const youth = columns[1].slice(2)
-        const adults = columns[2].slice(2)
-
-
-        return({youth, adults})
+        return(sessions)
 
       } catch (error) {
         console.log(error);
       }
     }
 
-    async function fillTable6(url, selector){
-      let session = await getData(url);
+    async function residentCamp(url){
+      const sessionDetails = [
+        {
+          "sessionName": "Week 1",
+          "goal":500,
+          "previousYear": 360
+        },
+        {
+          "sessionName": "Week 2",
+          "goal":250,
+          "previousYear": 200
+        },
+        {
+          "sessionName": "Week 3",
+          "goal":500,
+          "previousYear": 454
+        },
+        {
+          "sessionName": "Week 4",
+          "goal":450,
+          "previousYear": 495
+        },
+        {
+          "sessionName": "Week 5",
+          "goal":450,
+          "previousYear": 224
+        },
+        {
+          "sessionName": "Week 6",
+          "goal":400,
+          "previousYear": 340
+        }
+      ]
 
-      const table = document.querySelector(selector);
+      const sessionLiveData = await getData(url)
 
-      for (let i = 0; i < 6; i++)
-      {
-        const newRow = document.createElement("tr");
+      const mergedData = _.merge(sessionDetails, sessionLiveData)
 
-        const weekCell = document.createElement("td");
-        const youthCell = document.createElement("td");
-        const adultCell = document.createElement("td");
-        const totalCell = document.createElement("td");
+      console.log(mergedData)
 
-        weekCell.textContent = "Week " + (i+1);
-        youthCell.textContent = session.youth[i]
-        adultCell.textContent = session.adults[i]
-        totalCell.textContent = (parseInt(session.youth[i]) + parseInt(session.adults[i]))
+      youthTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.youth); });
+      adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
+      previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
+      total = youthTotal + adultTotal
+      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 2600, "previousYear": previousTotal})
 
-        newRow.appendChild(weekCell);
-        newRow.appendChild(youthCell);
-        newRow.appendChild(adultCell);
-        newRow.appendChild(totalCell);
+      const table = document.querySelector("#residentCamp");
+      for (session of mergedData){
+        let rowColorClass = session.youth/session.goal > 0.99 ? 'table-success' : ''
 
-        table.appendChild(newRow);
+        const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
+        table.insertAdjacentHTML('beforeend', tableRow)
       }
-
-      const newRow = document.createElement("tr");
-
-      const totalCell = document.createElement("td");
-      const youthCell = document.createElement("td");
-      const adultCell = document.createElement("td");
-      const totalTotalCell = document.createElement("td");
-
-      totalYouth = session.youth.reduce((partialSum, a) => partialSum + parseInt(a), 0);
-      totalAdults = session.adults.reduce((partialSum, a) => partialSum + parseInt(a), 0);
-
-      totalCell.textContent = "TOTAL";
-      youthCell.textContent = totalYouth;
-      adultCell.textContent = totalAdults;
-      totalTotalCell.textContent = (totalYouth + totalAdults)
-      overallYouthTotal += totalYouth
-
-      newRow.appendChild(totalCell);
-      newRow.appendChild(youthCell);
-      newRow.appendChild(adultCell);
-      newRow.appendChild(totalTotalCell);
-
-      table.appendChild(newRow);
     }
 
-    async function fillTable1(url, selector) {
-      let session = await getData(url);
+    async function paddlerama(url){
+      const sessionDetails = [
+        {
+          "sessionName": "Week 1",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 2",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 3",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 4",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 5",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 6",
+          "goal": 0,
+          "previousYear": 0
+        }
+      ]
 
-      const table = document.querySelector(selector);
+      const sessionLiveData = await getData(url)
 
-      for (let i = 0; i < 1; i++) {
-        const newRow = document.createElement("tr");
+      const mergedData = _.merge(sessionDetails, sessionLiveData)
 
-        const weekCell = document.createElement("td");
-        const youthCell = document.createElement("td");
-        const adultCell = document.createElement("td");
-        const totalCell = document.createElement("td");
+      console.log(mergedData)
 
-        weekCell.textContent = "Week 6";
-        youthCell.textContent = session.youth[i]
-        adultCell.textContent = session.adults[i]
-        totalCell.textContent = (parseInt(session.youth[i]) + parseInt(session.adults[i]))
+      youthTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.youth); });
+      adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
+      previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
+      total = youthTotal + adultTotal
+      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal})
 
-        newRow.appendChild(weekCell);
-        newRow.appendChild(youthCell);
-        newRow.appendChild(adultCell);
-        newRow.appendChild(totalCell);
+      const table = document.querySelector("#paddlerama");
+      for (session of mergedData){
+        let rowColorClass = session.youth/session.goal > 0.99 ? 'table-success' : ''
 
-        table.appendChild(newRow);
+        const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
+        table.insertAdjacentHTML('beforeend', tableRow)
       }
+    }
 
-      const newRow = document.createElement("tr");
+    async function fawnRun(url){
+      const sessionDetails = [
+        {
+          "sessionName": "Week 1",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 2",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 3",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 4",
+          "goal": 0,
+          "previousYear": 34
+        },
+        {
+          "sessionName": "Week 5",
+          "goal": 0,
+          "previousYear": 0
+        },
+        {
+          "sessionName": "Week 6",
+          "goal": 0,
+          "previousYear": 0
+        }
+      ]
 
-      const totalCell = document.createElement("td");
-      const youthCell = document.createElement("td");
-      const adultCell = document.createElement("td");
-      const totalTotalCell = document.createElement("td");
+      const sessionLiveData = await getData(url)
 
-      totalYouth = session.youth.reduce((partialSum, a) => partialSum + parseInt(a), 0);
-      totalAdults = session.adults.reduce((partialSum, a) => partialSum + parseInt(a), 0);
+      const mergedData = _.merge(sessionDetails, sessionLiveData)
 
-      totalCell.textContent = "TOTAL";
-      youthCell.textContent = totalYouth;
-      adultCell.textContent = totalAdults;
-      totalTotalCell.textContent = (totalYouth + totalAdults)
+      console.log(mergedData)
 
-      newRow.appendChild(totalCell);
-      newRow.appendChild(youthCell);
-      newRow.appendChild(adultCell);
-      newRow.appendChild(totalTotalCell);
+      youthTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.youth); });
+      adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
+      previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
+      total = youthTotal + adultTotal
+      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal})
 
-      table.appendChild(newRow);
+      const table = document.querySelector("#fawnRun");
+      for (session of mergedData){
+        let rowColorClass = session.youth/session.goal > 0.99 ? 'table-success' : ''
+
+        const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
+        table.insertAdjacentHTML('beforeend', tableRow)
+      }
+    }
+
+    async function webelosWeek(url){
+      const sessionDetails = [
+        {
+          "sessionName": "Week 6",
+          "goal": 50,
+          "previousYear": 19
+        }
+      ]
+
+      const sessionLiveData = await getData(url)
+
+      const mergedData = _.merge(sessionDetails, sessionLiveData)
+
+      console.log(mergedData)
+
+      youthTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.youth); });
+      adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
+      previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
+      total = youthTotal + adultTotal
+      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal})
+
+      const table = document.querySelector("#webelosWeek");
+      for (session of mergedData){
+        let rowColorClass = session.youth/session.goal > 0.99 ? 'table-success' : ''
+
+        const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
+        table.insertAdjacentHTML('beforeend', tableRow)
+      }
     }
 
     async function main(){
-      await fillTable6('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=61822', '#trad2023');
-      await fillTable6('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=60010', '#pad2023');
-      await fillTable1('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=62860', '#web2023');
-
-      const totalCell2023 = document.querySelector('#total2023')
-      totalCell2023.textContent = overallYouthTotal;
-
-      const percentCell2023 = document.querySelector('#percent2023')
-      percentCell2023.textContent = overallYouthTotal/goal*100 + "%";
-
-
-      await fillTable6('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=73304', '#trad2024');
-      // await fillTable6('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=60010', '#pad2024');
-      // await fillTable1('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=62860', '#web2024');
-
-      // const totalCell2024 = document.querySelector('#total2024')
-      // totalCell2024.textContent = overallYouthTotal;
-
-      // const percentCell2024 = document.querySelector('#percent2024')
-      // percentCell2024.textContent = overallYouthTotal/goal*100 + "%";
+      await residentCamp('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=73304');
+      await paddlerama('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80824');
+      await fawnRun('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80828');
+      await webelosWeek('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80830');
     }
 
     main()
