@@ -124,32 +124,32 @@
         {
           "sessionName": "Week 1",
           "goal":500,
-          "previousYear": 360
+          "previousYear": 452
         },
         {
           "sessionName": "Week 2",
           "goal":250,
-          "previousYear": 200
+          "previousYear": 290
         },
         {
           "sessionName": "Week 3",
           "goal":500,
-          "previousYear": 454
+          "previousYear": 467
         },
         {
           "sessionName": "Week 4",
           "goal":450,
-          "previousYear": 495
+          "previousYear": 443
         },
         {
           "sessionName": "Week 5",
           "goal":450,
-          "previousYear": 224
+          "previousYear": 363
         },
         {
           "sessionName": "Week 6",
           "goal":400,
-          "previousYear": 340
+          "previousYear": 319
         }
       ]
 
@@ -167,7 +167,7 @@
 
       const table = document.querySelector("#residentCamp");
       for (session of mergedData){
-        let rowColorClass = session.youth/session.goal > 0.99 ? 'table-success' : ''
+        let rowColorClass = session.youth/session.goal >= 1 ? 'table-success' : ''
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
@@ -189,7 +189,7 @@
         {
           "sessionName": "Week 3",
           "goal": 0,
-          "previousYear": 0
+          "previousYear": 5
         },
         {
           "sessionName": "Week 4",
@@ -222,7 +222,7 @@
 
       const table = document.querySelector("#paddlerama");
       for (session of mergedData){
-        let rowColorClass = session.youth/session.goal > 0.99 ? 'table-success' : ''
+        let rowColorClass = session.youth/session.goal >= 1 ? 'table-success' : ''
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
@@ -249,7 +249,7 @@
         {
           "sessionName": "Week 4",
           "goal": 0,
-          "previousYear": 34
+          "previousYear": 7
         },
         {
           "sessionName": "Week 5",
@@ -277,7 +277,7 @@
 
       const table = document.querySelector("#fawnRun");
       for (session of mergedData){
-        let rowColorClass = session.youth/session.goal > 0.99 ? 'table-success' : ''
+        let rowColorClass = session.youth/session.goal >= 1 ? 'table-success' : ''
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
@@ -289,7 +289,7 @@
         {
           "sessionName": "Week 6",
           "goal": 50,
-          "previousYear": 19
+          "previousYear": 53
         }
       ]
 
@@ -307,7 +307,7 @@
 
       const table = document.querySelector("#webelosWeek");
       for (session of mergedData){
-        let rowColorClass = session.youth/session.goal > 0.99 ? 'table-success' : ''
+        let rowColorClass = session.youth/session.goal >= 1 ? 'table-success' : ''
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
