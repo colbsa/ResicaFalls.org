@@ -13,7 +13,7 @@ excerpt: While being a camp counselor can be a demanding job, the rewards are en
   </div>
   <div class="col-md-6">
     <h2 class="hero pt-3 pt-md-0">CREATE A LIFETIME OF MEMORIES AND EARN A SALARY!</h2>
-    <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/">Submit an Application</a>
+    <a class="btn btn-primary btn-block mb-2" href="https://colbsa.workbrightats.com/jobs/?city=East%20Stroudsburg">Submit an Application</a>
   </div>
 </div>
 
@@ -58,4 +58,4 @@ Many of our senior camp staff leaders have extensive experience in camp and have
   </div>
 </div>
 
-If you’re ready to join us for a summer of fun at Resica Falls, [apply today](https://colbsa.workbrightats.com/jobs/)!
+If you’re ready to join us for a summer of fun at Resica Falls, [apply today](https://colbsa.workbrightats.com/jobs/?city=East%20Stroudsburg)!
