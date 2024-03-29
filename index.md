@@ -3,15 +3,18 @@ title: Home
 layout: index
 
 slides:
-- image: /img/slider/2023.11.1-Registration-Open.png
-  alt: "2024 Registration Now Open!"
-  link: /2024
-- image: /img/slider/BrennerLodge.png
-  alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
-  link: /brennerlodge
-- image: /img/slider/2021.01.31-SEEK.jpg
-  alt: "The SEEK program logo with the writing 'Preparing the next generation of camp staff'"
-  link: /summer/seek
+  - image: /img/slider/2024.03.29-Adult-Pinewood-Derby.png
+    alt: "Registration Open for the Adult Pinewood Derby"
+    link: /pinewood
+  - image: /img/slider/2023.11.1-Registration-Open.png
+    alt: "2024 Registration Now Open!"
+    link: /2024
+  - image: /img/slider/BrennerLodge.png
+    alt: "Picture of Chris Brenner with text 'Honoring a Legacy'"
+    link: /brennerlodge
+  - image: /img/slider/2021.01.31-SEEK.jpg
+    alt: "The SEEK program logo with the writing 'Preparing the next generation of camp staff'"
+    link: /summer/seek
 
 button-bar:
   Register For Summer Camp: /summer/register

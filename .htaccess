@@ -192,6 +192,9 @@ Redirect /webelos /summer/webelos
 Redirect /2024 /summer/register
 
 Redirect /halloween /yearround/halloween
+Redirect /pinewood https://scoutingevent.com/525-83504
+Redirect /pinewoodderby https://scoutingevent.com/525-83504
+Redirect /adultpinewood https://scoutingevent.com/525-83504
 
 Redirect /meritbadges /summer/merit-badges
 
