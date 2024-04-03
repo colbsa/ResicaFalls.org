@@ -3,6 +3,9 @@ title: Home
 layout: index
 
 slides:
+- image: /img/slider/2024.03.29-Adult-Pinewood-Derby.png
+  alt: "Registration Open for the Adult Pinewood Derby"
+  link: /pinewood
 - image: /img/slider/2023.11.1-Registration-Open.png
   alt: "2024 Registration Now Open!"
   link: /2024
