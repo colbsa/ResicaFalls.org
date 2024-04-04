@@ -160,19 +160,14 @@ Redirect 301 /tradingpost https://resicatradingpost.square.site/
 Redirect 301 /Store https://resicatradingpost.square.site/
 Redirect 301 /store https://resicatradingpost.square.site/
 
-Redirect 301 /tshirt https://resicatradingpost.square.site/product/2023-Theme-Shirt/832
-Redirect 301 /tshirts https://resicatradingpost.square.site/product/2023-Theme-Shirt/832
-Redirect 301 /shirt https://resicatradingpost.square.site/product/2023-Theme-Shirt/832
-Redirect 301 /shirts https://resicatradingpost.square.site/product/2023-Theme-Shirt/832
-
 Redirect 301 /youtube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 
 Redirect 301 /staffapparel https://resicatradingpost.square.site/staff-apparel
 Redirect 301 /closingreport /staff-downloads
 
-Redirect /leaders-update  https://colbsa.zoom.us/webinar/register/WN_QjLu-lYPSaqDipW7gBL-qg
-Redirect /leadersupdate  https://colbsa.zoom.us/webinar/register/WN_QjLu-lYPSaqDipW7gBL-qg
+Redirect /leaders-update   https://colbsa.zoom.us/webinar/register/WN_6u4UKISxSiqY8AD9igp8vA
+Redirect /leadersupdate   https://colbsa.zoom.us/webinar/register/WN_6u4UKISxSiqY8AD9igp8vA
 
 Redirect /brennerproject https://app.mobilecause.com/e/Kutx0A?vid=jgebx
 Redirect /savetom https://app.mobilecause.com/e/zL280w?vid=sq1wh
