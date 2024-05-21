@@ -193,6 +193,8 @@ Redirect /adultpinewood https://scoutingevent.com/525-83504
 
 Redirect /meritbadges /summer/merit-badges
 
+Redirect /verify /files/summer/Roster_Download_Instructions.pdf
+
 #TODO
 #downloads pages
 #news format
