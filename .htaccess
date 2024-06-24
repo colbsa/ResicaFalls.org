@@ -195,6 +195,10 @@ Redirect /meritbadges /summer/merit-badges
 
 Redirect /verify /files/summer/Roster_Download_Instructions.pdf
 
+Redirect /alert /alerts
+Redirect /texts /alerts
+Redirect /sms /alerts
+
 #TODO
 #downloads pages
 #news format
