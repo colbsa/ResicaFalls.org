@@ -40,7 +40,7 @@ excerpt:
     </div>
     <div class="col-12 col-md-6 pb-3">
       <div class="subheader-text">Chef Nudge’s Haunted Kitchen - 🎃</div>
-      Enjoy some delicious treats prepared by our spooky cook crew, including pizzas and sweet treats (additional cost).
+      Enjoy some delicious treats prepared by our spooky cook crew, including refreshments izzas and sweet treats (additional cost).
     </div>
   </div>
   <div class="row">
