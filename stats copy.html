@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  <title>Stats</title>
+</head>
+<body>
+  <div class="container">
+    <div class="row mt-3">
+      <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item" role="presentation">
+          <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#2023" type="button" role="tab" aria-controls="2024" aria-selected="true">2023</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="profile-tab" data-bs-toggle="tab" data-bs-target="#2024" type="button" role="tab" aria-controls="2024" aria-selected="false">2024</button>
+        </li>
+      </ul>
+    </div>
+      <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="2023" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
+          <div class="row mt-3">
+            <div class="col-12 col-md-6">
+              <h5 class="text-center text-uppercase fw-bold">Resident Camp</h5>
+              <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <td>Week</td>
+                    <td>Youth</td>
+                    <td>Adult</td>
+                    <td>Total</td>
+                  </tr>
+                </thead>
+                <tbody id="trad2023"></tbody>
+              </table>
+            </div>
+            <div class="col-12 col-md-6">
+              <h5 class="text-center text-uppercase fw-bold">Paddlerama</h5>
+              <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <td>Week</td>
+                    <td>Youth</td>
+                    <td>Adult</td>
+                    <td>Total</td>
+                  </tr>
+                </thead>
+                <tbody id="pad2023"></tbody>
+              </table>
+            </div>
+          </div>
+          <div class="row mt-3">
+            <div class="col-12 col-md-6">
+              <h5 class="text-center text-uppercase fw-bold">Webelos Week</h5>
+              <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <td>Week</td>
+                    <td>Youth</td>
+                    <td>Adult</td>
+                    <td>Total</td>
+                  </tr>
+                </thead>
+                <tbody id="web2023"></tbody>
+              </table>
+            </div>
+            <div class="col-12 col-md-6">
+              <h5 class="text-center text-uppercase fw-bold">Totals</h5>
+              <div class="row my-3">
+                <div class="col">
+                  <div class="card">
+                    <div class="card-header">
+                      Total Youth
+                    </div>
+                    <div class="card-body">
+                      <h5 class="card-title fw-bold" id="total2023"></h5>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card">
+                    <div class="card-header">
+                      % of Goal
+                    </div>
+                    <div class="card-body">
+                      <h5 class="card-title fw-bold" id="percent2023"></h5>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="2024" role="tabpanel" aria-labelledby="2024" tabindex="0">
+          <div class="row mt-3">
+            <div class="col-12 col-md-6">
+              <h5 class="text-center text-uppercase fw-bold">Resident Camp</h5>
+              <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <td>Week</td>
+                    <td>Youth</td>
+                    <td>Adult</td>
+                    <td>Total</td>
+                  </tr>
+                </thead>
+                <tbody id="trad2024"></tbody>
+              </table>
+            </div>
+            <div class="col-12 col-md-6">
+              <h5 class="text-center text-uppercase fw-bold">Paddlerama</h5>
+              <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <td>Week</td>
+                    <td>Youth</td>
+                    <td>Adult</td>
+                    <td>Total</td>
+                  </tr>
+                </thead>
+                <tbody id="pad2024"></tbody>
+              </table>
+            </div>
+          </div>
+          <div class="row mt-3">
+            <div class="col-12 col-md-6">
+              <h5 class="text-center text-uppercase fw-bold">Webelos Week</h5>
+              <table class="table table-striped">
+                <thead>
+                  <tr>
+                    <td>Week</td>
+                    <td>Youth</td>
+                    <td>Adult</td>
+                    <td>Total</td>
+                  </tr>
+                </thead>
+                <tbody id="web2024"></tbody>
+              </table>
+            </div>
+            <div class="col-12 col-md-6">
+              <h5 class="text-center text-uppercase fw-bold">Totals</h5>
+              <div class="row my-3">
+                <div class="col">
+                  <div class="card">
+                    <div class="card-header">
+                      Total Youth
+                    </div>
+                    <div class="card-body">
+                      <h5 class="card-title fw-bold" id="total2024"></h5>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card">
+                    <div class="card-header">
+                      % of Goal
+                    </div>
+                    <div class="card-body">
+                      <h5 class="card-title fw-bold" id="percent2024"></h5>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  <style>
+    thead, tr:last-child {
+      font-weight: bold;
+    }
+  </style>
+
+
+  <script>
+
+    let overallYouthTotal = 0
+    let goal = 2500
+
+    async function getData(url) {
+      try {
+        // We are using fetch to get the response
+        const response = await fetch(url);
+        const data = await response.text();
+
+        // Parse Table
+        const parser = new DOMParser();
+        const doc = parser.parseFromString(data, "text/html");
+        const table = doc.querySelector('table');
+        const rows = table.querySelectorAll("tr");
+        const columns = [];
+
+        // Iterate through rows
+        for (let i = 0; i < rows.length; i++) {
+          const cells = rows[i].querySelectorAll("td");
+          // Iterate through cells
+          for (let j = 0; j < cells.length; j++) {
+            if (!columns[j]) {
+              columns[j] = [];
+            }
+            columns[j][i] = cells[j].textContent;
+          }
+        }
+
+        const youth = columns[1].slice(2)
+        const adults = columns[2].slice(2)
+
+
+        return({youth, adults})
+
+      } catch (error) {
+        console.log(error);
+      }
+    }
+
+    async function fillTable6(url, selector){
+      let session = await getData(url);
+
+      const table = document.querySelector(selector);
+
+      for (let i = 0; i < 6; i++)
+      {
+        const newRow = document.createElement("tr");
+
+        const weekCell = document.createElement("td");
+        const youthCell = document.createElement("td");
+        const adultCell = document.createElement("td");
+        const totalCell = document.createElement("td");
+
+        weekCell.textContent = "Week " + (i+1);
+        youthCell.textContent = session.youth[i]
+        adultCell.textContent = session.adults[i]
+        totalCell.textContent = (parseInt(session.youth[i]) + parseInt(session.adults[i]))
+
+        newRow.appendChild(weekCell);
+        newRow.appendChild(youthCell);
+        newRow.appendChild(adultCell);
+        newRow.appendChild(totalCell);
+
+        table.appendChild(newRow);
+      }
+
+      const newRow = document.createElement("tr");
+
+      const totalCell = document.createElement("td");
+      const youthCell = document.createElement("td");
+      const adultCell = document.createElement("td");
+      const totalTotalCell = document.createElement("td");
+
+      totalYouth = session.youth.reduce((partialSum, a) => partialSum + parseInt(a), 0);
+      totalAdults = session.adults.reduce((partialSum, a) => partialSum + parseInt(a), 0);
+
+      totalCell.textContent = "TOTAL";
+      youthCell.textContent = totalYouth;
+      adultCell.textContent = totalAdults;
+      totalTotalCell.textContent = (totalYouth + totalAdults)
+      overallYouthTotal += totalYouth
+
+      newRow.appendChild(totalCell);
+      newRow.appendChild(youthCell);
+      newRow.appendChild(adultCell);
+      newRow.appendChild(totalTotalCell);
+
+      table.appendChild(newRow);
+    }
+
+    async function fillTable1(url, selector) {
+      let session = await getData(url);
+
+      const table = document.querySelector(selector);
+
+      for (let i = 0; i < 1; i++) {
+        const newRow = document.createElement("tr");
+
+        const weekCell = document.createElement("td");
+        const youthCell = document.createElement("td");
+        const adultCell = document.createElement("td");
+        const totalCell = document.createElement("td");
+
+        weekCell.textContent = "Week 6";
+        youthCell.textContent = session.youth[i]
+        adultCell.textContent = session.adults[i]
+        totalCell.textContent = (parseInt(session.youth[i]) + parseInt(session.adults[i]))
+
+        newRow.appendChild(weekCell);
+        newRow.appendChild(youthCell);
+        newRow.appendChild(adultCell);
+        newRow.appendChild(totalCell);
+
+        table.appendChild(newRow);
+      }
+
+      const newRow = document.createElement("tr");
+
+      const totalCell = document.createElement("td");
+      const youthCell = document.createElement("td");
+      const adultCell = document.createElement("td");
+      const totalTotalCell = document.createElement("td");
+
+      totalYouth = session.youth.reduce((partialSum, a) => partialSum + parseInt(a), 0);
+      totalAdults = session.adults.reduce((partialSum, a) => partialSum + parseInt(a), 0);
+
+      totalCell.textContent = "TOTAL";
+      youthCell.textContent = totalYouth;
+      adultCell.textContent = totalAdults;
+      totalTotalCell.textContent = (totalYouth + totalAdults)
+
+      newRow.appendChild(totalCell);
+      newRow.appendChild(youthCell);
+      newRow.appendChild(adultCell);
+      newRow.appendChild(totalTotalCell);
+
+      table.appendChild(newRow);
+    }
+
+    async function main(){
+      await fillTable6('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=61822', '#trad2023');
+      await fillTable6('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=60010', '#pad2023');
+      await fillTable1('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=62860', '#web2023');
+
+      const totalCell2023 = document.querySelector('#total2023')
+      totalCell2023.textContent = overallYouthTotal;
+
+      const percentCell2023 = document.querySelector('#percent2023')
+      percentCell2023.textContent = overallYouthTotal/goal*100 + "%";
+
+
+      await fillTable6('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=73304', '#trad2024');
+      // await fillTable6('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=60010', '#pad2024');
+      // await fillTable1('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=62860', '#web2024');
+
+      // const totalCell2024 = document.querySelector('#total2024')
+      // totalCell2024.textContent = overallYouthTotal;
+
+      // const percentCell2024 = document.querySelector('#percent2024')
+      // percentCell2024.textContent = overallYouthTotal/goal*100 + "%";
+    }
+
+    main()
+
+  </script>
+</body>
+</html>

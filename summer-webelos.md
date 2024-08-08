@@ -29,14 +29,14 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
 - Webelos Walkabout (4th Grade/Webelos Only)
 - Yo-Yo -->
 
-<div class="col alert alert-primary text-center">
-  <!-- Registration Opens: March 23, 2023<br> -->
+<!-- <div class="col alert alert-primary text-center">
+  Registration Opens: March 23, 2023<br>
   <strong>Registration Opens February 1, 2024</strong><br>
   $425 per Scout &mdash; $200 per Adult<br>
   Registration for both Scouts and Adults includes a t-shirt and a patch!
-</div>
+</div> -->
 
-<table class="table text-center table-sessions">
+<!-- <table class="table text-center table-sessions">
     <thead class="thead-inverse">
         <tr>
             <th class="text-center">Session</th>
@@ -51,7 +51,7 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
             <td><a class="btn btn-primary" href="https://scoutingevent.com/525-80830">Register Now</a></td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 {% contentfor sidebar %}
 
