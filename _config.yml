@@ -3,6 +3,9 @@ title: Resica Falls Scout Reservation
 logo: "/img/logo.png"
 description: "Spend your summer doing something amazing at Resica Falls Scout Reservation."
 
+alert:
+  text: Responses may be slow as we're on a short <a href="/summer/break">post-summer break</a>.
+
 plugins:
   - jekyll-paginate-v2
   - jekyll_picture_tag
@@ -29,4 +32,4 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
 
-current_season: 2024
+current_season: 2025
