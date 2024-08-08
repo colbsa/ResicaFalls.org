@@ -4,7 +4,7 @@ logo: "/img/logo.png"
 description: "Spend your summer doing something amazing at Resica Falls Scout Reservation."
 
 alert:
-  text: Responses may be slow as we're on a short <a href="/summer/break">post-summer break</a>.
+  text: Responses may be slow as we're on a short post-summer break. <a href="/summer/break">Learn more</a>.
 
 plugins:
   - jekyll-paginate-v2
