@@ -9,7 +9,7 @@ Our Resica Troop One program is designed to allow every Scout the opportunity to
 
 The members of Troop One function as a normal troop throughout the week. The Scouts have the chance to earn merit badges and participate in camp-wide programs, eat meals in the dining hall, and sit around the campfire, all with this temporary troop.  Please visit our [Dates and Rates](/summer/register) page for more information about pricing.
 
-<table class="table text-center table-sessions">
+<!-- <table class="table text-center table-sessions">
   <thead class="thead-inverse">
     <tr>
       <th class="text-center">Session</th>
@@ -34,7 +34,7 @@ The members of Troop One function as a normal troop throughout the week. The Sco
       <td><a class="btn btn-primary" href="https://scoutingevent.com/525-73304-180238">Register Now</a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 
 {% contentfor sidebar %}

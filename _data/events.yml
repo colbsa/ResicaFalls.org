@@ -1,69 +1,68 @@
-- title: Summer Camp Early Bird Deadline
-  date: 2024-02-01
+- title: Unami Lodge Vigil Weekend
+  date: 2024-09-13
+  date-end: 2024-09-15
+  time:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-85358
+
+- title: Service Day
+  date: 2024-09-21
   date-end:
   time:
   link-text: More Information
+  link-url: /volunteer
+
+- title: Unami Lodge Fall Fellowship Weekend
+  date: 2024-10-04
+  date-end: 2024-10-06
+  time:
+  link-text: Register Now
+  link-url: https://scoutingevent.com/525-68803-171539
+
+- title: Service Day
+  date: 2024-10-12
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Halloweekend
+  date: 2024-10-26
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /yearround/halloween
+
+- title: Service Day
+  date: 2024-11-09
+  date-end:
+  time:
+  link-text: More Information
+  link-url: /volunteer
+
+- title: Summer Camp Early Bird Deadline
+  date: 2025-02-01
+  date-end:
+  time:
+  link-text: Register Now
   link-url: /summer/register
 
-- title: Virtual Leaders Update
-  date: 2024-02-13
-  date-end:
-  time: 7:00 PM
-  link-text: Register
-  link-url: https://colbsa.zoom.us/webinar/register/WN_wj5EJP9bTASpYUoUCm18pQ
-
-- title: COPE Instructor Training
-  date: 2024-03-22
-  date-end: 2024-03-23
-  time:
-  link-text: More Information
-  link-url: /yearround/cope
-
-- title: Virtual Leaders Update
-  date: 2024-04-03
-  date-end:
-  time: 7:00 PM
-  link-text: Register
-  link-url: https://colbsa.zoom.us/webinar/register/WN_QjLu-lYPSaqDipW7gBL-qg
-
 - title: Service Day
-  date: 2024-04-13
+  date: 2025-03-29
   date-end:
   time:
   link-text: More Information
   link-url: /volunteer
 
-- title: COPE Weekend
-  date: 2024-04-12
-  date-end: 2024-04-14
-  time:
-  link-text: More Information
-  link-url: /yearround/cope
-
 - title: Service Day
-  date: 2024-05-04
+  date: 2025-04-12
   date-end:
   time:
   link-text: More Information
   link-url: /volunteer
 
-- title: COPE Weekend
-  date: 2024-05-17
-  date-end: 2024-05-19
-  time:
-  link-text: More Information
-  link-url: /yearround/cope
-
-- title: Virtual Leaders Update
-  date: 2024-05-23
-  date-end:
-  time: 7:00 PM
-  link-text: Register
-  link-url: https://colbsa.zoom.us/webinar/register/WN_6u4UKISxSiqY8AD9igp8vA
-
-
 - title: Service Day
-  date: 2024-06-01
+  date: 2025-05-03
   date-end:
   time:
   link-text: More Information

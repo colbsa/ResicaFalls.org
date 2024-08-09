@@ -1,5 +1,5 @@
 ---
-title: 2024 Dates & Rates
+title: 2025 Dates & Rates
 layout: landing
 permalink: /summer/register
 excerpt: 6 great weeks to spend the summer with us! Which will you choose?
@@ -69,17 +69,17 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <div class="subheader-text mb-4">2024 PRICING</div>
+      <div class="subheader-text mb-4">2025 PRICING</div>
     </div>
   </div>
   <div class="row mb-4">
     <div class="col-md-6 text-center">
       <div class="alert alert-primary">
-        Early Bird: $575 per Youth / $250 per Adult <br>
+        Early Bird: $615 per Youth / $270 per Adult <br>
         <em>(Based On The Per Scout Deposit)</em>
       </div>
       <div class="alert alert-secondary">
-        Regular: $605 per Youth / $250 per Adult
+        Regular: $645 per Youth / $270 per Adult
       </div>
       <!-- <div class="alert alert-secondary">
         <strong>Second Week: $400 per Youth</strong><br>
@@ -107,7 +107,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
   <hr>
   <div class="row mt-4">
     <div class="col text-center">
-      <div class="subheader-text mb-4">2024 DATES</div>
+      <div class="subheader-text mb-4">2025 DATES</div>
     </div>
   </div>
   <div class="row">
@@ -145,7 +145,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
           <strong>PAYMENT SCHEDULE</strong>
         </div>
         <strong>Feb 1</strong> - Unit Deposit of $300 & $50/Scout to lock-in the Early Bird fee for each Scout.<br>
-        <strong>March 31</strong> - An additional $100 due per person to register for Merit Badges and Programs.<br>
+        <strong>March 31</strong> - An additional $150 due per person to register for Merit Badges and Programs.<br>
         <strong>May 15</strong> - Full Payment is due before campsite assignments and check-in times are assigned.<br>
       </div>
       <div class="text-center">
