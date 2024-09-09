@@ -4,7 +4,7 @@ layout: event
 permalink: /yearround/halloween
 banner-img: /img/yearround/halloween.png
 banner-text: Halloweekend At Resica Falls
-excerpt: 
+excerpt:
 ---
 
 <style>
@@ -40,7 +40,7 @@ excerpt:
     </div>
     <div class="col-12 col-md-6 pb-3">
       <div class="subheader-text">Chef Nudge’s Haunted Kitchen - 🎃</div>
-      Enjoy some delicious treats prepared by our spooky cook crew, including refreshments izzas and sweet treats (additional cost).
+      Enjoy some delicious treats prepared by our spooky cook crew, including refreshments and sweet treats (additional cost).
     </div>
   </div>
   <div class="row">
@@ -68,7 +68,7 @@ excerpt:
             <li>1 Pumpkin Per Person</li>
             <li>Free Event Parking</li>
           </ul>
-          <a href="https://resicatradingpost.square.site/shop/halloweekend/22?page=1&limit=60&sort_by=category_order&sort_order=asc" class="btn btn-lg btn-block btn-primary">Purchase Event Pass</a>
+          <a href="https://resicatradingpost.square.site/product/halloweekend-admission/898" class="btn btn-lg btn-block btn-primary">Purchase Event Pass</a>
         </div>
       </div>
     </div>
