@@ -5,7 +5,7 @@ permalink: /summer/webelos
 excerpt: An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure.
 ---
 
-Calling all rising 4th and 5th graders – Resica Falls is excited to once again offer our Webelos Week for Summer 2024! An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure. The time in between will be filled with campfires, shooting sports, swimming, boating, and exploring the outdoors. Other highlights will include a day hike for all and an exclusive overnight trip for Arrow of Light Scouts. 
+Calling all rising 4th and 5th graders – Resica Falls is excited to once again offer our Webelos Week for Summer 2024! An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure. The time in between will be filled with campfires, swimming, boating, and exploring the outdoors. Other highlights will include a day hike for all and an exclusive overnight trip for Arrow of Light Scouts. 
 
 <!-- All these activities are centered around the theme of **Expedition Resica**, a mysterious escape into the depths of the jungle!  -->
 
