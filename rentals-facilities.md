@@ -1,7 +1,7 @@
 ---
 title: Reserve a Facility
 layout: page
-permalink: /rentals/facilities
+permalink: /rentals/facilities/
 excerpt: Resica Falls Scout Reservation is home to many cabins and campsites available for rent throughout the year.
 
 ---

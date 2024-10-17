@@ -1,7 +1,7 @@
 ---
 title: Join Camp Staff
 layout: page
-permalink: /staff
+permalink: /staff/
 excerpt: While being a camp counselor can be a demanding job, the rewards are endless as you forge memories that will last a lifetime.
 ---
 

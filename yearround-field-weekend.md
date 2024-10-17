@@ -1,7 +1,7 @@
 ---
 title: Field Event Weekend
 layout: page
-permalink: /yearround/field-weekend
+permalink: /yearround/field-weekend/
 excerpt:  
 ---
 <div class="subheader">A Great Start for your Fall Program</div>

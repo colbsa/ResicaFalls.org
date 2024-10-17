@@ -1,7 +1,7 @@
 ---
 title: Prepared For Girls
 layout: page
-permalink: /summer/girls
+permalink: /summer/girls/
 excerpt: Camp isn't just for the boys. We're working hard to make every camper feel welcome in camp.
 ---
 

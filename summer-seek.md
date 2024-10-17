@@ -1,7 +1,7 @@
 ---
 title: SEEK
 layout: page
-permalink: /summer/seek
+permalink: /summer/seek/
 excerpt: Introduced in 2021, the SEEK program is focused on preparing the next generation of leaders. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth. 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Programs & Opportunities
 layout: page
-permalink: /summer/programs
+permalink: /summer/programs/
 excerpt: Many traditional summer highlights are available alongside new programs and fun to have.
 ---
 

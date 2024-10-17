@@ -1,7 +1,7 @@
 ---
 title: Camp History
 layout: page
-permalink: /history
+permalink: /history/
 excerpt: 
 ---
 

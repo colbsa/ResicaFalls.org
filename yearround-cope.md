@@ -1,7 +1,7 @@
 ---
 title: COPE Weekends
 layout: page
-permalink: /yearround/cope
+permalink: /yearround/cope/
 excerpt:  
 ---
 

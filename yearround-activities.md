@@ -1,7 +1,7 @@
 ---
 title: Weekend Activities
 layout: page
-permalink: /yearround/activities
+permalink: /yearround/activities/
 excerpt: 
 ---
 

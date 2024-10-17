@@ -6,6 +6,9 @@ excerpt: File not found - Error 404
 
 head: Time to find the map and compass?
 ---
+
 {% include compass.svg %}
-Seriously though, we seem to be lost. Just like this page. <br>
-If you find it, or need help finding what you came here for, please [let us know](/contact?recipient=webmaster@reicafalls.org).
+
+**Oops!** This page could not be found.
+
+Use the menu above and, please let us know at hello@resicafalls.org if you have trouble finding something.

@@ -1,7 +1,7 @@
 ---
 title: Staff Downloads
 layout: page
-permalink: /staffdownloads
+permalink: /staffdownloads/
 excerpt: Download all of your staff necessities
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Webelos Week – An Outdoor Adventure for Cubs
 layout: page
-permalink: /summer/webelos
+permalink: /summer/webelos/
 excerpt: An exciting week of adventure and activities designed for Webelos and Arrow of Light Scouts, those participating will experience a wide range of exciting events, from Sunday’s arrival to Saturday’s departure.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 2025 Dates & Rates
 layout: landing
-permalink: /summer/register
+permalink: /summer/register/
 excerpt: 6 great weeks to spend the summer with us! Which will you choose?
 ---
 

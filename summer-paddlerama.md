@@ -1,7 +1,7 @@
 ---
 title: Paddlerama
 layout: page
-permalink: /summer/paddlerama
+permalink: /summer/paddlerama/
 excerpt: Joins us for a week-long canoe trip of over 70 miles down the picturesque Delaware River.
 ---
 

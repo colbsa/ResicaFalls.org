@@ -1,7 +1,7 @@
 ---
 title: Support Brenner Lodge
 layout: page
-permalink: /brennerlodge
+permalink: /brennerlodge/
 excerpt: Help us honor longtime Resica Falls Camp Director Chris Brenner. Fundraising efforts and construction plans are now in their final stages.
 ---
 

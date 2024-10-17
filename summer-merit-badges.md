@@ -1,7 +1,7 @@
 ---
 title: 2025 Merit Badge Offerings
 layout: page
-permalink: /summer/merit-badges
+permalink: /summer/merit-badges/
 excerpt: Merit Badge and Class Info for the 2025 Season
 ---
 

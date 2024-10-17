@@ -1,7 +1,7 @@
 ---
 title: Resica Troop One
 layout: page
-permalink: /summer/provo
+permalink: /summer/provo/
 excerpt: Our Resica Troop One program is designed to allow every Scout the opportunity to experience the adventure that awaits at Resica Falls.
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Schedule a Camp Promotion
 layout: page
-permalink: /summer/camp-promotion
+permalink: /summer/camp-promotion/
 excerpt: Our staff are passionate about our camp and we would love to show you everything the Resica camping experience has to offer.
 ---
 

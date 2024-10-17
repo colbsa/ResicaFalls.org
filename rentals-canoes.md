@@ -1,7 +1,7 @@
 ---
 title: Rent a Canoe
 layout: page
-permalink: rentals/canoes
+permalink: /rentals/canoes/
 excerpt: Looking to go on a troop canoe trip? Rent your canoes and a campsite from Resica Falls!
 
 ---
