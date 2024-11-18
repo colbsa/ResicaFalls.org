@@ -163,7 +163,7 @@
       adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
       previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
       total = youthTotal + adultTotal
-      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 2650, "previousYear": previousTotal})
+      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 2800, "previousYear": previousTotal})
 
       const table = document.querySelector("#residentCamp");
       for (session of mergedData){
