@@ -1,44 +1,9 @@
-- title: Unami Lodge Vigil Weekend
-  date: 2024-09-13
-  date-end: 2024-09-15
-  time:
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-85358
-
-- title: Service Day
-  date: 2024-09-21
+- title: Own Your Home Program Registration Deadline
+  date: 2025-12-15
   date-end:
   time:
-  link-text: More Information
-  link-url: /volunteer
-
-- title: Unami Lodge Fall Fellowship Weekend
-  date: 2024-10-04
-  date-end: 2024-10-06
-  time:
-  link-text: Register Now
-  link-url: https://scoutingevent.com/525-68803-171539
-
-- title: Service Day
-  date: 2024-10-12
-  date-end:
-  time:
-  link-text: More Information
-  link-url: /volunteer
-
-- title: Halloweekend
-  date: 2024-10-26
-  date-end:
-  time:
-  link-text: More Information
-  link-url: /yearround/halloween
-
-- title: Service Day
-  date: 2024-11-09
-  date-end:
-  time:
-  link-text: More Information
-  link-url: /volunteer
+  link-text: Register For Camp
+  link-url: /summer/register
 
 - title: Summer Camp Early Bird Deadline
   date: 2025-02-01
@@ -47,23 +12,44 @@
   link-text: Register Now
   link-url: /summer/register
 
+- title: Virtual Leaders Meeting
+  date: 2025-02-26
+  date-end:
+  time: 7:00 PM
+  link-text: Register Now
+  link-url: https://colbsa.zoom.us/webinar/register/WN_TpTjtdikSg2PCXHgn6FNLg
+
 - title: Service Day
   date: 2025-03-29
   date-end:
   time:
-  link-text: More Information
+  link-text: Learn More
   link-url: /volunteer
+
+- title: Virtual Leaders Meeting (SPL Edition)
+  date: 2025-04-07
+  date-end:
+  time: 7:00 PM
+  link-text: Register Now
+  link-url: https://colbsa.zoom.us/webinar/register/WN_ig6YSg6nRgq_lFS2VgHv-g
 
 - title: Service Day
   date: 2025-04-12
   date-end:
   time:
-  link-text: More Information
+  link-text: Learn More
   link-url: /volunteer
 
 - title: Service Day
   date: 2025-05-03
   date-end:
   time:
-  link-text: More Information
+  link-text: Learn More
   link-url: /volunteer
+
+- title: Virtual Leaders Meeting
+  date: 2025-05-20
+  date-end:
+  time: 7:00 PM
+  link-text: Register Now
+  link-url: https://colbsa.zoom.us/webinar/register/WN_7_TiwSL0R4qdG0wanp7-UA
