@@ -1,8 +1,9 @@
 ---
 title: SEEK
 layout: page
+published: false
 permalink: /summer/seek
-excerpt: Introduced in 2021, the SEEK program is focused on preparing the next generation of leaders. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth. 
+excerpt: Introduced in 2021, the SEEK program is focused on preparing the next generation of leaders. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth.
 ---
 
 Introduced in 2021, the SEEK program is focused on preparing the next generation of leaders. SEEK replaces our traditional CIT program with a three week program designed around targeted skill development and personal growth. Scouts ages 15 and 16 will work with our dedicated staff to hone the skills needed to be a great leader, both in camp and in their units.
