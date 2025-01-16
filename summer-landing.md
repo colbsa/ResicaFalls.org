@@ -98,25 +98,25 @@ excerpt:
     </div>
   </div>
   <div class="row align-items-center justify-content-center mt-3 mb-5">
-    <div class="col-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-4 my-3">
       <a href="/summer/programs"><img src="/img/summer/landing/ScoutsBSA.png" class="rounded img-fluid grow" alt=""></a>
     </div>
-    <div class="col-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-4 my-3">
       <a href="/summer/webelos"><img src="/img/summer/landing/Webelos.png" class="rounded img-fluid grow" alt=""></a>
     </div>
     <!-- <div class="col-6 col-lg-3 my-3">
       <a href="/summer/seek"><img src="/img/summer/landing/SEEK.png" class="rounded img-fluid grow" alt=""></a>
     </div> -->
-    <div class="col-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-4 my-3">
       <a href="/summer/paddlerama"><img src="/img/summer/landing/Paddlerama.png" class="rounded img-fluid grow" alt=""></a>
     </div>
-    <div class="col-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-4 my-3">
       <a href="https://scoutingevent.com/525-93003"><img src="/img/summer/landing/FawnRun.png" class="rounded img-fluid grow" alt=""></a>
     </div>
-    <div class="col-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-4 my-3">
       <a href="https://scoutingevent.com/525-93004"><img src="/img/summer/landing/Pioneering.png" class="rounded img-fluid grow" alt=""></a>
     </div>
-    <div class="col-6 col-lg-3 my-3">
+    <div class="col-6 col-lg-4 my-3">
       <a href="/summer/provo"><img src="/img/summer/landing/Provo.png" class="rounded img-fluid grow" alt=""></a>
     </div>
   </div>
