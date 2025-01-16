@@ -15,8 +15,7 @@ This is the perfect program for Venturing Crews looking for a Tier III Adventure
 
 <div class="row justify-content-md-center text-center mb-4">
 	<a class="col-md-4 btn btn-primary mb-4" href="https://scoutingevent.com/525-93001">Register Now</a>
-  	<a class="col-md-4 btn btn-primary btn-disabled mb-4">Coming Soon</a>
-
+  	<!-- <a class="col-md-4 btn btn-primary btn-disabled mb-4">Coming Soon</a> -->
 </div>
 
 <div class="row">
