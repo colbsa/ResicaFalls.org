@@ -21,7 +21,7 @@ Campmaster is a great way for a group of adult leaders to enjoy all the fun that
 <h2>Camp Promotions Team <div class="subheader">Share the Adventure of Resica Falls</div></h2>
 Has your unit always camped at Resica Falls? Do you enjoy your time in camp and want to share that experience with others? Join the camp promotions team to help show others what Resica Falls has to offer. Whether its promoting camp at district roundtables or sharing weekend stories at a Troop meeting, we’re always looking for help promoting the Resica Falls adventure.
 
-To join the camp promotions team, contact Council Camping Chairman [Ted McDonald](/contact?recipient=ted.mcdonald@resicafalls.org).
+To join the camp promotions team, contact Camp Director [Steve Mach](/contact?recipient=steve.mach@resicafalls.org).
 
 <h2>Ranger Corps<div class="subheader">Helping Maintain Camp one Project at a Time</div></h2>
 Have a special skill that can make our camps a better place? Be a part of the Resica Falls Ranger Corps! This dedicated group of volunteers will assist the camp ranger in keeping everything working at Resica Falls. From roofers to plumbers, electricians to carpenters, and everyone in-between, members of the Ranger Corps work side-by-side with our camp ranger to bring camp to life!
