@@ -1,20 +1,22 @@
 - section:
   name: Summer Camp Details
   subsections:
-    - name: Summer 2024
+    - name: Summer 2025
       files:
-        - name: 2024 Program Guide
-          url: /files/summer/2024-ResicaProgramGuide.pdf
+        - name: 2025 Program Guide
+          url: /files/summer/2025_Resica_Program_Guide.pdf
           coming-soon-date:
           updated-date:
+        - name: 2025 Merit Badge Schedule
+          url: /files/summer/2025_Merit_Badge_Schedule.pdf
+          coming-soon-date:
+          updated-date:
+    - name: Summer 2024
+      files:
         - name: 2024 Afternoon Adventure Guide
           url: /files/summer/2024_Resica_Afternoon_Adventures_Guide.pdf
           coming-soon-date:
           updated-date:
-        - name: 2024 Merit Badge Schedule
-          url: /files/summer/2024_Merit_Badge_Schedule.pdf
-          coming-soon-date:
-          updated-date: 2024-04-05
         - name: 2024 Summer Camp Menu
           url: /files/summer/2024_Summer_Menu.pdf
           coming-soon-date:
