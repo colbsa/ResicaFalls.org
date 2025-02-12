@@ -3,6 +3,9 @@ title: Home
 layout: index
 
 slides:
+  - image: /img/slider/RegisterNow.png
+    alt: "Register Now For Summer Camp"
+    link: /summer
   - image: /img/slider/2024.12.02-Giving-Tuesday.png
     alt: "Support Camp this Giving Tuesday"
     link: https://colbsa.org/wishlist
