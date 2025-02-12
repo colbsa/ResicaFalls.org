@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "2025 Theme Announced"
-author:
+author: Matt Gutterman
 date: 2025-01-23
 season: 2025
 banner: 2025.01.23-PirateTheme.png
 banneralt: The Search for Scouting's Treasure
 thumbnail: 2025.01.23-PirateTheme.png
 thumbalt: The Search for Scouting's Treasure
-excerpt: The Field Weekend allows your Troop to hone their tent camping skills while...
+excerpt: Ahoy, adventurers! Get ready to set sail on an unforgettable journey, because the theme for our 2025 summer camp is The Search for Scouting’s Treasure!
 ---
 
 Ahoy, adventurers! Get ready to set sail on an unforgettable journey, because the theme for our 2025 summer camp is _The Search for Scouting’s Treasure!_
