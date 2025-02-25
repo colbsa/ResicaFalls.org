@@ -11,7 +11,7 @@ excerpt: Camp isn't just for the boys. We're working hard to make every camper f
       Here are a few of the ways we have been prepared for girls, and how we continue to work towards the future:
       <ul>
         <li>
-           Over 1,000 female Scouts BSA campers have made lasting memories since 2019! Resica Falls also has a history of serving Female British Scouts and Japanese Venturers, as well as local Sea Scout Ships and Venturing Crews.
+           Over 1,500 female Scouts BSA campers have made lasting memories since 2019! Resica Falls also has a history of serving Female British Scouts and Japanese Venturers, as well as local Sea Scout Ships and Venturing Crews.
         </li>
         <li>
           The camp leadership has developed a well-rounded, action-packed program designed to meet a variety of individual needs.
@@ -20,7 +20,7 @@ excerpt: Camp isn't just for the boys. We're working hard to make every camper f
           Resica has hired an increasing number of female staff, in both junior staff and camp leadership positions.
         </li>
         <li>
-          Camp improvements that have been made in recent years are female friendly, particularly our two showerhouse exmpansions. An additional 17 new individual showers / bathrooms have been added to accommodate the needs of all our campers.
+          Camp improvements that have been made in recent years are female friendly, particularly our two showerhouse expansions. An additional 17 new individual showers / bathrooms have been added to accommodate the needs of all our campers.
         </li>
       </ul>
     </p>
