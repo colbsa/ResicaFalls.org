@@ -11,6 +11,14 @@
           url: /files/summer/2025_Merit_Badge_Schedule.pdf
           coming-soon-date:
           updated-date: 2025-03-08
+        - name: Merit Badge Info
+          url: /summer/merit-badges
+          coming-soon-date:
+          updated-date:
+        - name: Registration Change Request Form
+          url: https://247scouting.com/forms/?OrgKey=BSA525&id=3159
+          coming-soon-date:
+          updated-date:
     - name: Summer 2024
       files:
         - name: 2024 Afternoon Adventure Guide
@@ -41,6 +49,10 @@
           updated-date:
         - name: Own Your Home Program Description
           url: /files/summer/2025_Own_Your_Home.pdf
+          coming-soon-date:
+          updated-date:
+        - name: Scouts BSA Clothing Guidelines
+          url: https://www.scouting.org/wp-content/uploads/2025/02/Scouts-BSA-Cothing-Guidelines.pdf
           coming-soon-date:
           updated-date:
 - section:
