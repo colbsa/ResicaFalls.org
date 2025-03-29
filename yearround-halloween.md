@@ -35,7 +35,7 @@ excerpt:
     </div>
     <div class="col-12 col-md-6 pb-3">
       <div class="subheader-text">Witch's House - 🎃</div>
-      Sit around the campfire enjoying some s’mores, hot coco, ghost stories, and camp songs.
+      <strong>NEW FOR 2025 -</strong> Stop by and visit a witch friend or two to hear a spooky story of yesteryear and learn of the secrets hidden in the forest...you never know who might pop up to see you!
     </div>
   </div>
   <div class="row">
