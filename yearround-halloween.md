@@ -19,6 +19,11 @@ excerpt:
 <div class="container">
   <!-- Activities -->
   <div class="row">
+    <div class="col alert text-center alert-page alert-primary mb-0">
+      <strong>Mark Your Calendars - Halloweekend will be back 10/25/2025</strong>
+    </div>
+  </div>
+  <div class="row">
     <div class="col pb-3">
       <h2 class="text-center">Spooky Activities</h2>
     </div>
@@ -29,7 +34,7 @@ excerpt:
       Participate in a variety of fall and Halloween focused activities, including crafts, games, a costume contest, and pumpkin painting.
     </div>
     <div class="col-12 col-md-6 pb-3">
-      <div class="subheader-text">Campfire &amp; S’mores - 🎃</div>
+      <div class="subheader-text">Witch's House - 🎃</div>
       Sit around the campfire enjoying some s’mores, hot coco, ghost stories, and camp songs.
     </div>
   </div>
@@ -39,14 +44,18 @@ excerpt:
       Enjoy a haunted ride in our run-a-way hay wagon surrounded by the eerie and mysterious creatures of the forest…who knows what might be lurking around!
     </div>
     <div class="col-12 col-md-6 pb-3">
-      <div class="subheader-text">Chef Nudge’s Haunted Kitchen - 🎃</div>
-      Enjoy some delicious treats prepared by our spooky cook crew, including refreshments and sweet treats (additional cost).
+      <div class="subheader-text">Campfire &amp; S’mores - 🎃</div>
+      Sit around the campfire enjoying some s’mores, hot coco, ghost stories, and camp songs.
     </div>
   </div>
   <div class="row">
     <div class="col-12 col-md-6 pb-3">
       <div class="subheader-text">Haunted Lodge - 🎃🎃🎃</div>
       Deep in the wood’s is our haunted lodge of frights, fears, and terrors that will surely give you scare that you won’t likely forget anytime soon!
+    </div>
+    <div class="col-12 col-md-6 pb-3">
+      <div class="subheader-text">Chef Nudge’s Haunted Kitchen - 🎃</div>
+      Enjoy some delicious treats prepared by our spooky cook crew, including refreshments and sweet treats (additional cost).
     </div>
   </div>
 
@@ -68,7 +77,7 @@ excerpt:
             <li>1 Pumpkin Per Person</li>
             <li>Free Event Parking</li>
           </ul>
-          <a href="https://resicatradingpost.square.site/product/halloweekend-admission/898" class="btn btn-lg btn-block btn-primary">Purchase Event Pass</a>
+          <a href="#" class="btn btn-lg btn-block btn-primary disabled">Coming Summer 2025</a>
         </div>
       </div>
     </div>
