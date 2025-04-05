@@ -3,8 +3,6 @@ title: Resica Falls Scout Reservation
 logo: "/img/logo.png"
 description: "Spend your summer doing something amazing at Resica Falls Scout Reservation."
 
-alert:
-  text: Having issues scheduling classes? The best way to get help today is to send any questions to <a href="mailto:hello@resicafalls.org">hello@resicafalls.org</a>. Our staff are standing by to help.
 plugins:
   - jekyll-paginate-v2
   - jekyll_picture_tag
