@@ -166,8 +166,8 @@ Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 Redirect 301 /staffapparel https://resicatradingpost.square.site/staff-apparel
 Redirect 301 /closingreport /staff-downloads
 
-Redirect /leaders-update https://colbsa.zoom.us/webinar/register/WN_ig6YSg6nRgq_lFS2VgHv-g
-Redirect /leadersupdate https://colbsa.zoom.us/webinar/register/WN_ig6YSg6nRgq_lFS2VgHv-g
+Redirect /leaders-update https://colbsa.zoom.us/webinar/register/WN_7_TiwSL0R4qdG0wanp7-UA
+Redirect /leadersupdate https://colbsa.zoom.us/webinar/register/WN_7_TiwSL0R4qdG0wanp7-UA
 
 Redirect /brennerproject https://app.mobilecause.com/e/Kutx0A?vid=jgebx
 Redirect /savetom https://app.mobilecause.com/e/zL280w?vid=sq1wh
