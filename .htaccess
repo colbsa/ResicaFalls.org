@@ -154,16 +154,16 @@ Redirect /yearround/documents /documents
 Redirect /flyfishing /yearround/hunting-fishing
 Redirect /fishing /yearround/hunting-fishing
 
-Redirect 301 /Trading-Post https://resicatradingpost.square.site/
-Redirect 301 /trading-post https://resicatradingpost.square.site/
-Redirect 301 /tradingpost https://resicatradingpost.square.site/
-Redirect 301 /Store https://resicatradingpost.square.site/
-Redirect 301 /store https://resicatradingpost.square.site/
+# Redirect 301 /Trading-Post https://resicatradingpost.square.site/
+# Redirect 301 /trading-post https://resicatradingpost.square.site/
+# Redirect 301 /tradingpost https://resicatradingpost.square.site/
+# Redirect 301 /Store https://resicatradingpost.square.site/
+# Redirect 301 /store https://resicatradingpost.square.site/
 
 Redirect 301 /youtube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 Redirect 301 /YouTube https://www.youtube.com/channel/UCmBA0mO4ZwLxxKxuJuLdXWg
 
-Redirect 301 /staffapparel https://resicatradingpost.square.site/staff-apparel
+# Redirect 301 /staffapparel https://resicatradingpost.square.site/staff-apparel
 Redirect 301 /closingreport /staff-downloads
 
 Redirect /leaders-update https://colbsa.zoom.us/webinar/register/WN_7_TiwSL0R4qdG0wanp7-UA
