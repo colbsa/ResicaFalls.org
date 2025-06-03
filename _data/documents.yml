@@ -7,6 +7,8 @@
           url: /files/summer/2025_Resica_Program_Guide.pdf
           coming-soon-date:
           updated-date: 2025-04-05
+        - name: 2025 Afternoon Adventure Guide
+          url: /files/summer/2025_Afternoon_Adventure_Guide.pdf
         - name: 2025 Merit Badge Schedule
           url: /files/summer/2025_Merit_Badge_Schedule.pdf
           coming-soon-date:
@@ -21,12 +23,6 @@
           updated-date:
         - name: 2025 Summer Camp Menu
           url: /files/summer/2025_Summer_Menu.pdf
-          coming-soon-date:
-          updated-date:
-    - name: Summer 2024
-      files:
-        - name: 2024 Afternoon Adventure Guide
-          url: /files/summer/2024_Resica_Afternoon_Adventures_Guide.pdf
           coming-soon-date:
           updated-date:
     - name: General Summer Forms
