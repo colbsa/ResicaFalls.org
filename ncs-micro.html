@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The 7 Dwarfs of Customer Service in Camp</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+>
+</head>
+<body>
+    <main class="container">
+
+        <h1 class="center">The 7 Dwarfs of Customer Service!</h1>
+        <p class="into">
+            At a summer camp, customer service isn't just a business practice, it's a vital part of the experience. Whether we're helping a leader with a question, welcoming a new camper, or guiding a troop through check-in, every interaction shapes how people feel about camp. Good customer service builds trust, reinforces our values, and creates the kind of positive memories that keep Scouts and leaders coming back year after year. Just like the seven dwarfs had their own unique traits, each staff member brings something special to the table. When we work together with a helpful attitude, camp becomes a place where everyone feels welcome, safe, and supported.
+        </p>
+        <p class="instructions">
+            Meet the 7 Dwarfs of Customer Service! Click each one to see how their personality can guide your work at camp.
+        </p>
+        <section class="learning-module">
+            <div class="image-row">
+                <img src="img/ncs/Happy.png" alt="Happy" onclick="showDescription(1, this)">
+                <img src="img/ncs/Sneezy.png" alt="Sneezy" onclick="showDescription(2, this)">
+                <img src="img/ncs/Bashful.png" alt="Bashful" onclick="showDescription(3, this)">
+                <img src="img/ncs/Doc.png" alt="Doc" onclick="showDescription(4, this)">
+                <img src="img/ncs/Grumpy.png" alt="Grumpy" onclick="showDescription(5, this)">
+                <img src="img/ncs/Sleepy.png" alt="Sleepy" onclick="showDescription(6, this)">
+                <img src="img/ncs/Dopey.png" alt="Dopey" onclick="showDescription(7, this)">
+            </div>
+
+            <article class="description-box" id="descriptionBox"></article>
+        </section>
+
+    </main>
+
+    <script>
+  const descriptions = [
+    '',
+
+    `
+    <h3>Be Happy</h3>
+    <p>Make eye contact and smile!</p>
+    <ul>
+    <li>Start with warm greetings</li>
+    <li>Bring positive energy to every interaction</li>
+    <li>A cheerful attitude sets the tone for a great day</li>
+    <li>Positivity is a superpower!</li>
+    </ul>
+    `,
+
+    `
+    <h3>Be like Sneezy</h3>
+    <p>Greet and welcome each and every camper!</p>
+    <ul>
+    <li>Spread the spirit of hospitality.. it's contagious</li>
+    <li>It's important to make others feel seen and valued</li>
+    <li>Every camper should feel like they belong from the moment they arrive</li>
+    </ul>
+    `,
+
+    `
+    <h3>Don't be Bashful</h3>
+    <p>Seek out camper interaction!</p>
+    <ul>
+    <li>Great camp staff step out of their shell to make connections</li>
+    <li>Don't wait to be asked - offer help</li>
+    <li>Look for ways to brighten someone's day</li>
+    <li>A simple “How's your day going?” can turn a good camp into a great one</li>
+    </ul>
+    `,
+
+    `
+    <h3>Be like Doc</h3>
+    <p>Provide immediate service recovery. Doc is the go-to when things go off track - and at camp, quick action matters.</p>
+    <ul>
+    <li>If a camper has a concern or something doesn't go as planned, step in right away</li>
+    <li>Listen carefully, apologize sincerely, and do what you can to make it right</li>
+    <li>Fast, thoughtful responses show campers we care and turn problems into positive experiences</li>
+    </ul>
+    `,
+
+     `
+    <h3>Don't be Grumpy</h3>
+    <p>Always use appropriate body language.</p>
+    <ul>
+    <li>Your body speaks volumes</li>
+    <li>Crossed arms, eye rolls, or slouched posture can send the wrong message</li>
+    <li>Positive body language helps campers feel welcomed, respected, and confident</li>
+    </ul>
+    `,
+
+    `
+    <h3>Be like Sleepy</h3>
+    <p>Create dreams and preserve the magic.</p>
+    <ul>
+    <li>camp is a magical place - especially for our Scouts</li>
+    <li>It's up to camp staff to keep the magic alive</li>
+    <li>Stay sharp, be attentive, and always bring your best, even when you're tired</li>
+    <li>A small moment for you might be a core memory for a camper. Let's make sure it's a good one</li>
+    </ul>
+    `,
+
+    `
+    <h3>Don't be Dopey</h3>
+    <p>Thank each and every camper!</p>
+    <ul>
+    <li>Dopey might be a little clumsy, but even he knows how powerful a simple "thank you" can be</li>
+    <li>Every camper, leader, and parent gives their time and trust to be here</li>
+    <li>Whether it's after a meal, at the trading post, or just passing by, a sincere thank-you leaves a lasting impression</li>
+    </ul>
+    `,
+  ];
+
+  function showDescription(index, clickedImage) {
+    // Update description
+    document.getElementById('descriptionBox').innerHTML = descriptions[index];
+
+    // Remove active class from all images
+    const images = document.querySelectorAll('#imageRow img');
+    images.forEach(img => img.classList.remove('active'));
+
+    // Add active class to the clicked image
+    clickedImage.classList.add('active');
+  }
+</script>
+
+    <style>
+        html{
+            overflow-y:scroll;
+        }
+        h1 {
+            text-align: center;
+        }
+        .instructions {
+            font-style: italic;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 3rem;
+            margin-bottom: 1.5rem;
+        }
+        img {
+            border-radius: 50%;
+            height: 150px;
+            margin-right: 0.5rem;
+            margin-left: 0.5rem;
+        }
+        .image-row{
+            text-align: center;
+        }
+        .description-box{
+            margin-top: 1.5rem;
+        }
+        .active{
+            border-color: #007BFF;
+            box-shadow: 0 0 10px rgba(0, 123, 255, 0.5);
+        }
+    </style>
+</body>
+</html>
