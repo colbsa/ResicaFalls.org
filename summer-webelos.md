@@ -16,18 +16,23 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
     <a class="btn btn-primary" href="/files/summer/2022-ResicaWebelosGuide.pdf">Download Webelos Week Program Guide</a>
 </div> -->
 
-<!--
-**Examples of Webelos & Arrow of Light Scout Adventures Offered**
 
-- Aquanaut (some requirements)
+**This year, Webelos & Arrow of Light scouts will participate in the following adventures:**
+
+- Aquanaut
+- Archery
 - Art Explosion
-- Cast Iron
-- Castaway
+- BB Guns
+- Cast Iron Chef
+- Catch the Big one
+- Chef's Knife
+- Earth Rocks
+- Fishing
 - Into the Woods
-- Outdoor Adventurer (5th Grade/Arrow of Light Scouts Only)
-- Sports
-- Webelos Walkabout (4th Grade/Webelos Only)
-- Yo-Yo -->
+- Outdoor Adventurer
+- Paddle Craft
+- Paddle Onward
+- Sling Shot
 
 <!-- <div class="col alert alert-primary text-center">
   Registration Opens: March 23, 2023<br>
