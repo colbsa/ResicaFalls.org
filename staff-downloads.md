@@ -10,5 +10,5 @@ excerpt: Download all of your staff necessities
 <br><br>
 <a class="btn btn-primary" href="/files/staff/Closing-Inventory-Template.xlsx" download>Closing Inventory</a>
 <br><br>
-<a class="btn btn-primary" href="/files/staff/Lesson_Plan_Template.pdf" download>Lesson Plan Template</a>
+<a class="btn btn-primary" href="/files/staff/Lesson_Plan_Template.docx" download>Lesson Plan Template</a>
 
