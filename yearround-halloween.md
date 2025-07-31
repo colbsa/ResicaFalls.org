@@ -77,7 +77,7 @@ excerpt:
             <li>1 Pumpkin Per Person</li>
             <li>Free Event Parking</li>
           </ul>
-          <a href="#" class="btn btn-lg btn-block btn-primary disabled">Coming Summer 2025</a>
+          <a href="#" class="btn btn-lg btn-block btn-primary">https://checkout.square.site/merchant/3AY60CVHW2KVP/checkout/YDNZMRLVA74VHJNLE6OPTYU5</a>
         </div>
       </div>
     </div>
