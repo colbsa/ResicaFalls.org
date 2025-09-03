@@ -1,5 +1,5 @@
 ---
-title: 2025 Dates & Rates
+title: 2026 Dates & Rates
 layout: landing
 permalink: /summer/register
 excerpt: 6 great weeks to spend the summer with us! Which will you choose?
@@ -69,17 +69,20 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <div class="subheader-text mb-4">2025 PRICING</div>
+      <div class="subheader-text mb-4">2026 PRICING</div>
     </div>
   </div>
   <div class="row mb-4">
     <div class="col-md-6 text-center">
       <div class="alert alert-primary">
-        Early Bird: $615 per Youth / $270 per Adult <br>
+        <strong>Early Bird Fee</strong><br />
+        Cradle of Liberty Council - $625 per Scout<br />
+        Out of Council - $635 per Scout <br />
         <em>(Based On The Per Scout Deposit)</em>
       </div>
       <div class="alert alert-secondary">
-        Regular: $645 per Youth / $270 per Adult
+        <strong>Regular Fee</strong><br />
+        $655 per Scout
       </div>
       <!-- <div class="alert alert-secondary">
         <strong>Second Week: $400 per Youth</strong><br>
@@ -92,14 +95,15 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
     </div>
     <div class="col-md-6 text-center">
       <div>
+        <strong>Adult Fee</strong><br />
+        $270 per Adult <br />
+        <hr>
         <strong>Every Unit Receives at least 2 Free Adults!</strong>
         <ul class="list-unstyled mb-0">
           <li>1-29 Scouts - 2 Free Leaders</li>
           <li>30-39 Scouts - 3 Free Leaders</li>
           <li>40-49 Scouts - 4 Free Leaders</li>
           <li>50-59 Scouts - 5 Free Leaders</li>
-          <li>60-69 Scouts - 6 Free Leaders</li>
-          <li>70-79 Scouts - 7 Free Leaders</li>
         </ul>       
       </div>
     </div>
@@ -107,7 +111,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
   <hr>
   <div class="row mt-4">
     <div class="col text-center">
-      <div class="subheader-text mb-4">2025 DATES</div>
+      <div class="subheader-text mb-4">2026 DATES</div>
     </div>
   </div>
   <div class="row">
@@ -147,13 +151,13 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
         <strong>Feb 1</strong> - Unit Deposit of $300 & $50/Scout to lock-in the Early Bird fee for each Scout.<br>
         <strong>March 31</strong> - An additional $150 due per person to register for Merit Badges and Programs.<br>
         <strong>May 15</strong> - Full Payment is due before campsite assignments and check-in times are assigned.<br>
-      </div>
+      </div><br />
       <div class="text-center">
         <strong>Please submit only one registration per unit.</strong><br>
-        If you have already registered and would like to update your registration follow the link in your confirmation email or email camping@colbsa.org.
-      </div>
+        If you have already registered and would like to update your registration follow the link in your confirmation email or email camping@scoutingphilly.org.
+      </div><br />
       <div class="text-center mt-3">
-        <strong>Partnered boy and girl troops should register for camp separately.</strong><br>
+        <strong>Partnered boy and girl troops not in the combined pilot program should register for camp separately.</strong><br>
         This will assist in transferring advancement progress from Black Pug into Scoutbook.
       </div>
     </div>    
