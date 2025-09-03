@@ -184,13 +184,9 @@ Redirect /Seek /summer/seek
 
 Redirect /webelos /summer/webelos
 
-Redirect /2025 /summer/register
-Redirect /2026 https://scoutingevent.com/525-102013
+Redirect /2026 /summer/register
 
 Redirect /halloween /yearround/halloween
-Redirect /pinewood https://scoutingevent.com/525-83504
-Redirect /pinewoodderby https://scoutingevent.com/525-83504
-Redirect /adultpinewood https://scoutingevent.com/525-83504
 
 Redirect /meritbadges /summer/merit-badges
 
@@ -202,9 +198,8 @@ Redirect /sms /alerts
 
 Redirect /ncs /event/ncs
 
-Redirect /staffinterest https://docs.google.com/forms/d/e/1FAIpQLSfchZ1e4FFwNCOLVz-oD_-Ugor17hIVS7E2xSG8qdED2QylxA/viewform
+# Redirect /staffinterest https://docs.google.com/forms/d/e/1FAIpQLSfchZ1e4FFwNCOLVz-oD_-Ugor17hIVS7E2xSG8qdED2QylxA/viewform
 
-Redirect /slideshow https://driveuploader.com/upload/FC4jBKIxRk/
 
 #TODO
 #downloads pages
