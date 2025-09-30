@@ -1,18 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+    crossorigin="anonymous"></script>
   <title>Stats</title>
 </head>
+
 <body>
   <div class="container">
     <div class="row mt-3">
-      <div class="col-12 col-md-6">
-        <h5 class="text-center text-uppercase fw-bold">2025 Resident Camp</h5>
+      <div class="col-12 col-md-6 offset-md-3">
+        <h5 class="text-center text-uppercase fw-bold">2026 Resident Camp</h5>
         <table class="table text-center">
           <thead>
             <tr>
@@ -27,7 +32,7 @@
           <tbody id="residentCamp"></tbody>
         </table>
       </div>
-      <div class="col-12 col-md-6">
+      <!-- <div class="col-12 col-md-6">
         <h5 class="text-center text-uppercase fw-bold">Paddlerama</h5>
         <table class="table text-center">
           <thead>
@@ -42,9 +47,9 @@
           </thead>
           <tbody id="paddlerama"></tbody>
         </table>
-      </div>
+      </div> -->
     </div>
-    <div class="row mt-3">
+    <!-- <div class="row mt-3">
       <div class="col-12 col-md-6">
         <h5 class="text-center text-uppercase fw-bold">Fawn Run</h5>
         <table class="table text-center">
@@ -77,16 +82,17 @@
           <tbody id="webelosWeek"></tbody>
         </table>
       </div>
-    </div>
+    </div> -->
   </div>
 
   <style>
-    thead, tr:last-child {
+    thead,
+    tr:last-child {
       font-weight: bold;
     }
   </style>
 
-<script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
   <script>
 
     async function getData(url) {
@@ -112,44 +118,44 @@
           }
           sessions.push(session)
         }
-        return(sessions)
+        return (sessions)
 
       } catch (error) {
         console.log(error);
       }
     }
 
-    async function residentCamp(url){
+    async function residentCamp(url) {
       const sessionDetails = [
         {
           "sessionName": "Week 1",
-          "goal":500,
-          "previousYear": 466
+          "goal": 250,
+          "previousYear": 405
         },
         {
           "sessionName": "Week 2",
-          "goal":300,
-          "previousYear": 337
+          "goal": 500,
+          "previousYear": 297
         },
         {
           "sessionName": "Week 3",
-          "goal":550,
-          "previousYear": 517
+          "goal": 500,
+          "previousYear": 486
         },
         {
           "sessionName": "Week 4",
-          "goal":550,
-          "previousYear": 553
+          "goal": 500,
+          "previousYear": 427
         },
         {
           "sessionName": "Week 5",
-          "goal":550,
-          "previousYear": 557
+          "goal": 500,
+          "previousYear": 322
         },
         {
           "sessionName": "Week 6",
-          "goal":350,
-          "previousYear": 327
+          "goal": 250,
+          "previousYear": 297
         }
       ]
 
@@ -163,18 +169,18 @@
       adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
       previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
       total = youthTotal + adultTotal
-      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 2800, "previousYear": previousTotal})
+      mergedData.push({ "sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 2500, "previousYear": previousTotal })
 
       const table = document.querySelector("#residentCamp");
-      for (session of mergedData){
-        let rowColorClass = session.youth/session.goal >= 1 ? 'table-success' : ''
+      for (session of mergedData) {
+        let rowColorClass = session.youth / session.goal >= 1 ? 'table-success' : ''
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
       }
     }
 
-    async function paddlerama(url){
+    async function paddlerama(url) {
       const sessionDetails = [
         {
           "sessionName": "Week 1",
@@ -218,18 +224,18 @@
       adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
       previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
       total = youthTotal + adultTotal
-      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal})
+      mergedData.push({ "sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal })
 
       const table = document.querySelector("#paddlerama");
-      for (session of mergedData){
-        let rowColorClass = session.youth/session.goal >= 1 ? 'table-success' : ''
+      for (session of mergedData) {
+        let rowColorClass = session.youth / session.goal >= 1 ? 'table-success' : ''
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
       }
     }
 
-    async function fawnRun(url){
+    async function fawnRun(url) {
       const sessionDetails = [
         {
           "sessionName": "Week 1",
@@ -273,18 +279,18 @@
       adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
       previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
       total = youthTotal + adultTotal
-      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal})
+      mergedData.push({ "sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal })
 
       const table = document.querySelector("#fawnRun");
-      for (session of mergedData){
-        let rowColorClass = session.youth/session.goal >= 1 ? 'table-success' : ''
+      for (session of mergedData) {
+        let rowColorClass = session.youth / session.goal >= 1 ? 'table-success' : ''
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
       }
     }
 
-    async function webelosWeek(url){
+    async function webelosWeek(url) {
       const sessionDetails = [
         {
           "sessionName": "Week 6",
@@ -303,19 +309,19 @@
       adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
       previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
       total = youthTotal + adultTotal
-      mergedData.push({"sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal})
+      mergedData.push({ "sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 20, "previousYear": previousTotal })
 
       const table = document.querySelector("#webelosWeek");
-      for (session of mergedData){
-        let rowColorClass = session.youth/session.goal >= 1 ? 'table-success' : ''
+      for (session of mergedData) {
+        let rowColorClass = session.youth / session.goal >= 1 ? 'table-success' : ''
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
       }
     }
 
-    async function main(){
-      await residentCamp('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=86539');
+    async function main() {
+      await residentCamp('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=102013');
       // await paddlerama('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80824');
       // await fawnRun('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80828');
       // await webelosWeek('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80830');
@@ -325,4 +331,5 @@
 
   </script>
 </body>
+
 </html>
