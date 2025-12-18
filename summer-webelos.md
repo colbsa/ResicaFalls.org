@@ -41,7 +41,7 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
   Registration for both Scouts and Adults includes a t-shirt and a patch!
 </div> -->
 
-<table class="table text-center table-sessions">
+<!-- <table class="table text-center table-sessions">
     <thead class="thead-inverse">
         <tr>
             <th class="text-center">Session</th>
@@ -56,7 +56,7 @@ Meals will be served in the Dining Hall and camping will be done in one of our c
             <td><a class="btn btn-primary" href="https://scoutingevent.com/525-92998">Register Now</a></td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 {% contentfor sidebar %}
 

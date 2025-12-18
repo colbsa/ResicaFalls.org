@@ -2,54 +2,47 @@
   date: 2025-12-15
   date-end:
   time:
-  link-text: Register For Camp
+  link-text: Learn More
   link-url: /summer/register
 
 - title: Summer Camp Early Bird Deadline
-  date: 2025-02-01
+  date: 2026-02-01
   date-end:
   time:
-  link-text: Register Now
+  link-text: Learn More
   link-url: /summer/register
 
 - title: Virtual Leaders Meeting
-  date: 2025-02-26
+  date: 2026-02-25
   date-end:
   time: 7:00 PM
   link-text: Register Now
-  link-url: https://colbsa.zoom.us/webinar/register/WN_TpTjtdikSg2PCXHgn6FNLg
+  link-url: https://scoutingphilly.zoom.us/webinar/register/WN_KKjOLUsiSOKwUMYpgAdBsQ
 
-- title: Service Day
-  date: 2025-03-29
+- title: Summer Camp Program Deposit Due
+  date: 2026-03-31
   date-end:
   time:
   link-text: Learn More
-  link-url: /volunteer
+  link-url: /summer/register
 
 - title: Virtual Leaders Meeting (SPL Edition)
-  date: 2025-04-07
+  date: 2026-04-07
   date-end:
   time: 7:00 PM
   link-text: Register Now
-  link-url: https://colbsa.zoom.us/webinar/register/WN_ig6YSg6nRgq_lFS2VgHv-g
-
-- title: Service Day
-  date: 2025-04-12
-  date-end:
-  time:
-  link-text: Learn More
-  link-url: /volunteer
-
-- title: Service Day
-  date: 2025-05-03
-  date-end:
-  time:
-  link-text: Learn More
-  link-url: /volunteer
+  link-url: https://scoutingphilly.zoom.us/webinar/register/WN_C4tEaNkdSdiElzjT5TghcA
 
 - title: Virtual Leaders Meeting
-  date: 2025-05-20
+  date: 2026-05-21
   date-end:
   time: 7:00 PM
   link-text: Register Now
-  link-url: https://colbsa.zoom.us/webinar/register/WN_7_TiwSL0R4qdG0wanp7-UA
+  link-url: https://scoutingphilly.zoom.us/webinar/register/WN_ECblgouXSQ6LfzXGb8SzGQ
+
+- title: Webelos & AOL Week Parents Meeting
+  date: 2026-07-06
+  date-end:
+  time: 7:00 PM
+  link-text:
+  link-url:
