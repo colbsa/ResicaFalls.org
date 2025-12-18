@@ -17,17 +17,10 @@
           url: /summer/merit-badges
           coming-soon-date:
           updated-date:
-        - name: Registration Change Request Form
-          url: https://247scouting.com/forms/?OrgKey=BSA525&id=3159
-          coming-soon-date:
-          updated-date:
         - name: 2025 Summer Camp Menu
           url: /files/summer/2025_Summer_Menu.pdf
           coming-soon-date:
           updated-date:
-        - name: Campsite, Meal, and Check-In Assignments
-          url: https://docs.google.com/spreadsheets/d/e/2PACX-1vTbfOgJoTwsvk86HAraARooJwv-9EJw5XmlQCeA5gcik9iuvwKnKk4S8qXgGRsSY8b7zNwF4xQBTewY/pubhtml
-          updated-date: 2025-06-11
     - name: General Summer Forms
       files:
         - name: Summer Camp Refund Policy
@@ -119,5 +112,9 @@
           updated-date:
         - name: Drug Admin Record
           url: /files/health_and_safety/Drug_Admin_Record.pdf
+          coming-soon-date:
+          updated-date:
+        - name: Additional Council Health & Safety Forms
+          url: https://scoutingphilly.org/safetyforms
           coming-soon-date:
           updated-date:
