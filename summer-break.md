@@ -1,6 +1,7 @@
 ---
 title: We're On A Break
 layout: page
+published: false
 permalink: /summer/break
 excerpt: After another exciting summer camp season, our leadership team is taking some much-needed time off.
 published: false

@@ -25,6 +25,7 @@
   time:
   link-text: Learn More
   link-url: /summer/register
+  highlight: true
 
 - title: Virtual Leaders Meeting (SPL Edition)
   date: 2026-04-07
@@ -32,6 +33,13 @@
   time: 7:00 PM
   link-text: Register Now
   link-url: https://scoutingphilly.zoom.us/webinar/register/WN_C4tEaNkdSdiElzjT5TghcA
+
+- title: Unami Lodge Spring Service 2
+  date: 2026-05-15
+  date-end: 2026-05-17
+  time:
+  link-text:
+  link-url:
 
 - title: Virtual Leaders Meeting
   date: 2026-05-21
@@ -44,5 +52,82 @@
   date: 2026-07-06
   date-end:
   time: 7:00 PM
+  link-text:
+  link-url:
+
+- title: National Camping School
+  date: 2026-05-30
+  date-end: 2026-06-05
+  time:
+  link-text: Learn More
+  link-url: /event/ncs
+
+- title: Scouts BSA Resident Camp - Week 1
+  date: 2026-06-28
+  date-end: 2026-07-04
+  time:
+  link-text: Register Now
+  link-url: /2026
+  highlight: true
+
+- title: Scouts BSA Resident Camp - Week 2
+  date: 2026-07-05
+  date-end: 2026-07-11
+  time:
+  link-text: Register Now
+  link-url: /2026
+  highlight: true
+
+- title: Scouts BSA Resident Camp - Week 3
+  date: 2026-07-12
+  date-end: 2026-07-18
+  time:
+  link-text: Register Now
+  link-url: /2026
+  highlight: true
+
+- title: Scouts BSA Resident Camp - Week 4
+  date: 2026-07-19
+  date-end: 2026-07-25
+  time:
+  link-text: Register Now
+  link-url: /2026
+  highlight: true
+
+- title: Scouts BSA Resident Camp - Week 5
+  date: 2026-07-26
+  date-end: 2026-08-01
+  time:
+  link-text: Register Now
+  link-url: /2026
+  highlight: true
+
+- title: Scouts BSA Resident Camp - Week 6
+  date: 2026-08-02
+  date-end: 2026-08-08
+  time:
+  link-text: Register Now
+  link-url: /2026
+  highlight: true
+
+- title: Webelos & AOL Week
+  date: 2026-08-02
+  date-end: 2026-08-08
+  time:
+  link-text: Register Now
+  link-url: /webelos
+  highlight: true
+
+- title: Unami Lodge Fall Fellowship
+  date: 2026-10-02
+  date-end: 2026-10-04
+  time:
+  link-text:
+  link-url:
+
+- title: Halloweekend at Resica Falls
+  date: 2026-10-24
+  date-end:
+  time:
   link-text:
   link-url:

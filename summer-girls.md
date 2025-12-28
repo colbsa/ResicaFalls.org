@@ -1,6 +1,7 @@
 ---
 title: Prepared For Girls
 layout: page
+published: false
 permalink: /summer/girls
 excerpt: Camp isn't just for the boys. We're working hard to make every camper feel welcome in camp.
 ---
