@@ -16,11 +16,8 @@ excerpt: Stay up to date on all of our upcoming events at Resica Falls Scout Res
     <tbody>
       {% for event in site.data.events %}
         <tr>
-          {% if event.highlight %}
-            <strong>
-          {% endif %}
-          <td class="align-middle">{{event.title}}</td>
-          <td class="align-middle">
+          <td class="align-middle {% if event.highlight %}font-weight-bold{% endif %}">{{event.title}}</td>
+          <td class="align-middle {% if event.highlight %}font-weight-bold{% endif %}">
           {% if event.date-end %}
             {% assign m = event.date | date: "%-m" %}
             {% assign n = event.date-end | date: "%-m" %}
@@ -33,9 +30,6 @@ excerpt: Stay up to date on all of our upcoming events at Resica Falls Scout Res
             {{event.date | date: "%B %-d, %Y"}}
           {% endif %}
           </td>
-          {% if event.highlight %}
-            </strong>
-          {% endif %}
           {% if event.link-url %}
             <td class="align-middle"><a href="{{event.link-url}}" class="btn btn-primary">{{event.link-text}}</a></td>
           {% else %}
