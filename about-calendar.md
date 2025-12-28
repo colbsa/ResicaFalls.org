@@ -34,7 +34,7 @@ excerpt: Stay up to date on all of our upcoming events at Resica Falls Scout Res
           {% endif %}
           </td>
           {% if event.highlight %}
-            <strong>
+            </strong>
           {% endif %}
           {% if event.link-url %}
             <td class="align-middle"><a href="{{event.link-url}}" class="btn btn-primary">{{event.link-text}}</a></td>
