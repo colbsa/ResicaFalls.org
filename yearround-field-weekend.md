@@ -1,6 +1,7 @@
 ---
 title: Field Event Weekend
 layout: page
+published: false
 permalink: /yearround/field-weekend
 excerpt:  
 ---

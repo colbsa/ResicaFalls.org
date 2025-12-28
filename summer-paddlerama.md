@@ -7,16 +7,13 @@ excerpt: Joins us for a week-long canoe trip of over 70 miles down the picturesq
 
 Joins us for a week-long canoe trip of over 70 miles down the picturesque Delaware River. Participants start out north of Big Springs Camp and end the week in the Delaware Water Gap. Enjoy the natural wonder of the Delaware River as you camp along its shores each evening. Learn the finer points of open-water canoeing while also following the principles of Leave No Trace as your unit shares in this wet and wild experience. This is a great opportunity for older Scouts who are looking for an exciting outdoor experience and love the water!
 
-Begin your week at Resica Falls Scout Reservation where you meet your guide for the week, get accustomed to the gear you’ll be using on the trek, and review your canoeing skills. With the help of your guide, you will also review the trip’s itinerary and prepare your previsions for the journey. Another key aspect of the trek is making sure everyone understands the key safety procedures while on the river, including BSA Safety Afloat.
+Begin your week at Resica Falls Scout Reservation where you meet your guide for the week, get accustomed to the gear you’ll be using on the trek, and review your canoeing skills. With the help of your guide, you will also review the trip’s itinerary and prepare your previsions for the journey. Another key aspect of the trek is making sure everyone understands the key safety procedures while on the river, including Scouting America's Safety Afloat procedures.
 
-To participate in Paddlerama, you must be a registered Scout and at least 13 years old at the time of participation. Units are highly encouraged to provide their own two-deep leadership for the trek. You must also have a current BSA Annual Health & Medical Record signed by a physician within the last 12 months. You must also be able to attain “Swimmer” classification during the swim test.
+To participate in Paddlerama, you must be a registered Scout and at least 13 years old at the time of participation. Units are required to provide their own two-deep leadership for the trek. You must also have a current Annual Health & Medical Record signed by a physician within the last 12 months. You must also be able to attain “Swimmer” classification during the swim test.
 
 This is the perfect program for Venturing Crews looking for a Tier III Adventure for next summer, or for older Scouts in a troop looking for something new. Sign-up now to participate in the adventure!
 
-<div class="row justify-content-md-center text-center mb-4">
-	<!-- <a class="col-md-4 btn btn-primary mb-4" href="https://scoutingevent.com/525-93001">Register Now</a> -->
-  	<a class="col-md-4 btn btn-primary btn-disabled mb-4">Coming Soon</a>
-</div>
+Paddlerama trips are scheduled upon request throughout the summer based on staff availability. To request more information and schedule a trip, please <a href="mailto:hello@resicafalls.org?subject=Paddlerama%20Request">send us an email</a>.
 
 <div class="row">
 	<div class=" col-6 col-md-3">
