@@ -25,6 +25,7 @@
   time:
   link-text: Learn More
   link-url: /summer/register
+  highlight: true
 
 - title: Virtual Leaders Meeting (SPL Edition)
   date: 2026-04-07
@@ -67,6 +68,7 @@
   time:
   link-text: Register Now
   link-url: /2026
+  highlight: true
 
 - title: Scouts BSA Resident Camp - Week 2
   date: 2026-07-05
@@ -74,6 +76,7 @@
   time:
   link-text: Register Now
   link-url: /2026
+  highlight: true
 
 - title: Scouts BSA Resident Camp - Week 3
   date: 2026-07-12
@@ -81,6 +84,7 @@
   time:
   link-text: Register Now
   link-url: /2026
+  highlight: true
 
 - title: Scouts BSA Resident Camp - Week 4
   date: 2026-07-19
@@ -88,6 +92,7 @@
   time:
   link-text: Register Now
   link-url: /2026
+  highlight: true
 
 - title: Scouts BSA Resident Camp - Week 5
   date: 2026-07-26
@@ -95,6 +100,7 @@
   time:
   link-text: Register Now
   link-url: /2026
+  highlight: true
 
 - title: Scouts BSA Resident Camp - Week 6
   date: 2026-08-02
@@ -102,6 +108,7 @@
   time:
   link-text: Register Now
   link-url: /2026
+  highlight: true
 
 - title: Webelos & AOL Week
   date: 2026-08-02
@@ -109,6 +116,7 @@
   time:
   link-text: Register Now
   link-url: /webelos
+  highlight: true
 
 - title: Unami Lodge Fall Fellowship
   date: 2026-10-02
