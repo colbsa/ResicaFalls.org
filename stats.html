@@ -32,41 +32,9 @@
           <tbody id="residentCamp"></tbody>
         </table>
       </div>
-      <!-- <div class="col-12 col-md-6">
-        <h5 class="text-center text-uppercase fw-bold">Paddlerama</h5>
-        <table class="table text-center">
-          <thead>
-            <tr>
-              <td scope="col" class="col-1">Session</td>
-              <td scope="col" class="col-1">Youth</td>
-              <td scope="col" class="col-1">Adult</td>
-              <td scope="col" class="col-1">Total</td>
-              <td scope="col" class="col-1">Goal</td>
-              <td scope="col" class="col-1">Last Year</td>
-            </tr>
-          </thead>
-          <tbody id="paddlerama"></tbody>
-        </table>
-      </div> -->
     </div>
-    <!-- <div class="row mt-3">
-      <div class="col-12 col-md-6">
-        <h5 class="text-center text-uppercase fw-bold">Fawn Run</h5>
-        <table class="table text-center">
-          <thead>
-            <tr>
-              <td scope="col" class="col-1">Session</td>
-              <td scope="col" class="col-1">Youth</td>
-              <td scope="col" class="col-1">Adult</td>
-              <td scope="col" class="col-1">Total</td>
-              <td scope="col" class="col-1">Goal</td>
-              <td scope="col" class="col-1">Last Year</td>
-            </tr>
-          </thead>
-          <tbody id="fawnRun"></tbody>
-        </table>
-      </div>
-      <div class="col-12 col-md-6">
+    <div class="row mt-3">
+      <div class="col-12 col-md-6 offset-md-3">
         <h5 class="text-center text-uppercase fw-bold">Webelos Week</h5>
         <table class="table text-center">
           <thead>
@@ -82,7 +50,7 @@
           <tbody id="webelosWeek"></tbody>
         </table>
       </div>
-    </div> -->
+    </div>
   </div>
 
   <style>
@@ -129,7 +97,7 @@
       const sessionDetails = [
         {
           "sessionName": "Week 1",
-          "goal": 250,
+          "goal": 400,
           "previousYear": 405
         },
         {
@@ -149,12 +117,12 @@
         },
         {
           "sessionName": "Week 5",
-          "goal": 500,
+          "goal": 300,
           "previousYear": 322
         },
         {
           "sessionName": "Week 6",
-          "goal": 250,
+          "goal": 300,
           "previousYear": 297
         }
       ]
@@ -169,11 +137,13 @@
       adultTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.adults); });
       previousTotal = await _.sumBy(mergedData, function (o) { return parseInt(o.previousYear); });
       total = youthTotal + adultTotal
-      mergedData.push({ "sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 2500, "previousYear": previousTotal })
+      mergedData.push({ "sessionName": "Total", "youth": youthTotal, "adults": adultTotal, "total": total, "goal": 2450, "previousYear": previousTotal })
 
       const table = document.querySelector("#residentCamp");
       for (session of mergedData) {
-        let rowColorClass = session.youth / session.goal >= 1 ? 'table-success' : ''
+        let rowColorClass = ''
+        if (session.youth / session.goal >= 0.8) rowColorClass = 'table-warning'
+        if (session.youth / session.goal >= 1) rowColorClass = 'table-success'
 
         const tableRow = `<tr class='${rowColorClass}'><td>${session.sessionName}</td><td>${session.youth}</td><td>${session.adults}</td><td>${session.total}</td><td>${session.goal}</td><td>${session.previousYear}</td></tr>`
         table.insertAdjacentHTML('beforeend', tableRow)
@@ -295,7 +265,7 @@
         {
           "sessionName": "Week 6",
           "goal": 50,
-          "previousYear": 53
+          "previousYear": 46
         }
       ]
 
@@ -324,7 +294,7 @@
       await residentCamp('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=102013');
       // await paddlerama('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80824');
       // await fawnRun('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80828');
-      // await webelosWeek('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=80830');
+      await webelosWeek('https://247scouting.com/api.php?o=BSA525&a=registration_count&v=108997');
     }
 
     main()
