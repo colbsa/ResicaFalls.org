@@ -1,12 +1,14 @@
 - section:
   name: Summer Camp Details
   subsections:
+    - name: Summer 2026
+      files:
+        - name: 2026 Program Guide
+          url: /files/summer/2026_Resica_Program_Guide.pdf
+          coming-soon-date:
+          updated-date:
     - name: Summer 2025
       files:
-        - name: 2025 Program Guide
-          url: /files/summer/2025_Resica_Program_Guide.pdf
-          coming-soon-date:
-          updated-date: 2025-04-05
         - name: 2025 Afternoon Adventure Guide
           url: /files/summer/2025_Afternoon_Adventure_Guide.pdf
         - name: 2025 Merit Badge Schedule
@@ -109,7 +111,7 @@
         - name: Unit Medication Storage Release
           url: /files/health_and_safety/Unit_Medication_Storage_Release.pdf
           coming-soon-date:
-          updated-date:
+          updated-date: 2026-01-26
         - name: Drug Admin Record
           url: /files/health_and_safety/Drug_Admin_Record.pdf
           coming-soon-date:
