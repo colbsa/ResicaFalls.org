@@ -7,6 +7,23 @@
 <div class="container content mt-3">
   <div class="row">
     <div class="col mx-auto">
+
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          if (new URLSearchParams(window.location.search).has("webinar")) {
+            document.getElementById("webinar-alert").style.display = "block";
+          }
+        });
+      </script>
+
+      <div id="webinar-alert" class="alert alert-success" role="alert" style="display:none;">
+        Thank you for joining today's webinar. We hope you found today's session helpful in planning your trip to camp!
+        <br /><br />
+        If you have additional questions please reach out to <a
+          href="mailto:hello@resicafalls.org">hello@resicafalls.org</a>
+        for assistance.
+      </div>
+
       <h1>{{page.title}}</h1>
       {% ifnothascontent sidebar %} {{content}} {% endifnothascontent %}
     </div>
