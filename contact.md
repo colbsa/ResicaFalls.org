@@ -16,7 +16,7 @@ alert:
     <h2>Send a Message</h2>
     <ul class="list-unstyled">
       <li><strong>Reservations -&nbsp;</strong>camping@colbsa.org</li>
-      <li><strong>Property (Hunting / Fishing) -&nbsp;</strong>ranger@resicafalls.org</li>
+      <li><strong>Property (Hunting / Fishing) -&nbsp;</strong>eric.brush@scouting.org</li>
       <li><strong>Everything Else -&nbsp;</strong>hello@resicafalls.org</li>
     </ul>
   </div>
