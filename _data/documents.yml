@@ -11,6 +11,10 @@
           url: /files/summer/2026_Merit_Badge_Schedule.pdf
           coming-soon-date:
           updated-date:
+        - name: Merit Badge Information
+          url: /meritbadges
+          coming-soon-date:
+          updated-date:
     - name: Summer 2025
       files:
         - name: 2025 Afternoon Adventure Guide
