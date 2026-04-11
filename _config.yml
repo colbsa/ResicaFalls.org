@@ -3,6 +3,9 @@ title: Resica Falls Scout Reservation
 logo: "/img/logo.png"
 description: "Spend your summer doing something amazing at Resica Falls Scout Reservation."
 
+alert:
+  text: <strong>Merit Badge and Program Registration Now Open!</strong> Having issues scheduling classes? Send us your questions at <a href="mailto:hello@resicafalls.org?body=Don't%20forget%20to%20include%20your%20Unit%20Number%2C%20Council%2C%20and%20Participant%20Name!">hello@resicafalls.org</a>. Our staff are standing by to help.
+
 plugins:
   - jekyll-paginate-v2
   - jekyll_picture_tag
