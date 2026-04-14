@@ -15,14 +15,19 @@
           url: /meritbadges
           coming-soon-date:
           updated-date:
+        - name: 2026 Summer Camp Sample Menu
+          url: /files/summer/2026_Summer_Menu.pdf
+          coming-soon-date:
+          updated-date:
+        - name: Dietary Information Disclosure Form
+          url: https://forms.gle/T7mshd1Yq1VnqZr66
+          coming-soon-date:
+          updated-date:
     - name: Summer 2025
       files:
         - name: 2025 Afternoon Adventure Guide
           url: /files/summer/2025_Afternoon_Adventure_Guide.pdf
-        - name: 2025 Summer Camp Menu
-          url: /files/summer/2025_Summer_Menu.pdf
-          coming-soon-date:
-          updated-date:
+
     - name: General Summer Forms
       files:
         - name: Summer Camp Refund Policy
