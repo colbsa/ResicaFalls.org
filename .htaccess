@@ -197,6 +197,8 @@ Redirect /texts /alerts
 Redirect /sms /alerts
 
 Redirect /ncs /event/ncs
+Redirect /NCS /event/ncs
+
 
 # Redirect /staffinterest https://docs.google.com/forms/d/e/1FAIpQLSfchZ1e4FFwNCOLVz-oD_-Ugor17hIVS7E2xSG8qdED2QylxA/viewform
 
