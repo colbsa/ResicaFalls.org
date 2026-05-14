@@ -13,6 +13,10 @@
           url: /files/summer/2026_Merit_Badge_Schedule.pdf
           coming-soon-date:
           updated-date:
+        - name: Registration Change Request Form
+          url: https://247scouting.com/forms/?OrgKey=BSA525&id=3159
+          coming-soon-date:
+          updated-date:
         - name: Merit Badge Information
           url: /meritbadges
           coming-soon-date:
@@ -25,11 +29,6 @@
           url: https://forms.gle/T7mshd1Yq1VnqZr66
           coming-soon-date:
           updated-date:
-    - name: Summer 2025
-      files:
-        - name: 2025 Afternoon Adventure Guide
-          url: /files/summer/2025_Afternoon_Adventure_Guide.pdf
-
     - name: General Summer Forms
       files:
         - name: Summer Camp Refund Policy
