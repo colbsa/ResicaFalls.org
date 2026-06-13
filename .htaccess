@@ -131,6 +131,12 @@ Redirect 301 /contact-us /contact
 Redirect 301 /dates-and-rates /summer/register
 Redirect 301 /2021 /summer/register
 Redirect 301 /2022 /summer/register
+Redirect 301 /2023 /summer/register
+Redirect 301 /2024 /summer/register
+Redirect 301 /2025 /summer/register
+Redirect 301 /2026 /summer/register
+Redirect /2027 https://scoutingevent.com/525-116698
+
 
 Redirect 301 /atv-program /summer/atv
 Redirect 301 /campership https://colbsa.org/camperships/
@@ -173,7 +179,7 @@ Redirect /brennerproject https://app.mobilecause.com/e/Kutx0A?vid=jgebx
 Redirect /savetom https://app.mobilecause.com/e/zL280w?vid=sq1wh
 Redirect /givingtuesday https://app.mobilecause.com/e/Kutx0A?vid=jgebx
 
-Redirect /ownyourhome /files/summer/2025_Own_Your_Home.pdf
+Redirect /ownyourhome /files/summer/2026_Own_Your_Home.pdf
 
 Redirect /ccip /files/RFSR-CCIP_2022-2027.pdf
 Redirect /CCIP /files/RFSR-CCIP_2022-2027.pdf
@@ -183,8 +189,6 @@ Redirect /SEEK /summer/seek
 Redirect /Seek /summer/seek
 
 Redirect /webelos /summer/webelos
-
-Redirect /2026 /summer/register
 
 Redirect /halloween /yearround/halloween
 
@@ -200,7 +204,7 @@ Redirect /ncs /event/ncs
 Redirect /NCS /event/ncs
 
 
-# Redirect /staffinterest https://docs.google.com/forms/d/e/1FAIpQLSfchZ1e4FFwNCOLVz-oD_-Ugor17hIVS7E2xSG8qdED2QylxA/viewform
+Redirect /staffinterest https://forms.gle/WNfKdr11rUE2zxUbA
 
 
 #TODO
