@@ -203,9 +203,11 @@ Redirect /sms /alerts
 Redirect /ncs /event/ncs
 Redirect /NCS /event/ncs
 
+Redirect /photos /slideshow
+Redirect /photo /slideshow
+Redirect /slideshow https://driveuploader.com/upload/aJ8OY4mfvZ/
 
 Redirect /staffinterest https://forms.gle/WNfKdr11rUE2zxUbA
-
 
 #TODO
 #downloads pages
