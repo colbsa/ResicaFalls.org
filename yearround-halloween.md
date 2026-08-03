@@ -44,7 +44,7 @@ excerpt:
       <div class="subheader-text">Campfire &amp; S’mores - 🎃</div>
       Sit around the campfire enjoying some s’mores, hot cocoa, ghost stories, and camp songs.
     </div>
-    div class="col-12 col-md-6 pb-3">
+    <div class="col-12 col-md-6 pb-3">
       <div class="subheader-text">Chef Nudge’s Haunted Kitchen - 🎃</div>
       Enjoy some delicious treats prepared by our spooky cook crew, including refreshments and sweet treats (additional cost).
     </div>
