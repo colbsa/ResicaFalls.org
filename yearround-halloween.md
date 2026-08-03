@@ -32,33 +32,40 @@ excerpt:
   <div class="row">
     <div class="col-12 col-md-6 pb-3">
       <div class="subheader-text">Halloween Activity Center - 🎃</div>
-      Participate in a variety of fall and Halloween focused activities, including crafts, games, a costume contest, and pumpkin painting.
+      Participate in a variety of fall and Halloween focused activities, including crafts, games, a costume contest, movies, and pumpkin painting.
     </div>
     <div class="col-12 col-md-6 pb-3">
-      <div class="subheader-text">Witch's House - 🎃</div>
-      <strong>NEW FOR 2025 -</strong> Stop by and visit a witch friend or two to hear a spooky story of yesteryear and learn of the secrets hidden in the forest...you never know who might pop up to see you!
+      <div class="subheader-text">The Wacky Wizard's Show- 🎃</div>
+      Stop by and be entertained by two of our favorite wizard friends. This show will be filled with some spooky stories and lots of laughs!
     </div>
   </div>
   <div class="row">
-    <div class="col-12 col-md-6 pb-3">
-      <div class="subheader-text">Haunted Hayride - 🎃🎃</div>
-      Enjoy a haunted ride in our run-a-way hay wagon surrounded by the eerie and mysterious creatures of the forest…who knows what might be lurking around!
-    </div>
     <div class="col-12 col-md-6 pb-3">
       <div class="subheader-text">Campfire &amp; S’mores - 🎃</div>
-      Sit around the campfire enjoying some s’mores, hot coco, ghost stories, and camp songs.
+      Sit around the campfire enjoying some s’mores, hot cocoa, ghost stories, and camp songs.
     </div>
-  </div>
-  <div class="row">
-    <div class="col-12 col-md-6 pb-3">
-      <div class="subheader-text">Haunted Lodge - 🎃🎃🎃</div>
-      Deep in the wood’s is our haunted lodge of frights, fears, and terrors that will surely give you scare that you won’t likely forget anytime soon!
-    </div>
-    <div class="col-12 col-md-6 pb-3">
+    div class="col-12 col-md-6 pb-3">
       <div class="subheader-text">Chef Nudge’s Haunted Kitchen - 🎃</div>
       Enjoy some delicious treats prepared by our spooky cook crew, including refreshments and sweet treats (additional cost).
     </div>
   </div>
+  <div class="row">
+    <div class="col-12 col-md-6 pb-3">
+      <div class="subheader-text">Mystery Maze - 🎃🎃</div>
+      <strong>New for 2026!</strong> Behind every twist and turn a new fright awaits in this newest attraction. Only the bravest will be able to make it out on the other side!
+    </div>
+    <div class="col-12 col-md-6 pb-3">
+      <div class="subheader-text">Twilight Hayride - 🎃🎃</div>
+      Enjoy a haunted ride in our run-a-way hay wagon surrounded by the eerie and mysterious creatures of the forest… who knows what might be lurking around!
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-12 col-md-6 pb-3">
+      <div class="subheader-text">Haunted House - 🎃🎃🎃</div>
+      Step inside and be transported Under the Sea to experience the frights and thrills that lie below in the deepest depths of the ocean.
+    </div>
+  </div>
+  
 
   <!-- Registration -->
   <div class="row">
