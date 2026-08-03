@@ -1,7 +1,7 @@
 ---
 title: Halloweekend at Resica Falls
 layout: event
-published: false
+published: true
 permalink: /yearround/halloween
 banner-img: /img/yearround/halloween.png
 banner-text: Halloweekend At Resica Falls
@@ -21,7 +21,7 @@ excerpt:
   <!-- Activities -->
   <div class="row">
     <div class="col alert text-center alert-page alert-primary mb-0">
-      <strong>Mark Your Calendars - Halloweekend will be back 10/25/2025</strong>
+      <strong>Mark Your Calendars - Halloweekend will be back 10/24/2026</strong>
     </div>
   </div>
   <div class="row">
