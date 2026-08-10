@@ -5,6 +5,7 @@ published: true
 permalink: /yearround/halloween
 banner-img: /img/yearround/halloween.png
 banner-text: Halloweekend At Resica Falls
+banner-sub-text: October 24, 2026
 excerpt:
 ---
 
@@ -20,22 +21,17 @@ excerpt:
 <div class="container">
   <!-- Activities -->
   <div class="row">
-    <div class="col alert text-center alert-page alert-primary mb-0">
-      <strong>Mark Your Calendars - Halloweekend will be back 10/24/2026</strong>
-    </div>
-  </div>
-  <div class="row">
     <div class="col pb-3">
       <h2 class="text-center">Spooky Activities</h2>
     </div>
   </div>
   <div class="row">
     <div class="col-12 col-md-6 pb-3">
-      <div class="subheader-text">Halloween Activity Center - 🎃</div>
+      <div class="subheader-text">Halloween Family Fun Center - 🎃</div>
       Participate in a variety of fall and Halloween focused activities, including crafts, games, a costume contest, movies, and pumpkin painting.
     </div>
     <div class="col-12 col-md-6 pb-3">
-      <div class="subheader-text">The Wacky Wizard's Show- 🎃</div>
+      <div class="subheader-text">The Wacky Wizard's Show - 🎃</div>
       Stop by and be entertained by two of our favorite wizard friends. This show will be filled with some spooky stories and lots of laughs!
     </div>
   </div>
