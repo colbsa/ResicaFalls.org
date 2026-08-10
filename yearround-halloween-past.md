@@ -2,6 +2,7 @@
 title: Halloweekend at Resica Falls - Thank You!
 layout: event
 permalink: /yearround/halloween
+published: false
 ---
 
 <style>
