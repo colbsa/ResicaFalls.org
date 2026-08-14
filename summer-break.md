@@ -4,7 +4,6 @@ layout: page
 published: true
 permalink: /summer/break
 excerpt: After another exciting summer camp season, our leadership team is taking some much-needed time off.
-published: false
 ---
 
 Greetings!
