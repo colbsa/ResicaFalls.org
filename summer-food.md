@@ -11,7 +11,7 @@ Campers and adult leaders with dietary restrictions can note their individual re
 
 <a class="btn btn-primary" href="/files/summer/2026_Summer_Menu.pdf" target="_blank">View Sample Menu</a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckn9BBLiOmXOBd53HbhHnCcVVWCrIFGOfevqPWikBqUuVFkg/viewform?embedded=true" width="100%" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSckn9BBLiOmXOBd53HbhHnCcVVWCrIFGOfevqPWikBqUuVFkg/viewform?embedded=true" width="100%" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> -->
 
 {% contentfor sidebar %}
 
