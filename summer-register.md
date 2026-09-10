@@ -1,5 +1,5 @@
 ---
-title: 2026 Dates & Rates
+title: 2027 Dates & Rates
 layout: landing
 permalink: /summer/register
 excerpt: 6 great weeks to spend the summer with us! Which will you choose?
@@ -69,16 +69,14 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <div class="subheader-text mb-4">2026 PRICING</div>
+      <div class="subheader-text mb-4">2027 PRICING</div>
     </div>
   </div>
   <div class="row mb-4">
     <div class="col-md-6 text-center">
       <div class="alert alert-primary">
         <strong>Early Bird Fee</strong><br />
-        Cradle of Liberty Council - $625 per Scout<br />
-        Out of Council - $635 per Scout <br />
-        <em>(Based On The Per Scout Deposit)</em>
+        $635 per Scout
       </div>
       <div class="alert alert-secondary">
         <strong>Regular Fee</strong><br />
@@ -100,10 +98,9 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
         <hr>
         <strong>Every Unit Receives at least 2 Free Adults!</strong>
         <ul class="list-unstyled mb-0">
-          <li>1-29 Scouts - 2 Free Leaders</li>
-          <li>30-39 Scouts - 3 Free Leaders</li>
-          <li>40-49 Scouts - 4 Free Leaders</li>
-          <li>50-59 Scouts - 5 Free Leaders</li>
+          <li>1-24 Scouts - 2 Free Leaders</li>
+          <li>25-34 Scouts - 3 Free Leaders</li>
+          <li>35-44 Scouts - 4 Free Leaders</li>
         </ul>       
       </div>
     </div>
@@ -111,7 +108,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
   <hr>
   <div class="row mt-4">
     <div class="col text-center">
-      <div class="subheader-text mb-4">2026 DATES</div>
+      <div class="subheader-text mb-4">2027 DATES</div>
     </div>
   </div>
   <div class="row">
@@ -157,7 +154,7 @@ excerpt: 6 great weeks to spend the summer with us! Which will you choose?
         If you have already registered and would like to update your registration follow the link in your confirmation email or email camping@scoutingphilly.org.
       </div><br />
       <div class="text-center mt-3">
-        <strong>Partnered boy and girl troops not in the combined pilot program should register for camp separately.</strong><br>
+        <strong>Partnered boy and girl troops who are not family units should register for camp separately.</strong><br>
         This will assist in transferring advancement progress from Black Pug into Scoutbook.
       </div>
     </div>    
